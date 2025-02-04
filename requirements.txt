@@ -1,0 +1,6 @@
+selenium
+loguru
+pandas
+fastapi
+fastapi[standard]
+uvicorn

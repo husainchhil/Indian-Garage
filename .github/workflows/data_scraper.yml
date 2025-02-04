@@ -1,0 +1,70 @@
+name: Car and Bike Data Extractor
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-data-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Run Model data extractor script
+        run: python scrapers/scrape_models.py
+
+      - name: Commit model files
+        run: |
+          git add .
+          git commit -m "Update car and bike model data" || echo "No changes to commit"
+          git push || echo "No changes to push"
+
+      - name: Run Variant data extractor script
+        run: python scrapers/scrape_variants.py
+
+      - name: Commit variant files
+        run: |
+          git add .
+          git commit -m "Update car and bike variant data" || echo "No changes to commit"
+          git push || echo "No changes to push"
+
+      - name: Run Specs data extractor script
+        run: python scrapers/scrape_specs.py
+
+      - name: Commit specs files
+        run: |
+          git add .
+          git commit -m "Update car and bike specs data" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
+
+      # - name: Checkout API branch
+      #   run: |
+      #     git checkout API
+
+      # - name: Copy data.json to API branch
+      #   run: |
+      #     git checkout main -- data.json
+      #     git add data.json
+      #     git commit -m "Update car and bike specs data on API branch" || echo "No changes to commit"
+      #     git push origin API || echo "No changes to push"
