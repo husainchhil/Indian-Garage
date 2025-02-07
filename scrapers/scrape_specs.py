@@ -3,7 +3,7 @@ from __init__ import *
 
 for vehicle in vehicle_types:
     browser = get_browser(maximized=False)
-    df = pd.read_csv(f'../{vehicle}/variants.csv')
+    df = pd.read_csv(f'{vehicle}/variants.csv')
     logger.info(f"Starting to fetch specs for {vehicle}s")
 
     data = {}
@@ -112,7 +112,7 @@ for vehicle in vehicle_types:
 
     if not os.path.exists(vehicle):
         os.makedirs(vehicle)
-    with open(f'../{vehicle}/specs.json', 'w') as f:
+    with open(f'{vehicle}/specs.json', 'w') as f:
         json.dump(data, f, indent=4, sort_keys=True)
     logger.success(f"Completed fetching specs. Saved to {vehicle}/specs.json")
 

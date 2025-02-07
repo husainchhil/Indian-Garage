@@ -3,7 +3,7 @@ from __init__ import *
 
 for vehicle in vehicle_types:
     browser = get_browser(maximized=False)
-    df = pd.read_csv(f'../{vehicle}/models.csv')
+    df = pd.read_csv(f'{vehicle}/models.csv')
 
     links = df['model_link'].tolist()
     model = df['model'].tolist()
@@ -44,7 +44,7 @@ for vehicle in vehicle_types:
 
     if not os.path.exists(vehicle):
         os.makedirs(vehicle)
-    df.to_csv(f'../{vehicle}/variants.csv', index=False)
+    df.to_csv(f'{vehicle}/variants.csv', index=False)
     logger.info(f'Saved {vehicle} variants to {vehicle}/variants.csv')
     
     time.sleep(5)

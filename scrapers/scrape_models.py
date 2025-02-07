@@ -10,7 +10,7 @@ for vehicle in vehicle_types:
     browser.get(f"https://www.zigwheels.com/new{vehicle}s")
 
     df = get_model_data(browser)
-    df.to_csv(f'../{vehicle}/models.csv', index=False)
+    df.to_csv(f'{vehicle}/models.csv', index=False)
     browser.quit()
     logger.info(f'Saved {vehicle} models to {vehicle}/models.csv')
     time.sleep(5)
