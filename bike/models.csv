@@ -1,16 +1,16 @@
 brand,model,model_link
-tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160
-tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider
+tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125
+tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160
 tvs,jupiter,https://www.zigwheels.com/tvs-bikes/jupiter
 tvs,apache rtr 310,https://www.zigwheels.com/tvs-bikes/apache-rtr-310
 tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin
-tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125
-tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v
 tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric
+tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v
+tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125
 tvs,xl100,https://www.zigwheels.com/tvs-bikes/xl100
-tvs,apache rr 310,https://www.zigwheels.com/tvs-bikes/apache-rr-310
 tvs,sport,https://www.zigwheels.com/tvs-bikes/sport
+tvs,apache rr 310,https://www.zigwheels.com/tvs-bikes/apache-rr-310
 tvs,radeon,https://www.zigwheels.com/tvs-bikes/radeon
 tvs,apache rtr 180,https://www.zigwheels.com/tvs-bikes/apache-rtr-180
 tvs,apache rtr 200 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-200-4v
@@ -21,51 +21,54 @@ tvs,x electric scooter,https://www.zigwheels.com/tvs-bikes/x-electric-scooter
 tvs,jupiter cng,https://www.zigwheels.com/tvs-bikes/jupiter-cng
 tvs,fiero 125,https://www.zigwheels.com/tvs-bikes/fiero-125
 tvs,vision iqube concept,https://www.zigwheels.com/tvs-bikes/vision-iqube-concept
+tvs,2025 iqube st concept,https://www.zigwheels.com/tvs-bikes/2025-iqube-st-concept
 tvs,rtsx,https://www.zigwheels.com/tvs-bikes/rtsx
 tvs,concept eb1,https://www.zigwheels.com/tvs-bikes/concept-eb1
 tvs,x nfe concept,https://www.zigwheels.com/tvs-bikes/x-nfe-concept
-tvs,2025 iqube st concept,https://www.zigwheels.com/tvs-bikes/2025-iqube-st-concept
 tvs,iqube st,https://www.zigwheels.com/tvs-bikes/iqube-st
 tvs,iqube s,https://www.zigwheels.com/tvs-bikes/iqube-s
 bajaj,pulsar ns200,https://www.zigwheels.com/bajaj-bikes/pulsar-200ns
 bajaj,pulsar 125,https://www.zigwheels.com/bajaj-bikes/pulsar-125
 bajaj,pulsar ns 125,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125
 bajaj,pulsar ns160,https://www.zigwheels.com/bajaj-bikes/pulsar-150ns
-bajaj,pulsar n160,https://www.zigwheels.com/bajaj-bikes/pulsar-n160
 bajaj,pulsar 150,https://www.zigwheels.com/bajaj-bikes/pulsar-150
-bajaj,pulsar 220 f,https://www.zigwheels.com/bajaj-bikes/pulsar-220-f
+bajaj,pulsar n160,https://www.zigwheels.com/bajaj-bikes/pulsar-n160
+bajaj,chetak 3501,https://www.zigwheels.com/bajaj-bikes/chetak
 bajaj,pulsar ns400z,https://www.zigwheels.com/bajaj-bikes/pulsar-ns400
-bajaj,chetak,https://www.zigwheels.com/bajaj-bikes/chetak
+bajaj,pulsar 220 f,https://www.zigwheels.com/bajaj-bikes/pulsar-220-f
 bajaj,freedom 125,https://www.zigwheels.com/bajaj-bikes/freedom-125
 bajaj,dominar 400,https://www.zigwheels.com/bajaj-bikes/dominar-400
-bajaj,pulsar n150,https://www.zigwheels.com/bajaj-bikes/pulsar-n150
 bajaj,pulsar rs200,https://www.zigwheels.com/bajaj-bikes/pulsar-rs-200
+bajaj,pulsar n150,https://www.zigwheels.com/bajaj-bikes/pulsar-n150
 bajaj,platina 110,https://www.zigwheels.com/bajaj-bikes/platina
 bajaj,pulsar n250,https://www.zigwheels.com/bajaj-bikes/pulsar-n250
 bajaj,platina 100,https://www.zigwheels.com/bajaj-bikes/platina-100
 bajaj,dominar 250,https://www.zigwheels.com/bajaj-bikes/dominar-250
+bajaj,pulsar n125,https://www.zigwheels.com/bajaj-bikes/pulsar-n125
 bajaj,avenger street 160,https://www.zigwheels.com/bajaj-bikes/avenger-160
 bajaj,ct 110x,https://www.zigwheels.com/bajaj-bikes/ct110
-bajaj,pulsar n125,https://www.zigwheels.com/bajaj-bikes/pulsar-n125
 bajaj,avenger cruise 220,https://www.zigwheels.com/bajaj-bikes/avenger-220-cruise
 bajaj,avenger 400,https://www.zigwheels.com/bajaj-bikes/avenger-400
 bajaj,avenger 220 street,https://www.zigwheels.com/bajaj-bikes/avenger-220-street
-bajaj,chetak [2020 - 2024],https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024
+bajaj,chetak 3502,https://www.zigwheels.com/bajaj-bikes/chetak-3502
+bajaj,chetak 2903,https://www.zigwheels.com/bajaj-bikes/chetak-2903
+bajaj,chetak 3503,https://www.zigwheels.com/bajaj-bikes/chetak-3503
+bajaj,chetak 3202,https://www.zigwheels.com/bajaj-bikes/chetak-3202
 bajaj,pulsar adventure bike,https://www.zigwheels.com/bajaj-bikes/pulsar-adventure-bike
-royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350
+royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter
 royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650
 royal enfield,meteor 350,https://www.zigwheels.com/royal-enfield-bikes/meteor
 royal enfield,bullet 350,https://www.zigwheels.com/royal-enfield-bikes/bullet-350
-royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450
 royal enfield,himalayan 450,https://www.zigwheels.com/royal-enfield-bikes/himalayan
+royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650
 royal enfield,super meteor 650,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650
 royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun
 royal enfield,bullet 650,https://www.zigwheels.com/royal-enfield-bikes/bullet-650
 royal enfield,scram 411,https://www.zigwheels.com/royal-enfield-bikes/scram
-royal enfield,classic 650,https://www.zigwheels.com/royal-enfield-bikes/classic-650
 royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650
+royal enfield,classic 650,https://www.zigwheels.com/royal-enfield-bikes/classic-650
 royal enfield,scram 440,https://www.zigwheels.com/royal-enfield-bikes/scram-440
 royal enfield,goan classic 350,https://www.zigwheels.com/royal-enfield-bikes/goan-classic-350
 royal enfield,flying flea c6,https://www.zigwheels.com/royal-enfield-bikes/royal-enfield-electric-bike
@@ -74,7 +77,7 @@ royal enfield,continental gt 450,https://www.zigwheels.com/royal-enfield-bikes/c
 royal enfield,interceptor 750,https://www.zigwheels.com/royal-enfield-bikes/interceptor-750
 royal enfield,himalayan electric,https://www.zigwheels.com/royal-enfield-bikes/himalayan-electric
 royal enfield,constellation,https://www.zigwheels.com/royal-enfield-bikes/constellation
-bgauss,c12i max,https://www.zigwheels.com/bgauss-bikes/c12i-max
+bgauss,c12i,https://www.zigwheels.com/bgauss-bikes/c12i-max
 bgauss,ruv 350,https://www.zigwheels.com/bgauss-bikes/ruv350
 yamaha,mt 15 v2.0,https://www.zigwheels.com/yamaha-bikes/mt-15
 yamaha,r15 v4,https://www.zigwheels.com/yamaha-bikes/r15-v4
@@ -86,15 +89,15 @@ yamaha,aerox 155,https://www.zigwheels.com/yamaha-bikes/aerox-155
 yamaha,fzs-fi v4,https://www.zigwheels.com/yamaha-bikes/fzs-fi-v4
 yamaha,fascino 125 fi hybrid,https://www.zigwheels.com/yamaha-bikes/fascino
 yamaha,yzf r1,https://www.zigwheels.com/yamaha-bikes/yzf-r1
-yamaha,fz-fi version 3.0,https://www.zigwheels.com/yamaha-bikes/fz-fi-version-3
 yamaha,xsr 155,https://www.zigwheels.com/yamaha-bikes/xsr155
+yamaha,fz-fi version 3.0,https://www.zigwheels.com/yamaha-bikes/fz-fi-version-3
 yamaha,mt-09,https://www.zigwheels.com/yamaha-bikes/mt-09
 yamaha,fz-x,https://www.zigwheels.com/yamaha-bikes/fz-x
 yamaha,mt-03,https://www.zigwheels.com/yamaha-bikes/mt-03
 yamaha,xsr125,https://www.zigwheels.com/yamaha-bikes/xsr125
 yamaha,r7,https://www.zigwheels.com/yamaha-bikes/r7
-yamaha,r3,https://www.zigwheels.com/yamaha-bikes/2021-r3
 yamaha,nmax 155,https://www.zigwheels.com/yamaha-bikes/nmax-155
+yamaha,r3,https://www.zigwheels.com/yamaha-bikes/2021-r3
 yamaha,mt-07,https://www.zigwheels.com/yamaha-bikes/mt-07
 yamaha,2025 fz-s fi hybrid,https://www.zigwheels.com/yamaha-bikes/2025-fz-s-fi
 yamaha,neo's,https://www.zigwheels.com/yamaha-bikes/neos
@@ -103,28 +106,29 @@ yamaha,filano,https://www.zigwheels.com/yamaha-bikes/filano
 yamaha,2025 r3,https://www.zigwheels.com/yamaha-bikes/r3
 yamaha,lander 250 ,https://www.zigwheels.com/yamaha-bikes/lander-250
 yamaha,yzf-r9,https://www.zigwheels.com/yamaha-bikes/yzf-r9
-honda,sp125,https://www.zigwheels.com/honda-bikes/sp125
 honda,activa 6g,https://www.zigwheels.com/honda-bikes/activa-6g
+honda,sp125,https://www.zigwheels.com/honda-bikes/sp125
 honda,shine,https://www.zigwheels.com/honda-bikes/cb-shine
 honda,activa 125,https://www.zigwheels.com/honda-bikes/activa-125
 honda,sp160,https://www.zigwheels.com/honda-bikes/sp160
-honda,activa e,https://www.zigwheels.com/honda-bikes/activa-electric
 honda,dio,https://www.zigwheels.com/honda-bikes/dio
 honda,activa 7g,https://www.zigwheels.com/honda-bikes/activa-7g
 honda,shine 100,https://www.zigwheels.com/honda-bikes/shine-100
-honda,hornet 2.0,https://www.zigwheels.com/honda-bikes/hornet-20
 honda,hness cb350,https://www.zigwheels.com/honda-bikes/hness-cb350
-honda,dio 125,https://www.zigwheels.com/honda-bikes/dio-125
+honda,activa e,https://www.zigwheels.com/honda-bikes/activa-electric
 honda,cb200x,https://www.zigwheels.com/honda-bikes/cb200x
+honda,dio 125,https://www.zigwheels.com/honda-bikes/dio-125
+honda,hornet 2.0,https://www.zigwheels.com/honda-bikes/hornet-20
 honda,livo,https://www.zigwheels.com/honda-bikes/livo
 honda,cb300r,https://www.zigwheels.com/honda-bikes/cb300r
 honda,cb350,https://www.zigwheels.com/honda-bikes/cb350
 honda,cb350rs,https://www.zigwheels.com/honda-bikes/cb350rs
 honda,cb300f,https://www.zigwheels.com/honda-bikes/cb300f
-honda,cbr150r,https://www.zigwheels.com/honda-bikes/cbr-150-r
+honda,hornet 2.0 [2020-2024],https://www.zigwheels.com/honda-bikes/hornet-20
 honda,cd 110 dream,https://www.zigwheels.com/honda-bikes/cd-110-dream
-honda,pcx160,https://www.zigwheels.com/honda-bikes/pcx150
+honda,cbr150r,https://www.zigwheels.com/honda-bikes/cbr-150-r
 honda,unicorn,https://www.zigwheels.com/honda-bikes/unicorn
+honda,pcx160,https://www.zigwheels.com/honda-bikes/pcx150
 honda,cbr650r,https://www.zigwheels.com/honda-bikes/cbr650r
 honda,gold wing,https://www.zigwheels.com/honda-bikes/gold-wing-gl-1800
 honda,forza 350,https://www.zigwheels.com/honda-bikes/forza-350
@@ -132,38 +136,40 @@ honda,sp125 [2019-2024],https://www.zigwheels.com/honda-bikes/sp125-2019-2024
 honda,nx500,https://www.zigwheels.com/honda-bikes/nx500
 honda,cb650r,https://www.zigwheels.com/honda-bikes/cb650r
 honda,rebel 500,https://www.zigwheels.com/honda-bikes/rebel-500
-honda,crf1100l africa twin,https://www.zigwheels.com/honda-bikes/crf-1100l-africa-twin
-honda,cbr500r,https://www.zigwheels.com/honda-bikes/cbr500r
-honda,rebel 300,https://www.zigwheels.com/honda-bikes/rebel-300
-honda,crf300l,https://www.zigwheels.com/honda-bikes/crf300l
-honda,cb500f,https://www.zigwheels.com/honda-bikes/cb500f
 honda,2025 activa,https://www.zigwheels.com/honda-bikes/2025-activa
+honda,crf1100l africa twin,https://www.zigwheels.com/honda-bikes/crf-1100l-africa-twin
+honda,rebel 300,https://www.zigwheels.com/honda-bikes/rebel-300
+honda,cbr500r,https://www.zigwheels.com/honda-bikes/cbr500r
+honda,cb500f,https://www.zigwheels.com/honda-bikes/cb500f
+honda,crf300l,https://www.zigwheels.com/honda-bikes/crf300l
 honda,qc1,https://www.zigwheels.com/honda-bikes/qc1
 honda,cb300f flex-fuel,https://www.zigwheels.com/honda-bikes/cb300f-flex-fuel
-honda,cl500 scrambler,https://www.zigwheels.com/honda-bikes/cl500-scrambler
 honda,xl750 transalp,https://www.zigwheels.com/honda-bikes/transalp
 honda,cb1000r,https://www.zigwheels.com/honda-bikes/cb1000r-plus
+honda,cl500 scrambler,https://www.zigwheels.com/honda-bikes/cl500-scrambler
 honda,rebel 1100,https://www.zigwheels.com/honda-bikes/rebel-1100
 honda,cb350 cruiser,https://www.zigwheels.com/honda-bikes/cb350-cruiser
 honda,activa 125 [2019-2024],https://www.zigwheels.com/honda-bikes/activa-125-2019-2024
+honda,dio (2020-2024),https://www.zigwheels.com/honda-bikes/dio-2020-2024
+honda,livo [2020-2024],https://www.zigwheels.com/honda-bikes/livo-2020-2024
+honda,nx200,https://www.zigwheels.com/honda-bikes/nx200
+honda,shine 125,https://www.zigwheels.com/honda-bikes/shine-125
 honda,motocompacto,https://www.zigwheels.com/honda-bikes/motocompacto
 honda,sp160 [2023-2024],https://www.zigwheels.com/honda-bikes/sp160-2023-2024
-honda,livo [2020-2024],https://www.zigwheels.com/honda-bikes/livo-2020-2024
-honda,dio (2020-2024),https://www.zigwheels.com/honda-bikes/dio-2020-2024
-hero moto corp,hf deluxe,https://www.zigwheels.com/hero-bikes/hf-deluxe
-hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec
-hero moto corp,xtreme 125r,https://www.zigwheels.com/hero-bikes/xtreme-125r
 hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus
+hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec
+hero moto corp,hf deluxe,https://www.zigwheels.com/hero-bikes/hf-deluxe
+hero moto corp,xtreme 125r,https://www.zigwheels.com/hero-bikes/xtreme-125r
 hero moto corp,super splendor,https://www.zigwheels.com/hero-bikes/super-splendor
 hero moto corp,xpulse 200 4v,https://www.zigwheels.com/hero-bikes/xpulse-200
 hero moto corp,xtreme 160r,https://www.zigwheels.com/hero-bikes/xtreme-160r
-hero moto corp,mavrick 440,https://www.zigwheels.com/hero-bikes/mavrick-440
 hero moto corp,glamour,https://www.zigwheels.com/hero-bikes/glamour
+hero moto corp,mavrick 440,https://www.zigwheels.com/hero-bikes/mavrick-440
 hero moto corp,pleasure plus,https://www.zigwheels.com/hero-bikes/pleasure-2019
 hero moto corp,karizma xmr,https://www.zigwheels.com/hero-bikes/karizma-xmr-210
 hero moto corp,super splendor xtec,https://www.zigwheels.com/hero-bikes/super-splendor-xtec
-hero moto corp,glamour xtec,https://www.zigwheels.com/hero-bikes/glamour-xtec
 hero moto corp,xoom 110,https://www.zigwheels.com/hero-bikes/xoom-110
+hero moto corp,glamour xtec,https://www.zigwheels.com/hero-bikes/glamour-xtec
 hero moto corp,destini 125,https://www.zigwheels.com/hero-bikes/destini-125
 hero moto corp,xtreme 160r 4v,https://www.zigwheels.com/hero-bikes/xtreme-160r-4v
 hero moto corp,passion plus,https://www.zigwheels.com/hero-bikes/passion-plus
@@ -176,8 +182,8 @@ hero moto corp,xpulse 421,https://www.zigwheels.com/hero-bikes/450-adv
 hero moto corp,karizma xmr 250,https://www.zigwheels.com/hero-bikes/karizma-xmr-250
 hero moto corp,destini prime,https://www.zigwheels.com/hero-bikes/destini-prime
 hero moto corp,emaestro,https://www.zigwheels.com/hero-bikes/emaestro
-hero moto corp,xtreme 400s,https://www.zigwheels.com/hero-bikes/xtreme-400s
 hero moto corp,splendor electric,https://www.zigwheels.com/hero-bikes/splendor-electric
+hero moto corp,xtreme 400s,https://www.zigwheels.com/hero-bikes/xtreme-400s
 hero moto corp,mavrick 440 scrambler,https://www.zigwheels.com/hero-bikes/mavrick-440-scrambler
 suzuki,access 125,https://www.zigwheels.com/suzuki-bikes/access-125
 suzuki,hayabusa,https://www.zigwheels.com/suzuki-bikes/hayabusa
@@ -192,33 +198,31 @@ suzuki,burgman electric,https://www.zigwheels.com/suzuki-bikes/burgman-electric
 suzuki,katana,https://www.zigwheels.com/suzuki-bikes/katana
 suzuki,gsx-8r,https://www.zigwheels.com/suzuki-bikes/gsx-8r
 suzuki,gsx-s1000,https://www.zigwheels.com/suzuki-bikes/gsx-s1000
-suzuki,v-strom 800 de,https://www.zigwheels.com/suzuki-bikes/v-strom-800-de
-suzuki,sv650,https://www.zigwheels.com/suzuki-bikes/sv650
+suzuki,v-strom sx,https://www.zigwheels.com/suzuki-bikes/v-strom-sx
 suzuki,e access ,https://www.zigwheels.com/suzuki-bikes/e-access
+suzuki,sv650,https://www.zigwheels.com/suzuki-bikes/sv650
+suzuki,v-strom 800 de,https://www.zigwheels.com/suzuki-bikes/v-strom-800-de
 suzuki,gixxer sf 250 flex fuel,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250-flex-fuel
 suzuki,gixxer sf 250,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250
-suzuki,v-strom sx,https://www.zigwheels.com/suzuki-bikes/v-strom-sx
 suzuki,rm z450,https://www.zigwheels.com/suzuki-bikes/rm-z450
 suzuki,rm z250,https://www.zigwheels.com/suzuki-bikes/rm-z250
 ktm,duke 390,https://www.zigwheels.com/ktm-bikes/duke-390
 ktm,200 duke,https://www.zigwheels.com/ktm-bikes/duke-200
-ktm,125 duke,https://www.zigwheels.com/ktm-bikes/125-duke
 ktm,250 duke,https://www.zigwheels.com/ktm-bikes/duke-250
+ktm,125 duke,https://www.zigwheels.com/ktm-bikes/125-duke
 ktm,rc 390,https://www.zigwheels.com/ktm-bikes/rc-390
 ktm,rc 200,https://www.zigwheels.com/ktm-bikes/2021-rc-200
 ktm,rc 125,https://www.zigwheels.com/ktm-bikes/rc-125
-ktm,electric scooter,https://www.zigwheels.com/ktm-bikes/electric-scooter
 ktm,390 adventure,https://www.zigwheels.com/ktm-bikes/390-adventure-s
+ktm,electric scooter,https://www.zigwheels.com/ktm-bikes/electric-scooter
 ktm,1390 super duke r,https://www.zigwheels.com/ktm-bikes/1390-super-duke-r
 ktm,250 adventure,https://www.zigwheels.com/ktm-bikes/2025-250-adventure
-ktm,2025 125 duke,https://www.zigwheels.com/ktm-bikes/2023-125-duke
 ktm,890 duke,https://www.zigwheels.com/ktm-bikes/890-duke-r
 ktm,2025 rc 390,https://www.zigwheels.com/ktm-bikes/2025-rc390
 ktm,390 enduro r,https://www.zigwheels.com/ktm-bikes/390-enduro-r
+ktm,390 adventure x,https://www.zigwheels.com/ktm-bikes/2025-390-adventure-x
 ktm,890 adventure,https://www.zigwheels.com/ktm-bikes/890-adventure
 ktm,50 sx,https://www.zigwheels.com/ktm-bikes/50-sx
-ktm,390 adventure x,https://www.zigwheels.com/ktm-bikes/2025-390-adventure-x
-ktm,490 adventure,https://www.zigwheels.com/ktm-bikes/490-adventure
 ktm,2025 rc 125,https://www.zigwheels.com/ktm-bikes/2025-rc-125
 ktm,390 smc r,https://www.zigwheels.com/ktm-bikes/390-smc-r
 ktm,1290 super adventure s,https://www.zigwheels.com/ktm-bikes/1290-super-adventure-s
@@ -253,13 +257,16 @@ harley davidson,breakout 117,https://www.zigwheels.com/harley-davidson-bikes/bre
 harley davidson,sportster 500,https://www.zigwheels.com/harley-davidson-bikes/sportster-500
 harley davidson,low rider s,https://www.zigwheels.com/harley-davidson-bikes/2022-low-rider-s
 harley davidson,road glide,https://www.zigwheels.com/harley-davidson-bikes/road-glide-special
-vespa,elettrica,https://www.zigwheels.com/vespa-bikes/elettrica
+vespa,electric scooter,https://www.zigwheels.com/vespa-bikes/elettrica
 vespa,vxl 125,https://www.zigwheels.com/vespa-bikes/vxl-125
 vespa,sxl 125,https://www.zigwheels.com/vespa-bikes/sxl-125
 vespa,vxl 150,https://www.zigwheels.com/vespa-bikes/vespa-vxl-150
 vespa,zx,https://www.zigwheels.com/vespa-bikes/zx-125
 vespa,946 dragon,https://www.zigwheels.com/vespa-bikes/946-dragon
 vespa,sxl 150,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6
+vespa,150,https://www.zigwheels.com/vespa-bikes/150
+vespa,125,https://www.zigwheels.com/vespa-bikes/125
+vespa,s,https://www.zigwheels.com/vespa-bikes/s
 ducati,panigale v4,https://www.zigwheels.com/ducati-bikes/panigale-v4
 ducati,streetfighter v4,https://www.zigwheels.com/ducati-bikes/streetfighter-v4
 ducati,monster,https://www.zigwheels.com/ducati-bikes/monster
@@ -267,7 +274,6 @@ ducati,scrambler 800,https://www.zigwheels.com/ducati-bikes/scrambler
 ducati,diavel v4,https://www.zigwheels.com/ducati-bikes/diavel-v4
 ducati,panigale v2,https://www.zigwheels.com/ducati-bikes/panigale-v2
 ducati,supersport 950,https://www.zigwheels.com/ducati-bikes/supersport
-ducati,2025 desertx,https://www.zigwheels.com/ducati-bikes/2025-desertx
 ducati,2025 panigale v4,https://www.zigwheels.com/ducati-bikes/2025-panigale-v4
 ducati,2025 multistrada v2,https://www.zigwheels.com/ducati-bikes/2025-multistrada-v2
 ducati,hypermotard 698 mono,https://www.zigwheels.com/ducati-bikes/hypermotard-698
@@ -278,20 +284,19 @@ ducati,multistrada v4,https://www.zigwheels.com/ducati-bikes/multistrada-v4
 ducati,hypermotard 950,https://www.zigwheels.com/ducati-bikes/hypermotard-950
 ducati,scrambler 1100,https://www.zigwheels.com/ducati-bikes/scrambler-1100
 kawasaki,ninja zx-10r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx-10r
-kawasaki,ninja h2,https://www.zigwheels.com/kawasaki-bikes/ninja-h2
 kawasaki,z900,https://www.zigwheels.com/kawasaki-bikes/2020-z900
 kawasaki,ninja 300,https://www.zigwheels.com/kawasaki-bikes/ninja-300
 kawasaki,ninja zx-6r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx-6r
 kawasaki,ninja zx-4r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx4r
-kawasaki,ninja 500,https://www.zigwheels.com/kawasaki-bikes/ninja-500
 kawasaki,z400,https://www.zigwheels.com/kawasaki-bikes/z400
+kawasaki,ninja 500,https://www.zigwheels.com/kawasaki-bikes/ninja-500
 kawasaki,w175,https://www.zigwheels.com/kawasaki-bikes/w175
 kawasaki,z650,https://www.zigwheels.com/kawasaki-bikes/2020-kawasaki-z650
 kawasaki,ninja 650,https://www.zigwheels.com/kawasaki-bikes/2020-ninja-650
 kawasaki,eliminator,https://www.zigwheels.com/kawasaki-bikes/eliminator-400
-kawasaki,z h2,https://www.zigwheels.com/kawasaki-bikes/zh2
-kawasaki,z500,https://www.zigwheels.com/kawasaki-bikes/z500
 kawasaki,ninja h2 sx,https://www.zigwheels.com/kawasaki-bikes/ninja-h2-sx
+kawasaki,z500,https://www.zigwheels.com/kawasaki-bikes/z500
+kawasaki,z h2,https://www.zigwheels.com/kawasaki-bikes/zh2
 kawasaki,vulcan s,https://www.zigwheels.com/kawasaki-bikes/vulcan-s
 kawasaki,versys 650,https://www.zigwheels.com/kawasaki-bikes/versys-650
 kawasaki,z650rs,https://www.zigwheels.com/kawasaki-bikes/z650rs
@@ -300,6 +305,7 @@ kawasaki,klx 140r f,https://www.zigwheels.com/kawasaki-bikes/klx-140
 kawasaki,klx230,https://www.zigwheels.com/kawasaki-bikes/klx-230
 kawasaki,klx110r l,https://www.zigwheels.com/kawasaki-bikes/klx-110
 kawasaki,z900rs,https://www.zigwheels.com/kawasaki-bikes/z900rs
+kawasaki,versys 1100,https://www.zigwheels.com/kawasaki-bikes/versys-1100
 kawasaki,ninja 1100sx,https://www.zigwheels.com/kawasaki-bikes/ninja-1100sx
 kawasaki,versys x 300,https://www.zigwheels.com/kawasaki-bikes/versys-x300
 kawasaki,klx 300r,https://www.zigwheels.com/kawasaki-bikes/klx-300r
@@ -314,15 +320,15 @@ benelli,302r,https://www.zigwheels.com/benelli-bikes/tornado-302
 benelli,trk 502,https://www.zigwheels.com/benelli-bikes/trk-502
 benelli,302 s,https://www.zigwheels.com/benelli-bikes/302-s
 benelli,502 c,https://www.zigwheels.com/benelli-bikes/502-c
-benelli,752 s,https://www.zigwheels.com/benelli-bikes/752-s
 benelli,leoncino 500,https://www.zigwheels.com/benelli-bikes/leoncino
+benelli,752 s,https://www.zigwheels.com/benelli-bikes/752-s
 benelli,leoncino 800,https://www.zigwheels.com/benelli-bikes/leoncino-800
 triumph,speed 400,https://www.zigwheels.com/triumph-bikes/speed-400
 triumph,rocket 3,https://www.zigwheels.com/triumph-bikes/rocket-3
 triumph,scrambler 400 x,https://www.zigwheels.com/triumph-bikes/scrambler-400x
 triumph,street triple 765,https://www.zigwheels.com/triumph-bikes/street-triple
-triumph,trident 660,https://www.zigwheels.com/triumph-bikes/trident
 triumph,speed t4,https://www.zigwheels.com/triumph-bikes/speed-t4
+triumph,trident 660,https://www.zigwheels.com/triumph-bikes/trident
 triumph,daytona 660,https://www.zigwheels.com/triumph-bikes/daytona-660
 triumph,thruxton 400,https://www.zigwheels.com/triumph-bikes/thruxton-400
 triumph,bonneville bobber,https://www.zigwheels.com/triumph-bikes/bonneville-bobber
@@ -332,7 +338,6 @@ triumph,tiger sport 660,https://www.zigwheels.com/triumph-bikes/tiger-sport-660
 triumph,bonneville speedmaster,https://www.zigwheels.com/triumph-bikes/speedmaster
 triumph,bonneville t100,https://www.zigwheels.com/triumph-bikes/bonneville-t100
 triumph,tiger 1200,https://www.zigwheels.com/triumph-bikes/tiger-1200
-triumph,tiger 850 sport,https://www.zigwheels.com/triumph-bikes/tiger-850
 triumph,speed twin 900,https://www.zigwheels.com/triumph-bikes/speed-twin-900
 triumph,scrambler t4,https://www.zigwheels.com/triumph-bikes/scrambler-400
 triumph,speed twin 1200,https://www.zigwheels.com/triumph-bikes/speed-twin-1200
@@ -364,15 +369,13 @@ bmw,s 1000 rr[2022-2024],https://www.zigwheels.com/bmw-bikes/s-1000-rr
 bmw,g 310 rr,https://www.zigwheels.com/bmw-bikes/g-310-rr
 bmw,g 310 r,https://www.zigwheels.com/bmw-bikes/g310r
 bmw,g 310 gs,https://www.zigwheels.com/bmw-bikes/g-310-gs
-bmw,r 1250 gs,https://www.zigwheels.com/bmw-bikes/r-1250-gs
 bmw,m 1000 rr,https://www.zigwheels.com/bmw-bikes/m-1000-rr
+bmw,r 1250 gs,https://www.zigwheels.com/bmw-bikes/r-1250-gs
 bmw,c 400 gt,https://www.zigwheels.com/bmw-bikes/c-400-gt
 bmw,r 1300 gs,https://www.zigwheels.com/bmw-bikes/r-1300-gs
 bmw,f 450 gs,https://www.zigwheels.com/bmw-bikes/f-450-gs
 bmw,r 1250 gs adventure,https://www.zigwheels.com/bmw-bikes/r-1250-gs-adventure
-bmw,f 850 gs,https://www.zigwheels.com/bmw-bikes/f-850-gs
 bmw,s 1000 rr,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr
-bmw,f 850 gs adventure,https://www.zigwheels.com/bmw-bikes/f-850-gs-adventure
 bmw,k 1600 gtl,https://www.zigwheels.com/bmw-bikes/1600
 bmw,r 1250 rt,https://www.zigwheels.com/bmw-bikes/r-1250-rt
 bmw,f 900 xr,https://www.zigwheels.com/bmw-bikes/f-900-xr
@@ -391,8 +394,8 @@ bmw,s 1000 r,https://www.zigwheels.com/bmw-bikes/2021-s1000r
 bmw,s 1000 xr,https://www.zigwheels.com/bmw-bikes/2020-s-1000-xr
 aprilia,rs 457,https://www.zigwheels.com/aprilia-bikes/rs440
 aprilia,sr 160,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6
-aprilia,sr 125,https://www.zigwheels.com/aprilia-bikes/sr-125
 aprilia,tuono 457,https://www.zigwheels.com/aprilia-bikes/tuono-457
+aprilia,sr 125,https://www.zigwheels.com/aprilia-bikes/sr-125
 aprilia,rs 660,https://www.zigwheels.com/aprilia-bikes/rs-660
 aprilia,rsv4,https://www.zigwheels.com/aprilia-bikes/rsv4
 aprilia,sxr 160,https://www.zigwheels.com/aprilia-bikes/sxr160
@@ -403,6 +406,7 @@ aprilia,tuono 660,https://www.zigwheels.com/aprilia-bikes/tuono-660
 revolt motors,rv400,https://www.zigwheels.com/revolt-bikes/rv-400
 revolt motors,rv1,https://www.zigwheels.com/revolt-bikes/rv1
 revolt motors,rv400 brz,https://www.zigwheels.com/revolt-bikes/rv400-brz
+revolt motors,rv blazex,https://www.zigwheels.com/revolt-bikes/rv-blazex
 pure ev,epluto 7g,https://www.zigwheels.com/pure-ev-bikes/epluto-7g
 pure ev,epluto 7g max,https://www.zigwheels.com/pure-ev-bikes/epluto-7g-max
 pure ev,etrance neo,https://www.zigwheels.com/pure-ev-bikes/etranceneo
@@ -425,12 +429,12 @@ komaki,xgt vp,https://www.zigwheels.com/komaki-bikes/xgt-vp
 komaki,venice,https://www.zigwheels.com/komaki-bikes/venice
 komaki,tn-95,https://www.zigwheels.com/komaki-bikes/komaki-tn-95
 komaki,x2 vouge,https://www.zigwheels.com/komaki-bikes/x2-vouge
-joy e-bike,gen next nanu,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu-e-scooter
 joy e-bike,beast,https://www.zigwheels.com/joy-e-bikes/beast
+joy e-bike,gen next nanu,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu-e-scooter
 joy e-bike,mihos,https://www.zigwheels.com/joy-e-bikes/mihos
 joy e-bike,wolf,https://www.zigwheels.com/joy-e-bikes/wolf
-joy e-bike,wolf plus,https://www.zigwheels.com/joy-e-bikes/wolfplus
 joy e-bike,gen next nanu plus,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu
+joy e-bike,wolf plus,https://www.zigwheels.com/joy-e-bikes/wolfplus
 joy e-bike,thunderbolt,https://www.zigwheels.com/joy-e-bikes/thunderbolt
 joy e-bike,hurricane,https://www.zigwheels.com/joy-e-bikes/hurricane
 joy e-bike,glob,https://www.zigwheels.com/joy-e-bikes/glob
@@ -464,15 +468,15 @@ cfmoto,650nk,https://www.zigwheels.com/cfmoto-bikes/650nk
 bnc motors,challenger,https://www.zigwheels.com/boom-motors-bikes/bnc-challenger
 zontes,350r,https://www.zigwheels.com/zontes-bikes/350r
 zontes,gk350,https://www.zigwheels.com/zontes-bikes/gk-350
-zontes,u1 200,https://www.zigwheels.com/zontes-bikes/u1-200
 zontes,350t,https://www.zigwheels.com/zontes-bikes/350t
+zontes,u1 200,https://www.zigwheels.com/zontes-bikes/u1-200
 zontes,s350,https://www.zigwheels.com/zontes-bikes/s350
 zontes,350e,https://www.zigwheels.com/zontes-bikes/350e
 zontes,350x,https://www.zigwheels.com/zontes-bikes/350x
+zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop
 zelo,zaeden+,https://www.zigwheels.com/zelo-bikes/zaedenplus
 zelo,zaeden,https://www.zigwheels.com/zelo-bikes/zaeden
 zelo,knight,https://www.zigwheels.com/zelo-bikes/knight
-zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop
 zelio,gracyi,https://www.zigwheels.com/zelio-bikes/gracyi
 zelio,eeva,https://www.zigwheels.com/zelio-bikes/eeva
 zelio,x men 2.0,https://www.zigwheels.com/zelio-bikes/x-men
@@ -548,6 +552,7 @@ sokudo,rapid,https://www.zigwheels.com/sokudo-bikes/rapid
 sokudo,select,https://www.zigwheels.com/sokudo-bikes/select
 simple energy,one,https://www.zigwheels.com/simple-energy-bikes/simple-one
 simple energy,dot one,https://www.zigwheels.com/simple-energy-bikes/dot-one
+simple energy,one gen 1,https://www.zigwheels.com/simple-energy-bikes/simple-one-gen1
 shema e-vehicle,eagle,https://www.zigwheels.com/shema-e-vehicle-bikes/eagle
 shema e-vehicle,hobby,https://www.zigwheels.com/shema-e-vehicle-bikes/hobby
 shema e-vehicle,bold,https://www.zigwheels.com/shema-e-vehicle-bikes/bold
@@ -566,14 +571,14 @@ rowwet,vegatron,https://www.zigwheels.com/rowwet-bikes/vegatron
 rowwet,eleq,https://www.zigwheels.com/rowwet-bikes/eleq
 rowwet,rame,https://www.zigwheels.com/rowwet-bikes/rame
 river,indie,https://www.zigwheels.com/river-bikes/indie
-revamp moto,rm mitra,https://www.zigwheels.com/revamp-moto-bikes/rm-mitra-02
 revamp moto,rm buddie 25,https://www.zigwheels.com/revamp-moto-bikes/rm-buddie-25
+revamp moto,rm mitra,https://www.zigwheels.com/revamp-moto-bikes/rm-mitra-02
 rbseva,rider,https://www.zigwheels.com/rbseva-bikes/rider
 rbseva,legend,https://www.zigwheels.com/rbseva-bikes/legend
 raptee motors,t 30,https://www.zigwheels.com/raptee-motors-bikes/t-30
-raftaar,galaxy,https://www.zigwheels.com/raftaar-bikes/galaxy
 raftaar,bumblebee,https://www.zigwheels.com/raftaar-bikes/bumblebee
 raftaar,cruzer r1,https://www.zigwheels.com/raftaar-bikes/cruiser
+raftaar,galaxy,https://www.zigwheels.com/raftaar-bikes/galaxy
 raftaar,electrica,https://www.zigwheels.com/raftaar-bikes/electrica
 quantum energy,plasma,https://www.zigwheels.com/quantum-energy-bikes/plasma
 quantum energy,bziness,https://www.zigwheels.com/quantum-energy-bikes/bziness
@@ -600,13 +605,13 @@ ola electric,s1 air,https://www.zigwheels.com/ola-electric-bikes/s1-air
 ola electric,roadster pro,https://www.zigwheels.com/ola-electric-bikes/roadster-pro
 ola electric,s1 z,https://www.zigwheels.com/ola-electric-bikes/s1-z
 ola electric,gig,https://www.zigwheels.com/ola-electric-bikes/gig
-ola electric,diamondhead,https://www.zigwheels.com/ola-electric-bikes/ola-diamondhead
 ola electric,roadster x,https://www.zigwheels.com/ola-electric-bikes/roadster-x
-ola electric,cruiser,https://www.zigwheels.com/ola-electric-bikes/ola-cruiser
+ola electric,diamondhead,https://www.zigwheels.com/ola-electric-bikes/ola-diamondhead
 ola electric,s1 pro plus,https://www.zigwheels.com/ola-electric-bikes/s1-pro-plus
+ola electric,s1 x plus,https://www.zigwheels.com/ola-electric-bikes/s1-x-plus
+ola electric,cruiser,https://www.zigwheels.com/ola-electric-bikes/ola-cruiser
 ola electric,adventure,https://www.zigwheels.com/ola-electric-bikes/ola-adventure
 ola electric,roadster x+,https://www.zigwheels.com/ola-electric-bikes/roadster-xplus
-ola electric,s1 x plus,https://www.zigwheels.com/ola-electric-bikes/s1-x-plus
 okinawa,praisepro,https://www.zigwheels.com/okinawa-bikes/praisepro
 okinawa,dual 100,https://www.zigwheels.com/okinawa-bikes/dual
 okinawa,ipraise+,https://www.zigwheels.com/okinawa-bikes/i-praise
@@ -628,7 +633,6 @@ oben,rorr,https://www.zigwheels.com/oben-bikes/electric-bike
 oben,rorr ez,https://www.zigwheels.com/oben-bikes/rorr-ez
 numeros motors,diplos max,https://www.zigwheels.com/numeros-motors-bikes/diplos-max
 numeros motors,diplos pro,https://www.zigwheels.com/numeros-motors-bikes/diplos-pro
-numeros motors,diplos i-pro,https://www.zigwheels.com/numeros-motors-bikes/displos-i-pro
 norton,commando 961 sport,https://www.zigwheels.com/norton-bikes/commando-961
 norton,commando 961 cafe racer,https://www.zigwheels.com/norton-bikes/commando-961-cafe-racer
 nij automotive,accelero r14,https://www.zigwheels.com/nij-automotive-bikes/accelero
@@ -676,8 +680,8 @@ kinetic green,e luna,https://www.zigwheels.com/kinetic-green-bikes/e-luna
 kinetic green,zing,https://www.zigwheels.com/kinetic-green-bikes/zing
 kinetic green,zoom,https://www.zigwheels.com/kinetic-green-bikes/zoom
 kinetic green,flex,https://www.zigwheels.com/kinetic-green-bikes/flex
-kinetic green,zulu,https://www.zigwheels.com/kinetic-green-bikes/zulu
 kinetic green,electric scooter,https://www.zigwheels.com/kinetic-green-bikes/kinetic-green-electric-scooter
+kinetic green,zulu,https://www.zigwheels.com/kinetic-green-bikes/zulu
 kick ev,smassh,https://www.zigwheels.com/kick-ev-bikes/smassh
 kick ev,stallion,https://www.zigwheels.com/kick-ev-bikes/stallion
 keeway,sr125,https://www.zigwheels.com/keeway-bikes/sr125
@@ -691,7 +695,6 @@ keeway,sixties 300i,https://www.zigwheels.com/keeway-bikes/sixties-300i
 keeway,vieste 300 ,https://www.zigwheels.com/keeway-bikes/vieste-300
 keeway,k300 sf,https://www.zigwheels.com/keeway-bikes/k300-sf
 keeway,lfs 700,https://www.zigwheels.com/keeway-bikes/lfs700
-keeway,k300 n,https://www.zigwheels.com/keeway-bikes/k300n
 kabira mobility,km3000,https://www.zigwheels.com/kabira-mobility-bikes/km-3000
 kabira mobility,km4000,https://www.zigwheels.com/kabira-mobility-bikes/km-4000
 kabira mobility,km5000,https://www.zigwheels.com/kabira-mobility-bikes/km-5000
@@ -716,6 +719,11 @@ hornback,m1,https://www.zigwheels.com/hornback-bikes/m1
 hornback,x1,https://www.zigwheels.com/hornback-bikes/x1
 hop electric,leo,https://www.zigwheels.com/hop-electric-bikes/leo
 hop electric,oxo,https://www.zigwheels.com/hop-electric-bikes/oxo-100
+hero lectro,h7,https://www.zigwheels.com/hero-lectro-bikes/h7
+hero lectro,h4,https://www.zigwheels.com/hero-lectro-bikes/h4
+hero lectro,v24,https://www.zigwheels.com/hero-lectro-bikes/v24
+hero lectro,h8,https://www.zigwheels.com/hero-lectro-bikes/h8
+hero lectro,c4+,https://www.zigwheels.com/hero-lectro-bikes/c4plus
 hero lectro,muv-e,https://www.zigwheels.com/hero-lectro-bikes/muv-e
 hero lectro,h5,https://www.zigwheels.com/hero-lectro-bikes/h5
 hero lectro,h3,https://www.zigwheels.com/hero-lectro-bikes/h3
@@ -797,6 +805,10 @@ enigma,crink v1,https://www.zigwheels.com/enigma-bikes/crink-plus
 enigma,crink pro,https://www.zigwheels.com/enigma-bikes/crink-pro
 energy automobile,evone,https://www.zigwheels.com/energy-automobile-bikes/evone
 emotorad,doodle,https://www.zigwheels.com/emotorad-bikes/doodle
+emotorad,neo,https://www.zigwheels.com/emotorad-bikes/neo
+emotorad,st-x,https://www.zigwheels.com/emotorad-bikes/st-x
+emotorad,t-rex pro,https://www.zigwheels.com/emotorad-bikes/t-rex-pro
+emotorad,t-rex+ v3,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3
 emotorad,legend-07,https://www.zigwheels.com/emotorad-bikes/legend-07
 emotorad,x3,https://www.zigwheels.com/emotorad-bikes/x3
 emotorad,x2,https://www.zigwheels.com/emotorad-bikes/x2
@@ -804,6 +816,9 @@ emotorad,x1,https://www.zigwheels.com/emotorad-bikes/x1
 emotorad,emx,https://www.zigwheels.com/emotorad-bikes/emx
 emotorad,t-rex air,https://www.zigwheels.com/emotorad-bikes/t-rex
 emote electric,surge,https://www.zigwheels.com/emote-electric-bikes/surge
+elecson,zx,https://www.zigwheels.com/elecson-bikes/zx
+elecson,ultra pro,https://www.zigwheels.com/elecson-bikes/ultra-pro
+elecson,alpha,https://www.zigwheels.com/elecson-bikes/alpha
 elecson,ladybird,https://www.zigwheels.com/elecson-bikes/ladybird
 elecson,eco,https://www.zigwheels.com/elecson-bikes/eco
 elecson,folding,https://www.zigwheels.com/elecson-bikes/folding
@@ -842,14 +857,15 @@ corrit electric,transit,https://www.zigwheels.com/corrit-electric-bikes/transit
 bsa,gold star,https://www.zigwheels.com/bsa-bikes/gold-star
 bsa,b65 scrambler,https://www.zigwheels.com/bsa-bikes/b65-scrambler
 bsa,electric bike,https://www.zigwheels.com/bsa-bikes/electric-bikee
-brixton motorcycles,crossfire 500,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500
 brixton motorcycles,cromwell 1200,https://www.zigwheels.com/brixton-motorcycles-bikes/cromwell-1200
+brixton motorcycles,crossfire 500,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500
 bounce,infinity e.1,https://www.zigwheels.com/bounce-bikes/e-scooter
 benling india,falcon,https://www.zigwheels.com/benling-india-bikes/falcon
 benling india,aura,https://www.zigwheels.com/benling-india-bikes/aura
 benling india,kriti,https://www.zigwheels.com/benling-india-bikes/kriti
 battre electric mobility,storie,https://www.zigwheels.com/battre-electric-mobility-bikes/storie
 battre electric mobility,loev,https://www.zigwheels.com/battre-electric-mobility-bikes/loev
+battre electric mobility,loev+,https://www.zigwheels.com/battre-electric-mobility-bikes/loevplus
 battre electric mobility,one,https://www.zigwheels.com/battre-electric-mobility-bikes/one
 avon,e scoot 504,https://www.zigwheels.com/avon-bikes/e-scoot
 avon,e mate 306,https://www.zigwheels.com/avon-bikes/e-mate

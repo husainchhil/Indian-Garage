@@ -1,6 +1,6 @@
 brand,model,model_link
-maruti suzuki,dzire,https://www.zigwheels.com/maruti-suzuki-cars/dzire
 maruti suzuki,ertiga,https://www.zigwheels.com/maruti-suzuki-cars/ertiga
+maruti suzuki,dzire,https://www.zigwheels.com/maruti-suzuki-cars/dzire
 maruti suzuki,swift,https://www.zigwheels.com/maruti-suzuki-cars/swift
 maruti suzuki,brezza,https://www.zigwheels.com/maruti-suzuki-cars/brezza
 maruti suzuki,fronx,https://www.zigwheels.com/maruti-suzuki-cars/fronx
@@ -8,8 +8,8 @@ maruti suzuki,grand vitara,https://www.zigwheels.com/maruti-suzuki-cars/grand-vi
 maruti suzuki,baleno,https://www.zigwheels.com/maruti-suzuki-cars/baleno
 maruti suzuki,wagon r,https://www.zigwheels.com/maruti-suzuki-cars/wagon-r
 maruti suzuki,alto k10,https://www.zigwheels.com/maruti-suzuki-cars/alto-k10
-maruti suzuki,jimny,https://www.zigwheels.com/maruti-suzuki-cars/jimny
 maruti suzuki,celerio,https://www.zigwheels.com/maruti-suzuki-cars/celerio
+maruti suzuki,jimny,https://www.zigwheels.com/maruti-suzuki-cars/jimny
 maruti suzuki,eeco,https://www.zigwheels.com/maruti-suzuki-cars/eeco
 maruti suzuki,xl6,https://www.zigwheels.com/maruti-suzuki-cars/xl6
 maruti suzuki,ignis,https://www.zigwheels.com/maruti-suzuki-cars/ignis
@@ -18,12 +18,13 @@ maruti suzuki,s-presso,https://www.zigwheels.com/maruti-suzuki-cars/s-presso
 maruti suzuki,invicto,https://www.zigwheels.com/maruti-suzuki-cars/invicto
 maruti suzuki,cervo,https://www.zigwheels.com/maruti-suzuki-cars/cervo
 maruti suzuki,baleno 2025,https://www.zigwheels.com/maruti-suzuki-cars/baleno-2025
-maruti suzuki,compact suv,https://www.zigwheels.com/maruti-suzuki-cars/compact-suv
 maruti suzuki,super carry,https://www.zigwheels.com/maruti-suzuki-cars/super-carry
 maruti suzuki,yra,https://www.zigwheels.com/maruti-suzuki-cars/yra
-maruti suzuki,ertiga tour,https://www.zigwheels.com/maruti-suzuki-cars/ertiga-tour
+maruti suzuki,compact suv,https://www.zigwheels.com/maruti-suzuki-cars/compact-suv
 maruti suzuki,swift hybrid,https://www.zigwheels.com/maruti-suzuki-cars/swift-hybrid
+maruti suzuki,ertiga tour,https://www.zigwheels.com/maruti-suzuki-cars/ertiga-tour
 maruti suzuki,swift dzire tour,https://www.zigwheels.com/maruti-suzuki-cars/swift-dzire-tour
+maruti suzuki,fronx ev,https://www.zigwheels.com/maruti-suzuki-cars/fronx-ev
 maruti suzuki,mr wagon,https://www.zigwheels.com/maruti-suzuki-cars/mr-wagon
 maruti suzuki,iv-4,https://www.zigwheels.com/maruti-suzuki-cars/iv-4
 maruti suzuki,wagon r mpv,https://www.zigwheels.com/maruti-suzuki-cars/wagon-r-mpv
@@ -36,38 +37,37 @@ maruti suzuki,alto 800 tour,https://www.zigwheels.com/maruti-suzuki-cars/alto-80
 maruti suzuki,eeco cargo,https://www.zigwheels.com/maruti-suzuki-cars/eeco-cargo
 maruti suzuki,wagon r tour,https://www.zigwheels.com/maruti-suzuki-cars/wagon-r-tour
 maruti suzuki,e vitara,https://www.zigwheels.com/maruti-suzuki-cars/e-vitara
-maruti suzuki,fronx ev,https://www.zigwheels.com/maruti-suzuki-cars/fronx-ev
 maruti suzuki,jimny ev,https://www.zigwheels.com/maruti-suzuki-cars/jimny-ev
 maruti suzuki,brezza 2025,https://www.zigwheels.com/maruti-suzuki-cars/brezza-2025
 maruti suzuki,grand vitara 3-row,https://www.zigwheels.com/maruti-suzuki-cars/grand-vitara-3-row
 tata,punch,https://www.zigwheels.com/tata-cars/punch
 tata,nexon,https://www.zigwheels.com/tata-cars/nexon
 tata,curvv,https://www.zigwheels.com/tata-cars/curvv
-tata,sierra,https://www.zigwheels.com/tata-cars/sierra
 tata,tiago,https://www.zigwheels.com/tata-cars/tiago
 tata,harrier,https://www.zigwheels.com/tata-cars/harrier
 tata,safari,https://www.zigwheels.com/tata-cars/safari
 tata,altroz,https://www.zigwheels.com/tata-cars/altroz
-tata,sumo 2025,https://www.zigwheels.com/tata-cars/sumo-2025
-tata,avinya,https://www.zigwheels.com/tata-cars/avinya
-tata,nano ev,https://www.zigwheels.com/tata-cars/nano-ev
+tata,sierra,https://www.zigwheels.com/tata-cars/sierra
 tata,curvv ev,https://www.zigwheels.com/tata-cars/curvv-ev
-tata,tigor,https://www.zigwheels.com/tata-cars/tigor
+tata,avinya,https://www.zigwheels.com/tata-cars/avinya
+tata,sumo 2025,https://www.zigwheels.com/tata-cars/sumo-2025
 tata,tiago ev,https://www.zigwheels.com/tata-cars/tiago-ev
+tata,tigor,https://www.zigwheels.com/tata-cars/tigor
 tata,punch ev,https://www.zigwheels.com/tata-cars/punch-ev
 tata,nexon ev,https://www.zigwheels.com/tata-cars/nexon-ev
+tata,nano ev,https://www.zigwheels.com/tata-cars/nano-ev
+tata,hexa,https://www.zigwheels.com/tata-cars/hexa
+tata,evision electric,https://www.zigwheels.com/tata-cars/evision
 tata,tiago 2025,https://www.zigwheels.com/tata-cars/tiago-2025
 tata,harrier ev,https://www.zigwheels.com/tata-cars/harrier-ev
-tata,hexa,https://www.zigwheels.com/tata-cars/hexa
 tata,punch 2025,https://www.zigwheels.com/tata-cars/punch-2025
 tata,sierra ev,https://www.zigwheels.com/tata-cars/sierra-ev
-tata,tigor 2025,https://www.zigwheels.com/tata-cars/tigor-2025
 tata,altroz racer,https://www.zigwheels.com/tata-cars/altroz-racer
-tata,evision electric,https://www.zigwheels.com/tata-cars/evision
-tata,avinya x,https://www.zigwheels.com/tata-cars/avinya-x
-tata,tigor ev,https://www.zigwheels.com/tata-cars/tigor-ev
-tata,yodha pickup,https://www.zigwheels.com/tata-cars/yodha-pickup
 tata,tiago nrg,https://www.zigwheels.com/tata-cars/tiago-nrg
+tata,tigor ev,https://www.zigwheels.com/tata-cars/tigor-ev
+tata,avinya x,https://www.zigwheels.com/tata-cars/avinya-x
+tata,tigor 2025,https://www.zigwheels.com/tata-cars/tigor-2025
+tata,yodha pickup,https://www.zigwheels.com/tata-cars/yodha-pickup
 tata,altroz ev,https://www.zigwheels.com/tata-cars/altroz-ev
 tata,atmos,https://www.zigwheels.com/tata-cars/atmos
 tata,kite 5,https://www.zigwheels.com/tata-cars/kite-sedan
@@ -75,17 +75,18 @@ tata,h7x,https://www.zigwheels.com/tata-cars/h7x
 tata,safari ev,https://www.zigwheels.com/tata-cars/safari-ev
 kia,syros,https://www.zigwheels.com/kia-cars/syros
 kia,seltos,https://www.zigwheels.com/kia-cars/seltos
-kia,sonet,https://www.zigwheels.com/kia-cars/sonet
 kia,carens,https://www.zigwheels.com/kia-cars/carens
+kia,sonet,https://www.zigwheels.com/kia-cars/sonet
 kia,carnival,https://www.zigwheels.com/kia-cars/carnival
 kia,ev6,https://www.zigwheels.com/kia-cars/ev6
 kia,sorento,https://www.zigwheels.com/kia-cars/sorento
-kia,ev9,https://www.zigwheels.com/kia-cars/ev9
 kia,sportage,https://www.zigwheels.com/kia-cars/sportage
+kia,ev9,https://www.zigwheels.com/kia-cars/ev9
 kia,carens 2025,https://www.zigwheels.com/kia-cars/carens-2025
-kia,picanto,https://www.zigwheels.com/kia-cars/picanto
-kia,syros ev,https://www.zigwheels.com/kia-cars/syros-ev
 kia,stinger,https://www.zigwheels.com/kia-cars/stinger
+kia,picanto,https://www.zigwheels.com/kia-cars/picanto
+kia,ev4,https://www.zigwheels.com/kia-cars/ev4
+kia,syros ev,https://www.zigwheels.com/kia-cars/syros-ev
 kia,carens ev,https://www.zigwheels.com/kia-cars/carens-ev
 kia,rio,https://www.zigwheels.com/kia-cars/rio
 kia,ceed,https://www.zigwheels.com/kia-cars/ceed
@@ -103,20 +104,20 @@ toyota,camry,https://www.zigwheels.com/toyota-cars/camry
 toyota,hilux,https://www.zigwheels.com/toyota-cars/hilux
 toyota,innova hycross,https://www.zigwheels.com/toyota-cars/innova-hycross
 toyota,vellfire,https://www.zigwheels.com/toyota-cars/vellfire
-toyota,rumion,https://www.zigwheels.com/toyota-cars/rumion
 toyota,supra,https://www.zigwheels.com/toyota-cars/supra
+toyota,rumion,https://www.zigwheels.com/toyota-cars/rumion
 toyota,taisor,https://www.zigwheels.com/toyota-cars/urban-cruiser-taisor
-toyota,raize,https://www.zigwheels.com/toyota-cars/raize
 toyota,fortuner legender,https://www.zigwheels.com/toyota-cars/fortuner-legender
+toyota,raize,https://www.zigwheels.com/toyota-cars/raize
 toyota,mini fortuner,https://www.zigwheels.com/toyota-cars/mini-fortuner
 toyota,avanza,https://www.zigwheels.com/toyota-cars/avanza
 toyota,rush,https://www.zigwheels.com/toyota-cars/rush
 toyota,c-hr,https://www.zigwheels.com/toyota-cars/c-hr
-toyota,belta,https://www.zigwheels.com/toyota-cars/belta
 toyota,mirai,https://www.zigwheels.com/toyota-cars/mirai
 toyota,corolla 2021,https://www.zigwheels.com/toyota-cars/corolla-2020
 toyota,yaris 2021,https://www.zigwheels.com/toyota-cars/yaris-2021
 toyota,land cruiser 300,https://www.zigwheels.com/toyota-cars/land-cruiser-300
+toyota,belta,https://www.zigwheels.com/toyota-cars/belta
 toyota,glanza,https://www.zigwheels.com/toyota-cars/glanza
 toyota,vios,https://www.zigwheels.com/toyota-cars/vios
 toyota,bz4x,https://www.zigwheels.com/toyota-cars/bz4x
@@ -124,31 +125,30 @@ toyota,land cruiser 250,https://www.zigwheels.com/toyota-cars/land-cruiser-250
 toyota,urban cruiser,https://www.zigwheels.com/toyota-cars/urban-cruiser
 toyota,3-row suv,https://www.zigwheels.com/toyota-cars/3-row-suv
 bmw,m5,https://www.zigwheels.com/bmw-cars/m5
-bmw,x1,https://www.zigwheels.com/bmw-cars/x1
 bmw,m3,https://www.zigwheels.com/bmw-cars/m3
-bmw,x7,https://www.zigwheels.com/bmw-cars/x7
+bmw,x1,https://www.zigwheels.com/bmw-cars/x1
 bmw,x5,https://www.zigwheels.com/bmw-cars/x5
+bmw,x7,https://www.zigwheels.com/bmw-cars/x7
 bmw,i7,https://www.zigwheels.com/bmw-cars/i7
-bmw,x3,https://www.zigwheels.com/bmw-cars/x3
 bmw,ix1,https://www.zigwheels.com/bmw-cars/ix1
 bmw,z4,https://www.zigwheels.com/bmw-cars/z4
+bmw,x3,https://www.zigwheels.com/bmw-cars/x3
 bmw,3 series,https://www.zigwheels.com/bmw-cars/3-series
-bmw,m2,https://www.zigwheels.com/bmw-cars/m2
 bmw,5 series,https://www.zigwheels.com/bmw-cars/5-series
+bmw,m2,https://www.zigwheels.com/bmw-cars/m2
 bmw,xm,https://www.zigwheels.com/bmw-cars/xm
 bmw,7 series,https://www.zigwheels.com/bmw-cars/7-series
-bmw,ix,https://www.zigwheels.com/bmw-cars/ix
 bmw,2 series,https://www.zigwheels.com/bmw-cars/2-series
-bmw,x4,https://www.zigwheels.com/bmw-cars/x4
+bmw,ix,https://www.zigwheels.com/bmw-cars/ix
 bmw,m4 competition,https://www.zigwheels.com/bmw-cars/m4-competition
 bmw,6 series,https://www.zigwheels.com/bmw-cars/6-series-gran-coupe
 bmw,x2,https://www.zigwheels.com/bmw-cars/x2
 bmw,m4 cs,https://www.zigwheels.com/bmw-cars/m4-cs
 bmw,4 series,https://www.zigwheels.com/bmw-cars/4-series
-bmw,3 series gran limousine,https://www.zigwheels.com/bmw-cars/3-series-gran-limousine
 bmw,i3,https://www.zigwheels.com/bmw-cars/i3
 bmw,i4,https://www.zigwheels.com/bmw-cars/i4
 bmw,m8 coupe competition,https://www.zigwheels.com/bmw-cars/m8-coupe-competition
+bmw,3 series long wheelbase,https://www.zigwheels.com/bmw-cars/3-series-gran-limousine
 bmw,i5,https://www.zigwheels.com/bmw-cars/i5
 bmw,2 series 2025,https://www.zigwheels.com/bmw-cars/2-series-2025
 bmw,ix 2025,https://www.zigwheels.com/bmw-cars/ix-2025
@@ -156,20 +156,18 @@ hyundai,creta,https://www.zigwheels.com/hyundai-cars/creta
 hyundai,venue,https://www.zigwheels.com/hyundai-cars/venue
 hyundai,verna,https://www.zigwheels.com/hyundai-cars/verna
 hyundai,i20,https://www.zigwheels.com/hyundai-cars/i20
-hyundai,creta electric,https://www.zigwheels.com/hyundai-cars/creta-electric
 hyundai,exter,https://www.zigwheels.com/hyundai-cars/exter
 hyundai,aura,https://www.zigwheels.com/hyundai-cars/aura
 hyundai,alcazar,https://www.zigwheels.com/hyundai-cars/alcazar
+hyundai,creta electric,https://www.zigwheels.com/hyundai-cars/creta-electric
 hyundai,tucson,https://www.zigwheels.com/hyundai-cars/tucson
+hyundai,creta n line,https://www.zigwheels.com/hyundai-cars/creta-n-line
 hyundai,palisade,https://www.zigwheels.com/hyundai-cars/palisade
 hyundai,staria,https://www.zigwheels.com/hyundai-cars/staria
-hyundai,creta n line,https://www.zigwheels.com/hyundai-cars/creta-n-line
 hyundai,i30,https://www.zigwheels.com/hyundai-cars/i30
 hyundai,venue n line,https://www.zigwheels.com/hyundai-cars/venue-n-line
-hyundai,stargazer,https://www.zigwheels.com/hyundai-cars/stargazer
-hyundai,ioniq 9,https://www.zigwheels.com/hyundai-cars/ioniq-9
-hyundai,tucson 2025,https://www.zigwheels.com/hyundai-cars/tucson-2024
 hyundai,ioniq,https://www.zigwheels.com/hyundai-cars/ioniq
+hyundai,stargazer,https://www.zigwheels.com/hyundai-cars/stargazer
 hyundai,i45,https://www.zigwheels.com/hyundai-cars/i45
 hyundai,genesis,https://www.zigwheels.com/hyundai-cars/genesis
 hyundai,hexa space,https://www.zigwheels.com/hyundai-cars/hexa-space
@@ -186,16 +184,18 @@ hyundai,grand i10 nios,https://www.zigwheels.com/hyundai-cars/grand-i10-nios
 hyundai,ioniq 6,https://www.zigwheels.com/hyundai-cars/ioniq-6
 hyundai,i20 n-line,https://www.zigwheels.com/hyundai-cars/i20-n-line
 hyundai,santa fe 2025,https://www.zigwheels.com/hyundai-cars/santa-fe-2025
+hyundai,tucson 2025,https://www.zigwheels.com/hyundai-cars/tucson-2024
 hyundai,inster,https://www.zigwheels.com/hyundai-cars/inster
 hyundai,venue ev,https://www.zigwheels.com/hyundai-cars/venue-ev
+hyundai,ioniq 9,https://www.zigwheels.com/hyundai-cars/ioniq-9
 mahindra,scorpio n,https://www.zigwheels.com/mahindra-cars/scorpio-n
-mahindra,thar roxx,https://www.zigwheels.com/mahindra-cars/thar-roxx
-mahindra,bolero,https://www.zigwheels.com/mahindra-cars/bolero
+mahindra,thar,https://www.zigwheels.com/mahindra-cars/thar
 mahindra,xuv700,https://www.zigwheels.com/mahindra-cars/xuv700
 mahindra,scorpio,https://www.zigwheels.com/mahindra-cars/scorpio-classic
-mahindra,thar,https://www.zigwheels.com/mahindra-cars/thar
-mahindra,xuv 3xo,https://www.zigwheels.com/mahindra-cars/xuv-3xo
+mahindra,bolero,https://www.zigwheels.com/mahindra-cars/bolero
+mahindra,thar roxx,https://www.zigwheels.com/mahindra-cars/thar-roxx
 mahindra,be 6,https://www.zigwheels.com/mahindra-cars/be-6
+mahindra,xuv 3xo,https://www.zigwheels.com/mahindra-cars/xuv-3xo
 mahindra,xev 9e,https://www.zigwheels.com/mahindra-cars/xev-9e
 mahindra,bolero neo,https://www.zigwheels.com/mahindra-cars/bolero-neo
 mahindra,bolero camper,https://www.zigwheels.com/mahindra-cars/bolero-camper
@@ -205,6 +205,8 @@ mahindra,thar 3-door,https://www.zigwheels.com/mahindra-cars/thar-3-door
 mahindra,xuv900,https://www.zigwheels.com/mahindra-cars/xuv900
 mahindra,thar e,https://www.zigwheels.com/mahindra-cars/thar-e
 mahindra,be 07,https://www.zigwheels.com/mahindra-cars/be-07
+mahindra,xev 4e,https://www.zigwheels.com/mahindra-cars/xev-4e
+mahindra,be 09,https://www.zigwheels.com/mahindra-cars/be-09
 mahindra,xuv aero,https://www.zigwheels.com/mahindra-cars/xuv-aero
 mahindra,ekuv100,https://www.zigwheels.com/mahindra-cars/ekuv100
 mahindra,halo,https://www.zigwheels.com/mahindra-cars/halo
@@ -215,10 +217,8 @@ mahindra,xuv500 2024,https://www.zigwheels.com/mahindra-cars/xuv500-2024
 mahindra,bolero pikup extrastrong,https://www.zigwheels.com/mahindra-cars/bolero-pik-up-extra-strong
 mahindra,bolero maxitruck plus,https://www.zigwheels.com/mahindra-cars/bolero-maxi-truck-plus
 mahindra,bolero neo plus,https://www.zigwheels.com/mahindra-cars/bolero-neo-plus
-mahindra,be 09,https://www.zigwheels.com/mahindra-cars/be-09
 mahindra,xev e8,https://www.zigwheels.com/mahindra-cars/xev-e8
 mahindra,global pik up,https://www.zigwheels.com/mahindra-cars/global-pik-up
-mahindra,xev 4e,https://www.zigwheels.com/mahindra-cars/xev-4e
 honda,city,https://www.zigwheels.com/honda-cars/city
 honda,amaze,https://www.zigwheels.com/honda-cars/amaze
 honda,elevate,https://www.zigwheels.com/honda-cars/elevate
@@ -236,15 +236,13 @@ mg motor,windsor ev,https://www.zigwheels.com/mg-motor-cars/windsor-ev
 mg motor,cyberster,https://www.zigwheels.com/mg-motor-cars/cyberster
 mg motor,astor,https://www.zigwheels.com/mg-motor-cars/astor
 mg motor,gloster,https://www.zigwheels.com/mg-motor-cars/gloster
-mg motor,majestor,https://www.zigwheels.com/mg-motor-cars/majestor
 mg motor,comet ev,https://www.zigwheels.com/mg-motor-cars/comet-ev
-mg motor,m9,https://www.zigwheels.com/mg-motor-cars/m9
+mg motor,majestor,https://www.zigwheels.com/mg-motor-cars/majestor
 mg motor,zs ev,https://www.zigwheels.com/mg-motor-cars/zs-ev
 mg motor,hector plus,https://www.zigwheels.com/mg-motor-cars/hector-plus
-mg motor,astor 2025,https://www.zigwheels.com/mg-motor-cars/astor-2025
+mg motor,m9,https://www.zigwheels.com/mg-motor-cars/m9
 mg motor,5 ev,https://www.zigwheels.com/mg-motor-cars/5-ev
-mg motor,im6,https://www.zigwheels.com/mg-motor-cars/im6
-mg motor,im5,https://www.zigwheels.com/mg-motor-cars/im5
+mg motor,zs hev,https://www.zigwheels.com/mg-motor-cars/zs-hev
 mg motor,gs,https://www.zigwheels.com/mg-motor-cars/gs
 mg motor,rx5,https://www.zigwheels.com/mg-motor-cars/rx5
 mg motor,baojun 530,https://www.zigwheels.com/mg-motor-cars/baojun-530
@@ -258,70 +256,72 @@ mg motor,4 ev,https://www.zigwheels.com/mg-motor-cars/4-ev
 mg motor,ehs,https://www.zigwheels.com/mg-motor-cars/ehs
 mg motor,euniq 7,https://www.zigwheels.com/mg-motor-cars/euniq-7
 mg motor,gloster 2025,https://www.zigwheels.com/mg-motor-cars/gloster-2024
+mg motor,im5,https://www.zigwheels.com/mg-motor-cars/im5
+mg motor,im6,https://www.zigwheels.com/mg-motor-cars/im6
 skoda,kylaq,https://www.zigwheels.com/skoda-cars/kylaq
 skoda,slavia,https://www.zigwheels.com/skoda-cars/slavia
 skoda,kushaq,https://www.zigwheels.com/skoda-cars/kushaq
-skoda,superb,https://www.zigwheels.com/skoda-cars/superb
-skoda,kodiaq,https://www.zigwheels.com/skoda-cars/kodiaq
 skoda,scala,https://www.zigwheels.com/skoda-cars/scala
 skoda,octavia rs,https://www.zigwheels.com/skoda-cars/octavia-rs
-skoda,enyaq,https://www.zigwheels.com/skoda-cars/enyaq
-skoda,elroq,https://www.zigwheels.com/skoda-cars/elroq
 skoda,kodiaq 2025,https://www.zigwheels.com/skoda-cars/kodiaq-2024
-skoda,superb 2025,https://www.zigwheels.com/skoda-cars/superb-2024
 skoda,citigo,https://www.zigwheels.com/skoda-cars/citigo
 skoda,vision x,https://www.zigwheels.com/skoda-cars/vision-x
 skoda,fabia combi,https://www.zigwheels.com/skoda-cars/fabia-combi
 skoda,lauretta,https://www.zigwheels.com/skoda-cars/lauretta
 skoda,kamiq,https://www.zigwheels.com/skoda-cars/kamiq
+skoda,enyaq,https://www.zigwheels.com/skoda-cars/enyaq
 skoda,octavia 2025,https://www.zigwheels.com/skoda-cars/octavia-2025
+skoda,superb 2025,https://www.zigwheels.com/skoda-cars/superb-2024
+skoda,elroq,https://www.zigwheels.com/skoda-cars/elroq
 jaguar,f-pace,https://www.zigwheels.com/jaguar-cars/f-pace
 jaguar,e pace,https://www.zigwheels.com/jaguar-cars/e-pace
 jaguar,c x17,https://www.zigwheels.com/jaguar-cars/c-x17
 jaguar,c x75,https://www.zigwheels.com/jaguar-cars/c-x75
 audi,a2,https://www.zigwheels.com/audi-cars/a2
 audi,a4,https://www.zigwheels.com/audi-cars/a4
+audi,q8,https://www.zigwheels.com/audi-cars/q8
 audi,q7,https://www.zigwheels.com/audi-cars/q7
-audi,q5,https://www.zigwheels.com/audi-cars/q5
 audi,q3,https://www.zigwheels.com/audi-cars/q3-2019
 audi,a6,https://www.zigwheels.com/audi-cars/a6
+audi,q5,https://www.zigwheels.com/audi-cars/q5
 audi,a5,https://www.zigwheels.com/audi-cars/a5
 audi,a1,https://www.zigwheels.com/audi-cars/a1
-audi,q8,https://www.zigwheels.com/audi-cars/q8
-audi,q1,https://www.zigwheels.com/audi-cars/q1
-audi,q4,https://www.zigwheels.com/audi-cars/q4
 audi,a7,https://www.zigwheels.com/audi-cars/a7
+audi,q1,https://www.zigwheels.com/audi-cars/q1
 audi,q6,https://www.zigwheels.com/audi-cars/q6
-audi,rs e-tron gt,https://www.zigwheels.com/audi-cars/rs-e-tron-gt
+audi,q4,https://www.zigwheels.com/audi-cars/q4
 audi,s7,https://www.zigwheels.com/audi-cars/s7
 audi,tt,https://www.zigwheels.com/audi-cars/tt
 audi,sq5,https://www.zigwheels.com/audi-cars/sq5
 audi,a3 2024,https://www.zigwheels.com/audi-cars/a3-2024
 audi,e-tron gt,https://www.zigwheels.com/audi-cars/e-tron-gt
 audi,s5 sportback,https://www.zigwheels.com/audi-cars/s5-sportback
+audi,rs e-tron gt,https://www.zigwheels.com/audi-cars/rs-e-tron-gt
 audi,q8 e-tron,https://www.zigwheels.com/audi-cars/q8-e-tron
 audi,q3 sportback,https://www.zigwheels.com/audi-cars/q3-sportback
 audi,q8 sportback e-tron,https://www.zigwheels.com/audi-cars/q8-sportback-e-tron
 audi,q6 e-tron,https://www.zigwheels.com/audi-cars/q6-e-tron
 audi,q5 2025,https://www.zigwheels.com/audi-cars/q5-2025
-audi,rs q8 2025,https://www.zigwheels.com/audi-cars/rs-q8-2025
+audi,rs q8,https://www.zigwheels.com/audi-cars/rs-q8
 jeep,compass,https://www.zigwheels.com/jeep-cars/compass
 jeep,meridian,https://www.zigwheels.com/jeep-cars/meridian
 jeep,wrangler,https://www.zigwheels.com/jeep-cars/wrangler
 jeep,grand cherokee,https://www.zigwheels.com/jeep-cars/grand-cherokee
 jeep,renegade,https://www.zigwheels.com/jeep-cars/renegade
-jeep,cherokee,https://www.zigwheels.com/jeep-cars/cherokee
 jeep,sub-4m suv,https://www.zigwheels.com/jeep-cars/sub-4m-suv
-jeep,avenger,https://www.zigwheels.com/jeep-cars/avenger
+jeep,cherokee,https://www.zigwheels.com/jeep-cars/cherokee
 jeep,grand cherokee l,https://www.zigwheels.com/jeep-cars/grand-cherokee-l
+jeep,avenger,https://www.zigwheels.com/jeep-cars/avenger
 renault,kwid,https://www.zigwheels.com/renault-cars/kwid
 renault,triber,https://www.zigwheels.com/renault-cars/triber
 renault,kiger,https://www.zigwheels.com/renault-cars/kiger
 renault,duster 2025,https://www.zigwheels.com/renault-cars/duster-2025
-renault,arkana,https://www.zigwheels.com/renault-cars/arkana
 renault,bigster,https://www.zigwheels.com/renault-cars/bigster
+renault,triber 2025,https://www.zigwheels.com/renault-cars/triber-2025
+renault,kiger 2025,https://www.zigwheels.com/renault-cars/kiger-2025
 renault,k-ze,https://www.zigwheels.com/renault-cars/k-ze
 renault,zoe,https://www.zigwheels.com/renault-cars/zoe
+renault,arkana,https://www.zigwheels.com/renault-cars/arkana
 renault,clio,https://www.zigwheels.com/renault-cars/clio
 renault,laguna,https://www.zigwheels.com/renault-cars/laguna
 renault,sandero,https://www.zigwheels.com/renault-cars/sandero
@@ -330,20 +330,18 @@ renault,duster turbo,https://www.zigwheels.com/renault-cars/duster-turbo
 renault,twingo,https://www.zigwheels.com/renault-cars/twingo
 renault,kardian,https://www.zigwheels.com/renault-cars/kardian
 renault,kwid ev,https://www.zigwheels.com/renault-cars/kwid-ev
-renault,kiger 2025,https://www.zigwheels.com/renault-cars/kiger-2025
-renault,triber 2025,https://www.zigwheels.com/renault-cars/triber-2025
 porsche,911,https://www.zigwheels.com/porsche-cars/911
 porsche,cayenne,https://www.zigwheels.com/porsche-cars/cayenne
 porsche,macan,https://www.zigwheels.com/porsche-cars/macan
 porsche,panamera,https://www.zigwheels.com/porsche-cars/panamera
+porsche,taycan,https://www.zigwheels.com/porsche-cars/taycan
 porsche,cayenne coupe,https://www.zigwheels.com/porsche-cars/cayenne-coupe
 porsche,macan ev,https://www.zigwheels.com/porsche-cars/macan-ev
-porsche,taycan,https://www.zigwheels.com/porsche-cars/taycan
 nissan,magnite,https://www.zigwheels.com/nissan-cars/magnite
 nissan,patrol,https://www.zigwheels.com/nissan-cars/patrol
 nissan,terra,https://www.zigwheels.com/nissan-cars/terra
-nissan,juke,https://www.zigwheels.com/nissan-cars/juke
 nissan,x-trail,https://www.zigwheels.com/nissan-cars/x-trail
+nissan,juke,https://www.zigwheels.com/nissan-cars/juke
 nissan,leaf,https://www.zigwheels.com/nissan-cars/leaf
 nissan,note e power,https://www.zigwheels.com/nissan-cars/note-e-power
 nissan,murano,https://www.zigwheels.com/nissan-cars/murano
@@ -367,8 +365,8 @@ byd,atto 2,https://www.zigwheels.com/byd-cars/atto-2
 citroen,c3,https://www.zigwheels.com/citroen-cars/c3
 citroen,basalt,https://www.zigwheels.com/citroen-cars/basalt
 citroen,aircross,https://www.zigwheels.com/citroen-cars/c3-aircross
-citroen,ec3,https://www.zigwheels.com/citroen-cars/ec3
 citroen,c5 aircross,https://www.zigwheels.com/citroen-cars/c5-aircross
+citroen,ec3,https://www.zigwheels.com/citroen-cars/ec3
 lamborghini,urus,https://www.zigwheels.com/lamborghini-cars/urus
 lamborghini,revuelto,https://www.zigwheels.com/lamborghini-cars/revuelto
 lamborghini,huracan evo,https://www.zigwheels.com/lamborghini-cars/huracan-evo
@@ -401,9 +399,9 @@ ford,mustang mach e,https://www.zigwheels.com/ford-cars/mustang-mach-e
 lexus,es,https://www.zigwheels.com/lexus-cars/es
 lexus,lx,https://www.zigwheels.com/lexus-cars/lx
 lexus,lm,https://www.zigwheels.com/lexus-cars/lm
-lexus,gx,https://www.zigwheels.com/lexus-cars/gx
 lexus,ux,https://www.zigwheels.com/lexus-cars/ux
 lexus,gs,https://www.zigwheels.com/lexus-cars/gs
+lexus,gx,https://www.zigwheels.com/lexus-cars/gx
 lexus,is,https://www.zigwheels.com/lexus-cars/is
 lexus,nx,https://www.zigwheels.com/lexus-cars/nx
 lexus,rx,https://www.zigwheels.com/lexus-cars/rx
@@ -412,9 +410,9 @@ bugatti,chiron,https://www.zigwheels.com/bugatti-cars/chiron
 tesla,cybertruck,https://www.zigwheels.com/tesla-cars/cybertruck
 tesla,model 2,https://www.zigwheels.com/tesla-cars/model-2
 tesla,model s,https://www.zigwheels.com/tesla-cars/model-s
+tesla,model 3,https://www.zigwheels.com/tesla-cars/model-3
 tesla,model y,https://www.zigwheels.com/tesla-cars/model-y
 tesla,model x,https://www.zigwheels.com/tesla-cars/model-x
-tesla,model 3,https://www.zigwheels.com/tesla-cars/model-3
 volkswagen,virtus,https://www.zigwheels.com/volkswagen-cars/virtus
 volkswagen,taigun,https://www.zigwheels.com/volkswagen-cars/taigun
 volkswagen,tiguan,https://www.zigwheels.com/volkswagen-cars/tiguan
@@ -429,9 +427,9 @@ bentley,continental,https://www.zigwheels.com/bentley-cars/continental
 bentley,exp 9f,https://www.zigwheels.com/bentley-cars/exp-9f
 bentley,bentayga,https://www.zigwheels.com/bentley-cars/bentayga
 isuzu,d-max,https://www.zigwheels.com/isuzu-cars/d-max
-isuzu,v-cross,https://www.zigwheels.com/isuzu-cars/v-cross
 isuzu,s-cab,https://www.zigwheels.com/isuzu-cars/s-cab
 isuzu,s-cab z,https://www.zigwheels.com/isuzu-cars/s-cab-z
+isuzu,v-cross,https://www.zigwheels.com/isuzu-cars/v-cross
 isuzu,mu-x,https://www.zigwheels.com/isuzu-cars/mu-x
 isuzu,hi-lander,https://www.zigwheels.com/isuzu-cars/hi-lander
 isuzu,d-max ev,https://www.zigwheels.com/isuzu-cars/d-max-ev
@@ -446,20 +444,21 @@ maserati,kubang,https://www.zigwheels.com/maserati-cars/kubang
 maserati,ghibli,https://www.zigwheels.com/maserati-cars/ghibli
 maserati,mc 20,https://www.zigwheels.com/maserati-cars/mc-20
 maserati,grecale,https://www.zigwheels.com/maserati-cars/grecale
-mini,cooper s,https://www.zigwheels.com/mini-cars/cooper-s
 mini,cooper se,https://www.zigwheels.com/mini-cars/cooper-se
 mini,cooper 3 door,https://www.zigwheels.com/mini-cars/3-door
 mini,countryman electric,https://www.zigwheels.com/mini-cars/countryman-electric
 mini,cooper countryman,https://www.zigwheels.com/mini-cars/countryman
 mini,cooper se 2024,https://www.zigwheels.com/mini-cars/cooper-se-2024
 mini,cooper countryman s,https://www.zigwheels.com/mini-cars/cooper-countryman-s
+mini,cooper s,https://www.zigwheels.com/mini-cars/cooper-s
 aston martin,db12,https://www.zigwheels.com/aston-martin-cars/db12
-aston martin,zagato,https://www.zigwheels.com/aston-martin-cars/zagato
 aston martin,dbx,https://www.zigwheels.com/aston-martin-cars/dbx
+aston martin,zagato,https://www.zigwheels.com/aston-martin-cars/zagato
 aston martin,dbs superleggera,https://www.zigwheels.com/aston-martin-cars/dbs-superleggera
 aston martin,vantage,https://www.zigwheels.com/aston-martin-cars/vantage
-mclaren,750s,https://www.zigwheels.com/mclaren-cars/750s
+aston martin,vanquish,https://www.zigwheels.com/aston-martin-cars/vanquish
 mclaren,gt,https://www.zigwheels.com/mclaren-cars/gt
+mclaren,750s,https://www.zigwheels.com/mclaren-cars/750s
 mitsubishi,evo xi,https://www.zigwheels.com/mitsubishi-cars/evo-xi
 mitsubishi,xpander,https://www.zigwheels.com/mitsubishi-cars/xpander
 mitsubishi,eclipse cross,https://www.zigwheels.com/mitsubishi-cars/eclipse-cross
@@ -491,14 +490,13 @@ mercedes benz,gla,https://www.zigwheels.com/mercedes-benz-cars/gla
 mercedes benz,gls,https://www.zigwheels.com/mercedes-benz-cars/gls
 mercedes benz,c-class,https://www.zigwheels.com/mercedes-benz-cars/c-class
 mercedes benz,maybach gls,https://www.zigwheels.com/mercedes-benz-cars/maybach-gls
-mercedes benz,e-class,https://www.zigwheels.com/mercedes-benz-cars/e-class
 mercedes benz,s-class,https://www.zigwheels.com/mercedes-benz-cars/s-class
+mercedes benz,e-class,https://www.zigwheels.com/mercedes-benz-cars/e-class
 mercedes benz,glc,https://www.zigwheels.com/mercedes-benz-cars/glc-2023
+mercedes benz,g-class,https://www.zigwheels.com/mercedes-benz-cars/g-class
 mercedes benz,gle,https://www.zigwheels.com/mercedes-benz-cars/gle
 mercedes benz,eqs,https://www.zigwheels.com/mercedes-benz-cars/eqs
-mercedes benz,g-class,https://www.zigwheels.com/mercedes-benz-cars/g-class
-mercedes benz,amg sl,https://www.zigwheels.com/mercedes-benz-cars/amg-sl
-mercedes benz,amg c 63,https://www.zigwheels.com/mercedes-benz-cars/amg-c-63
+mercedes benz,g-class electric,https://www.zigwheels.com/mercedes-benz-cars/g-class-electric
 mercedes benz,a-class limousine,https://www.zigwheels.com/mercedes-benz-cars/a-class-limousine
 mercedes benz,glb,https://www.zigwheels.com/mercedes-benz-cars/glb
 mercedes benz,cla 2020,https://www.zigwheels.com/mercedes-benz-cars/cla-2020
@@ -512,16 +510,17 @@ mercedes benz,amg e 53 cabriolet,https://www.zigwheels.com/mercedes-benz-cars/am
 mercedes benz,glb 2024,https://www.zigwheels.com/mercedes-benz-cars/glb-2024
 mercedes benz,amg gt 4 door coupe,https://www.zigwheels.com/mercedes-benz-cars/amg-gt-4-door-coupe
 mercedes benz,maybach eqs suv,https://www.zigwheels.com/mercedes-benz-cars/maybach-eqs
+mercedes benz,amg sl,https://www.zigwheels.com/mercedes-benz-cars/amg-sl
 mercedes benz,amg a 45 s,https://www.zigwheels.com/mercedes-benz-cars/amg-a-45-s
 mercedes benz,cle cabriolet,https://www.zigwheels.com/mercedes-benz-cars/cle-300-cabriolet
 mercedes benz,v-class 2024,https://www.zigwheels.com/mercedes-benz-cars/v-class-2024
 mercedes benz,amg eqs,https://www.zigwheels.com/mercedes-benz-cars/amg-eqs
 mercedes benz,amg gt coupe,https://www.zigwheels.com/mercedes-benz-cars/amg-gt-coupe
 mercedes benz,amg c43,https://www.zigwheels.com/mercedes-benz-cars/amg-c43
-mercedes benz,g-class electric,https://www.zigwheels.com/mercedes-benz-cars/g-class-electric
 mercedes benz,amg s 63,https://www.zigwheels.com/mercedes-benz-cars/amg-s-63
 mercedes benz,eqb,https://www.zigwheels.com/mercedes-benz-cars/eqb
 mercedes benz,amg glc 43,https://www.zigwheels.com/mercedes-benz-cars/amg-glc-43
+mercedes benz,amg c 63,https://www.zigwheels.com/mercedes-benz-cars/amg-c-63
 mercedes benz,eqe sedan,https://www.zigwheels.com/mercedes-benz-cars/eqe-sedan
 mercedes benz,maybach sl 680,https://www.zigwheels.com/mercedes-benz-cars/maybach-sl-680
 ola electric,car,https://www.zigwheels.com/ola-electric-cars/electric-car
