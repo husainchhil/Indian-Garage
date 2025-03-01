@@ -1,20 +1,20 @@
 brand,model,model_link,variant,variant_link,available
-tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,black edition,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/dark-edition,1
-tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,drum,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/drum,1
-tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,disc,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/disc,1
-tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,disc bluetooth,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/disc-bluetooth,1
-tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,racing edition,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/racing-edition,1
-tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,std,https://www.zigwheels.com/tvs-bikes/ntorq-125/disc-bs6,1
-tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,race edition,https://www.zigwheels.com/tvs-bikes/ntorq-125/race-edition-bs6,1
-tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,super squad edition,https://www.zigwheels.com/tvs-bikes/ntorq-125/super-squad-edition,1
-tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,race xp,https://www.zigwheels.com/tvs-bikes/ntorq-125/race-xp,1
-tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,xt,https://www.zigwheels.com/tvs-bikes/ntorq-125/xt,1
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider,drum,https://www.zigwheels.com/tvs-bikes/raider/drum,1
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider,single seat,https://www.zigwheels.com/tvs-bikes/raider/single-seat,1
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider,split seat,https://www.zigwheels.com/tvs-bikes/raider/disc,1
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider,igo,https://www.zigwheels.com/tvs-bikes/raider/igo,1
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider,super squad edition,https://www.zigwheels.com/tvs-bikes/raider/super-squad-edition,1
 tvs,raider,https://www.zigwheels.com/tvs-bikes/raider,smartxonnect,https://www.zigwheels.com/tvs-bikes/raider/smartxonnect,1
+tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,std,https://www.zigwheels.com/tvs-bikes/ntorq-125/disc-bs6,1
+tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,race edition,https://www.zigwheels.com/tvs-bikes/ntorq-125/race-edition-bs6,1
+tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,super squad edition,https://www.zigwheels.com/tvs-bikes/ntorq-125/super-squad-edition,1
+tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,race xp,https://www.zigwheels.com/tvs-bikes/ntorq-125/race-xp,1
+tvs,ntorq 125,https://www.zigwheels.com/tvs-bikes/ntorq-125,xt,https://www.zigwheels.com/tvs-bikes/ntorq-125/xt,1
+tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,black edition,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/dark-edition,1
+tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,drum,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/drum,1
+tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,disc,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/disc,1
+tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,disc bluetooth,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/disc-bluetooth,1
+tvs,apache rtr 160,https://www.zigwheels.com/tvs-bikes/apache-rtr-160,racing edition,https://www.zigwheels.com/tvs-bikes/apache-rtr-160/racing-edition,1
 tvs,jupiter,https://www.zigwheels.com/tvs-bikes/jupiter,drum,https://www.zigwheels.com/tvs-bikes/jupiter/sheet-metal-wheel,1
 tvs,jupiter,https://www.zigwheels.com/tvs-bikes/jupiter,drum alloy,https://www.zigwheels.com/tvs-bikes/jupiter/bs6,1
 tvs,jupiter,https://www.zigwheels.com/tvs-bikes/jupiter,drum smartxonnect,https://www.zigwheels.com/tvs-bikes/jupiter/zx-drum-smartxonnect,1
@@ -22,15 +22,14 @@ tvs,jupiter,https://www.zigwheels.com/tvs-bikes/jupiter,disc smartxonnect,https:
 tvs,apache rtr 310,https://www.zigwheels.com/tvs-bikes/apache-rtr-310,arsenal black without quickshifter,https://www.zigwheels.com/tvs-bikes/apache-rtr-310/arsenal-black-without-quickshifter,1
 tvs,apache rtr 310,https://www.zigwheels.com/tvs-bikes/apache-rtr-310,arsenal black,https://www.zigwheels.com/tvs-bikes/apache-rtr-310/arsenal-black,1
 tvs,apache rtr 310,https://www.zigwheels.com/tvs-bikes/apache-rtr-310,fury yellow,https://www.zigwheels.com/tvs-bikes/apache-rtr-310/fury-yellow,1
-tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,ss - lighting black,https://www.zigwheels.com/tvs-bikes/ronin/ss-lighting-black,1
-tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,ss - magma red,https://www.zigwheels.com/tvs-bikes/ronin/std,1
-tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,ds,https://www.zigwheels.com/tvs-bikes/ronin/dual-tone-single-channel,1
-tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,ds (2025),https://www.zigwheels.com/tvs-bikes/ronin/ds-2025,1
-tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,td,https://www.zigwheels.com/tvs-bikes/ronin/triple-tone-dual-channel-galactic-grey,1
-tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,td - special edition,https://www.zigwheels.com/tvs-bikes/ronin/td-special-edition,1
-tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125,drum alloy,https://www.zigwheels.com/tvs-bikes/jupiter-125/drum-alloy,1
-tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125,disc,https://www.zigwheels.com/tvs-bikes/jupiter-125/disc,1
-tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125,smartxonnect,https://www.zigwheels.com/tvs-bikes/jupiter-125/smartxonnect,1
+tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,base - lighting black,https://www.zigwheels.com/tvs-bikes/ronin/ss-lighting-black,1
+tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,base - magma red,https://www.zigwheels.com/tvs-bikes/ronin/std,1
+tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,mid - glacier silver,https://www.zigwheels.com/tvs-bikes/ronin/mid-glacier-silver,1
+tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,mid - charcoal ember,https://www.zigwheels.com/tvs-bikes/ronin/ds-2025,1
+tvs,ronin,https://www.zigwheels.com/tvs-bikes/ronin,top,https://www.zigwheels.com/tvs-bikes/ronin/td-special-edition,1
+tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric,2.2 kwh,https://www.zigwheels.com/tvs-bikes/iqube-electric/2.2-kwh,1
+tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric,celebration edition,https://www.zigwheels.com/tvs-bikes/iqube-electric/celebration-edition,1
+tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric,3.4 kwh,https://www.zigwheels.com/tvs-bikes/iqube-electric/std,1
 tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,black edition,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v/dark-edition,1
 tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,"front disc, rear drum",https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v/drum,1
 tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,front and rear disc,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v/single-disc,1
@@ -38,17 +37,17 @@ tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,disc
 tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,special edition,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v/special-edition,1
 tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,dual channel abs,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v/dual-channel-abs,1
 tvs,apache rtr 160 4v,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v,dual channel abs with usd,https://www.zigwheels.com/tvs-bikes/apache-rtr-160-4v/dual-channel-abs-with-usd,1
-tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric,2.2 kwh,https://www.zigwheels.com/tvs-bikes/iqube-electric/2.2-kwh,1
-tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric,celebration edition,https://www.zigwheels.com/tvs-bikes/iqube-electric/celebration-edition,1
-tvs,iqube,https://www.zigwheels.com/tvs-bikes/iqube-electric,3.4 kwh,https://www.zigwheels.com/tvs-bikes/iqube-electric/std,1
+tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125,drum alloy,https://www.zigwheels.com/tvs-bikes/jupiter-125/drum-alloy,1
+tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125,disc,https://www.zigwheels.com/tvs-bikes/jupiter-125/disc,1
+tvs,jupiter 125,https://www.zigwheels.com/tvs-bikes/jupiter-125,smartxonnect,https://www.zigwheels.com/tvs-bikes/jupiter-125/smartxonnect,1
 tvs,xl100,https://www.zigwheels.com/tvs-bikes/xl100,heavy duty,https://www.zigwheels.com/tvs-bikes/xl100/heavy-duty-bs6,1
 tvs,xl100,https://www.zigwheels.com/tvs-bikes/xl100,heavy duty i touch start,https://www.zigwheels.com/tvs-bikes/xl100/xl100-heavy-duty-i-touch-start-bs6,1
 tvs,xl100,https://www.zigwheels.com/tvs-bikes/xl100,comfort i-touch start,https://www.zigwheels.com/tvs-bikes/xl100/comfort-i-touch-start-bs6,1
 tvs,xl100,https://www.zigwheels.com/tvs-bikes/xl100,heavy duty i touch start win edition,https://www.zigwheels.com/tvs-bikes/xl100/heavy-duty-i-touch-start-winner-edition,1
-tvs,apache rr 310,https://www.zigwheels.com/tvs-bikes/apache-rr-310,red without quickshifter,https://www.zigwheels.com/tvs-bikes/apache-rr-310/red-without-quickshifter,1
-tvs,apache rr 310,https://www.zigwheels.com/tvs-bikes/apache-rr-310,red with quickshifter,https://www.zigwheels.com/tvs-bikes/apache-rr-310/red-with-quickshifter,1
 tvs,sport,https://www.zigwheels.com/tvs-bikes/sport,self start alloy wheel new,https://www.zigwheels.com/tvs-bikes/sport/self-start-alloy-wheel-new,1
 tvs,sport,https://www.zigwheels.com/tvs-bikes/sport,self start alloy wheel,https://www.zigwheels.com/tvs-bikes/sport/electric-start-long-seat-bs6,1
+tvs,apache rr 310,https://www.zigwheels.com/tvs-bikes/apache-rr-310,red without quickshifter,https://www.zigwheels.com/tvs-bikes/apache-rr-310/red-without-quickshifter,1
+tvs,apache rr 310,https://www.zigwheels.com/tvs-bikes/apache-rr-310,red with quickshifter,https://www.zigwheels.com/tvs-bikes/apache-rr-310/red-with-quickshifter,1
 tvs,radeon,https://www.zigwheels.com/tvs-bikes/radeon,all black edition,https://www.zigwheels.com/tvs-bikes/radeon/all-black-edition,1
 tvs,radeon,https://www.zigwheels.com/tvs-bikes/radeon,base edition,https://www.zigwheels.com/tvs-bikes/radeon/drum-es-alloy-bs6,1
 tvs,radeon,https://www.zigwheels.com/tvs-bikes/radeon,digi cluster edition drum,https://www.zigwheels.com/tvs-bikes/radeon/dual-tone-edition-drum,1
@@ -64,10 +63,10 @@ tvs,x electric scooter,https://www.zigwheels.com/tvs-bikes/x-electric-scooter,st
 tvs,jupiter cng,https://www.zigwheels.com/tvs-bikes/jupiter-cng,std,https://www.zigwheels.com/tvs-bikes/jupiter-cng/std,1
 tvs,fiero 125,https://www.zigwheels.com/tvs-bikes/fiero-125,std,https://www.zigwheels.com/tvs-bikes/fiero-125/std,1
 tvs,vision iqube concept,https://www.zigwheels.com/tvs-bikes/vision-iqube-concept,std,https://www.zigwheels.com/tvs-bikes/vision-iqube-concept/std,1
+tvs,2025 iqube st concept,https://www.zigwheels.com/tvs-bikes/2025-iqube-st-concept,std,https://www.zigwheels.com/tvs-bikes/2025-iqube-st-concept/std,1
 tvs,rtsx,https://www.zigwheels.com/tvs-bikes/rtsx,std,https://www.zigwheels.com/tvs-bikes/rtsx/std,1
 tvs,concept eb1,https://www.zigwheels.com/tvs-bikes/concept-eb1,std,https://www.zigwheels.com/tvs-bikes/concept-eb1/std,1
 tvs,x nfe concept,https://www.zigwheels.com/tvs-bikes/x-nfe-concept,std,https://www.zigwheels.com/tvs-bikes/x-nfe-concept/std,1
-tvs,2025 iqube st concept,https://www.zigwheels.com/tvs-bikes/2025-iqube-st-concept,std,https://www.zigwheels.com/tvs-bikes/2025-iqube-st-concept/std,1
 tvs,iqube st,https://www.zigwheels.com/tvs-bikes/iqube-st,3.4 kwh,https://www.zigwheels.com/tvs-bikes/iqube-st/3.4-kwh,1
 tvs,iqube st,https://www.zigwheels.com/tvs-bikes/iqube-st,5.1 kwh,https://www.zigwheels.com/tvs-bikes/iqube-st/5.1-kwh,1
 tvs,iqube s,https://www.zigwheels.com/tvs-bikes/iqube-s,celebration edition,https://www.zigwheels.com/tvs-bikes/iqube-s/celebration-edition,1
@@ -77,55 +76,59 @@ bajaj,pulsar 125,https://www.zigwheels.com/bajaj-bikes/pulsar-125,neon single se
 bajaj,pulsar 125,https://www.zigwheels.com/bajaj-bikes/pulsar-125,carbon fiber single seat,https://www.zigwheels.com/bajaj-bikes/pulsar-125/split-seat-drum-cbs-bs6,1
 bajaj,pulsar 125,https://www.zigwheels.com/bajaj-bikes/pulsar-125,carbon fiber split seat,https://www.zigwheels.com/bajaj-bikes/pulsar-125/split-seat,1
 bajaj,pulsar ns 125,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125,std,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125/std,1
+bajaj,pulsar ns 125,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125,bt,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125/bt,1
+bajaj,pulsar ns 125,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125,abs,https://www.zigwheels.com/bajaj-bikes/pulsar-ns-125/abs,1
 bajaj,pulsar ns160,https://www.zigwheels.com/bajaj-bikes/pulsar-150ns,std,https://www.zigwheels.com/bajaj-bikes/pulsar-150ns/std-2023,1
+bajaj,pulsar 150,https://www.zigwheels.com/bajaj-bikes/pulsar-150,single disc,https://www.zigwheels.com/bajaj-bikes/pulsar-150/bs6,1
+bajaj,pulsar 150,https://www.zigwheels.com/bajaj-bikes/pulsar-150,twin disc,https://www.zigwheels.com/bajaj-bikes/pulsar-150/twin-disc-bs6,1
 bajaj,pulsar n160,https://www.zigwheels.com/bajaj-bikes/pulsar-n160,single seat,https://www.zigwheels.com/bajaj-bikes/pulsar-n160/single-seat,1
 bajaj,pulsar n160,https://www.zigwheels.com/bajaj-bikes/pulsar-n160,dual channel abs,https://www.zigwheels.com/bajaj-bikes/pulsar-n160/dual-channel-abs,1
 bajaj,pulsar n160,https://www.zigwheels.com/bajaj-bikes/pulsar-n160,dual channel abs (with usd),https://www.zigwheels.com/bajaj-bikes/pulsar-n160/new,1
-bajaj,pulsar 150,https://www.zigwheels.com/bajaj-bikes/pulsar-150,single disc,https://www.zigwheels.com/bajaj-bikes/pulsar-150/bs6,1
-bajaj,pulsar 150,https://www.zigwheels.com/bajaj-bikes/pulsar-150,twin disc,https://www.zigwheels.com/bajaj-bikes/pulsar-150/twin-disc-bs6,1
-bajaj,pulsar 220 f,https://www.zigwheels.com/bajaj-bikes/pulsar-220-f,std,https://www.zigwheels.com/bajaj-bikes/pulsar-220-f/std,1
+bajaj,chetak 3501,https://www.zigwheels.com/bajaj-bikes/chetak,tecpac,https://www.zigwheels.com/bajaj-bikes/chetak/tecpac,1
+bajaj,chetak 3501,https://www.zigwheels.com/bajaj-bikes/chetak,standard,https://www.zigwheels.com/bajaj-bikes/chetak/standard,1
 bajaj,pulsar ns400z,https://www.zigwheels.com/bajaj-bikes/pulsar-ns400,std,https://www.zigwheels.com/bajaj-bikes/pulsar-ns400/std,1
-bajaj,chetak,https://www.zigwheels.com/bajaj-bikes/chetak,3503,https://www.zigwheels.com/bajaj-bikes/chetak/3503,1
-bajaj,chetak,https://www.zigwheels.com/bajaj-bikes/chetak,3502,https://www.zigwheels.com/bajaj-bikes/chetak/3502,1
-bajaj,chetak,https://www.zigwheels.com/bajaj-bikes/chetak,3501,https://www.zigwheels.com/bajaj-bikes/chetak/3501,1
+bajaj,pulsar 220 f,https://www.zigwheels.com/bajaj-bikes/pulsar-220-f,std,https://www.zigwheels.com/bajaj-bikes/pulsar-220-f/std,1
 bajaj,freedom 125,https://www.zigwheels.com/bajaj-bikes/freedom-125,ng04 drum,https://www.zigwheels.com/bajaj-bikes/freedom-125/drum,1
 bajaj,freedom 125,https://www.zigwheels.com/bajaj-bikes/freedom-125,ng04 drum led,https://www.zigwheels.com/bajaj-bikes/freedom-125/drum-led,1
 bajaj,freedom 125,https://www.zigwheels.com/bajaj-bikes/freedom-125,ng04 disc led,https://www.zigwheels.com/bajaj-bikes/freedom-125/disc-led,1
 bajaj,dominar 400,https://www.zigwheels.com/bajaj-bikes/dominar-400,std,https://www.zigwheels.com/bajaj-bikes/dominar-400/accessorised,1
-bajaj,pulsar n150,https://www.zigwheels.com/bajaj-bikes/pulsar-n150,std,https://www.zigwheels.com/bajaj-bikes/pulsar-n150/std,1
 bajaj,pulsar rs200,https://www.zigwheels.com/bajaj-bikes/pulsar-rs-200,std,https://www.zigwheels.com/bajaj-bikes/pulsar-rs-200/std,1
+bajaj,pulsar n150,https://www.zigwheels.com/bajaj-bikes/pulsar-n150,std,https://www.zigwheels.com/bajaj-bikes/pulsar-n150/std,1
 bajaj,platina 110,https://www.zigwheels.com/bajaj-bikes/platina,drum,https://www.zigwheels.com/bajaj-bikes/platina/es-drum,1
 bajaj,pulsar n250,https://www.zigwheels.com/bajaj-bikes/pulsar-n250,std,https://www.zigwheels.com/bajaj-bikes/pulsar-n250/2024,1
 bajaj,platina 100,https://www.zigwheels.com/bajaj-bikes/platina-100,std,https://www.zigwheels.com/bajaj-bikes/platina-100/es-alloy-bs6,1
 bajaj,dominar 250,https://www.zigwheels.com/bajaj-bikes/dominar-250,std,https://www.zigwheels.com/bajaj-bikes/dominar-250/std,1
-bajaj,avenger street 160,https://www.zigwheels.com/bajaj-bikes/avenger-160,std,https://www.zigwheels.com/bajaj-bikes/avenger-160/bs6,1
-bajaj,ct 110x,https://www.zigwheels.com/bajaj-bikes/ct110,electric start,https://www.zigwheels.com/bajaj-bikes/ct110/x,1
 bajaj,pulsar n125,https://www.zigwheels.com/bajaj-bikes/pulsar-n125,led disc,https://www.zigwheels.com/bajaj-bikes/pulsar-n125/led-disc,1
 bajaj,pulsar n125,https://www.zigwheels.com/bajaj-bikes/pulsar-n125,led disc bt,https://www.zigwheels.com/bajaj-bikes/pulsar-n125/led-disc-bt,1
+bajaj,avenger street 160,https://www.zigwheels.com/bajaj-bikes/avenger-160,std,https://www.zigwheels.com/bajaj-bikes/avenger-160/bs6,1
+bajaj,ct 110x,https://www.zigwheels.com/bajaj-bikes/ct110,electric start,https://www.zigwheels.com/bajaj-bikes/ct110/x,1
 bajaj,avenger cruise 220,https://www.zigwheels.com/bajaj-bikes/avenger-220-cruise,std,https://www.zigwheels.com/bajaj-bikes/avenger-220-cruise/bs6,1
 bajaj,avenger 400,https://www.zigwheels.com/bajaj-bikes/avenger-400,std,https://www.zigwheels.com/bajaj-bikes/avenger-400/std,1
 bajaj,avenger 220 street,https://www.zigwheels.com/bajaj-bikes/avenger-220-street,std,https://www.zigwheels.com/bajaj-bikes/avenger-220-street/std,1
-bajaj,chetak [2020 - 2024],https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024,2903,https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024/2903,1
-bajaj,chetak [2020 - 2024],https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024,2903 tecpac,https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024/2903-tecpac,1
-bajaj,chetak [2020 - 2024],https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024,3202,https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024/3202,1
-bajaj,chetak [2020 - 2024],https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024,3202 tecpac,https://www.zigwheels.com/bajaj-bikes/chetak-2020-2024/3202-tecpac,1
+bajaj,chetak 3502,https://www.zigwheels.com/bajaj-bikes/chetak-3502,standard,https://www.zigwheels.com/bajaj-bikes/chetak-3502/standard,1
+bajaj,chetak 3502,https://www.zigwheels.com/bajaj-bikes/chetak-3502,tecpac,https://www.zigwheels.com/bajaj-bikes/chetak-3502/tecpac,1
+bajaj,chetak 2903,https://www.zigwheels.com/bajaj-bikes/chetak-2903,standard,https://www.zigwheels.com/bajaj-bikes/chetak-2903/standard,1
+bajaj,chetak 2903,https://www.zigwheels.com/bajaj-bikes/chetak-2903,tecpac,https://www.zigwheels.com/bajaj-bikes/chetak-2903/tecpac,1
+bajaj,chetak 3503,https://www.zigwheels.com/bajaj-bikes/chetak-3503,standard,https://www.zigwheels.com/bajaj-bikes/chetak-3503/standard,1
+bajaj,chetak 3503,https://www.zigwheels.com/bajaj-bikes/chetak-3503,tecpac,https://www.zigwheels.com/bajaj-bikes/chetak-3503/tecpac,1
+bajaj,chetak 3202,https://www.zigwheels.com/bajaj-bikes/chetak-3202,standard,https://www.zigwheels.com/bajaj-bikes/chetak-3202/standard,1
+bajaj,chetak 3202,https://www.zigwheels.com/bajaj-bikes/chetak-3202,tecpac,https://www.zigwheels.com/bajaj-bikes/chetak-3202/tecpac,1
 bajaj,pulsar adventure bike,https://www.zigwheels.com/bajaj-bikes/pulsar-adventure-bike,std,https://www.zigwheels.com/bajaj-bikes/pulsar-adventure-bike/std,1
-royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter,retro,https://www.zigwheels.com/royal-enfield-bikes/hunter/std,1
-royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter,metro,https://www.zigwheels.com/royal-enfield-bikes/hunter/metro,1
-royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter,metro rebel,https://www.zigwheels.com/royal-enfield-bikes/hunter/metro-rebel,1
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,redditch,https://www.zigwheels.com/royal-enfield-bikes/classic-350/redditch,1
-royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,heritage,https://www.zigwheels.com/royal-enfield-bikes/classic-350/heritage,1
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,halcyon,https://www.zigwheels.com/royal-enfield-bikes/classic-350/halcyon,1
+royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,heritage,https://www.zigwheels.com/royal-enfield-bikes/classic-350/heritage,1
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,heritage premium,https://www.zigwheels.com/royal-enfield-bikes/classic-350/heritage-premium,1
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,signals,https://www.zigwheels.com/royal-enfield-bikes/classic-350/signals-series-with-dual-channel,1
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,dark,https://www.zigwheels.com/royal-enfield-bikes/classic-350/dark-series-with-dual-channel,1
 royal enfield,classic 350,https://www.zigwheels.com/royal-enfield-bikes/classic-350,chrome,https://www.zigwheels.com/royal-enfield-bikes/classic-350/chrome-series-with-dual-channel,1
-royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,rocker red,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/rocker-red,1
+royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter,retro,https://www.zigwheels.com/royal-enfield-bikes/hunter/std,1
+royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter,metro,https://www.zigwheels.com/royal-enfield-bikes/hunter/metro,1
+royal enfield,hunter 350,https://www.zigwheels.com/royal-enfield-bikes/hunter,metro rebel,https://www.zigwheels.com/royal-enfield-bikes/hunter/metro-rebel,1
 royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,british racing green,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/british-racing-green,1
+royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,rocker red,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/rocker-red,1
 royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,dux deluxe,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/dux-deluxe,1
 royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,slipstream blue,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/slipstream-blue,1
 royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,apex grey,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/apex-grey,1
-royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,r,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/r,1
 royal enfield,continental gt 650,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650,mr clean,https://www.zigwheels.com/royal-enfield-bikes/continental-gt-650/mr-clean,1
 royal enfield,meteor 350,https://www.zigwheels.com/royal-enfield-bikes/meteor,fireball,https://www.zigwheels.com/royal-enfield-bikes/meteor/std,1
 royal enfield,meteor 350,https://www.zigwheels.com/royal-enfield-bikes/meteor,stellar,https://www.zigwheels.com/royal-enfield-bikes/meteor/stellar,1
@@ -136,37 +139,37 @@ royal enfield,bullet 350,https://www.zigwheels.com/royal-enfield-bikes/bullet-35
 royal enfield,bullet 350,https://www.zigwheels.com/royal-enfield-bikes/bullet-350,military silverred and military silverblack,https://www.zigwheels.com/royal-enfield-bikes/bullet-350/military-silverred-and-military-silverblack,1
 royal enfield,bullet 350,https://www.zigwheels.com/royal-enfield-bikes/bullet-350,standard maroon and standard black,https://www.zigwheels.com/royal-enfield-bikes/bullet-350/standard-maroon-and-standard-black,1
 royal enfield,bullet 350,https://www.zigwheels.com/royal-enfield-bikes/bullet-350,black gold,https://www.zigwheels.com/royal-enfield-bikes/bullet-350/black-gold,1
-royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450,analogue,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450/std,1
-royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450,dash,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450/dash,1
-royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450,flash,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450/flash,1
 royal enfield,himalayan 450,https://www.zigwheels.com/royal-enfield-bikes/himalayan,base,https://www.zigwheels.com/royal-enfield-bikes/himalayan/base,1
 royal enfield,himalayan 450,https://www.zigwheels.com/royal-enfield-bikes/himalayan,pass,https://www.zigwheels.com/royal-enfield-bikes/himalayan/pass,1
 royal enfield,himalayan 450,https://www.zigwheels.com/royal-enfield-bikes/himalayan,summit - kamet white,https://www.zigwheels.com/royal-enfield-bikes/himalayan/summit-kamet-white,1
 royal enfield,himalayan 450,https://www.zigwheels.com/royal-enfield-bikes/himalayan,summit - hanle black,https://www.zigwheels.com/royal-enfield-bikes/himalayan/summit-hanle-black,1
+royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450,analogue,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450/std,1
+royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450,dash,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450/dash,1
+royal enfield,guerrilla 450,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450,flash,https://www.zigwheels.com/royal-enfield-bikes/guerrilla-450/flash,1
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,cali green,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/cali-green,1
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,canyon red,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/canyon-red,1
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,black pearl,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/black-pearl,1
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,sunset strip,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/sunset-strip,1
-royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,barcelona blue,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/barcelona-blue,1
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,black ray,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/black-ray,1
+royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,barcelona blue,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/barcelona-blue,1
 royal enfield,interceptor 650,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650,mark 2,https://www.zigwheels.com/royal-enfield-bikes/interceptor-650/mark-2,1
 royal enfield,super meteor 650,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650,astral,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650/std,1
 royal enfield,super meteor 650,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650,interstellar,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650/interstellar,1
 royal enfield,super meteor 650,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650,celestial,https://www.zigwheels.com/royal-enfield-bikes/super-meteor-650/celestial,1
-royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,sheet metal grey,https://www.zigwheels.com/royal-enfield-bikes/shotgun/sheet-metal-grey,1
-royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,stencil white,https://www.zigwheels.com/royal-enfield-bikes/shotgun/stencil-white,1
-royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,plasma blue and drill green,https://www.zigwheels.com/royal-enfield-bikes/shotgun/plasma-blue-and-drill-green,1
 royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,limited edition,https://www.zigwheels.com/royal-enfield-bikes/shotgun/limited-edition,1
+royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,sheet metal grey,https://www.zigwheels.com/royal-enfield-bikes/shotgun/sheet-metal-grey,1
+royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,plasma blue and drill green,https://www.zigwheels.com/royal-enfield-bikes/shotgun/plasma-blue-and-drill-green,1
+royal enfield,shotgun 650,https://www.zigwheels.com/royal-enfield-bikes/shotgun,stencil white,https://www.zigwheels.com/royal-enfield-bikes/shotgun/stencil-white,1
 royal enfield,bullet 650,https://www.zigwheels.com/royal-enfield-bikes/bullet-650,std,https://www.zigwheels.com/royal-enfield-bikes/bullet-650/std,1
 royal enfield,scram 411,https://www.zigwheels.com/royal-enfield-bikes/scram,graphite series,https://www.zigwheels.com/royal-enfield-bikes/scram/std,1
 royal enfield,scram 411,https://www.zigwheels.com/royal-enfield-bikes/scram,blazing black and skyline blue,https://www.zigwheels.com/royal-enfield-bikes/scram/blazing-black-and-skyline-blue,1
 royal enfield,scram 411,https://www.zigwheels.com/royal-enfield-bikes/scram,white flame and silver spirit,https://www.zigwheels.com/royal-enfield-bikes/scram/white-flame-and-silver-spirit,1
-royal enfield,classic 650,https://www.zigwheels.com/royal-enfield-bikes/classic-650,std,https://www.zigwheels.com/royal-enfield-bikes/classic-650/std,1
 royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650,broadwalk white,https://www.zigwheels.com/royal-enfield-bikes/bear-650/broadwalk-white,1
-royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650,petrol green,https://www.zigwheels.com/royal-enfield-bikes/bear-650/petrol-green,1
 royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650,wild honey,https://www.zigwheels.com/royal-enfield-bikes/bear-650/wild-honey,1
+royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650,petrol green,https://www.zigwheels.com/royal-enfield-bikes/bear-650/petrol-green,1
 royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650,golden shadow,https://www.zigwheels.com/royal-enfield-bikes/bear-650/golden-shadow,1
 royal enfield,bear 650,https://www.zigwheels.com/royal-enfield-bikes/bear-650,two four nine,https://www.zigwheels.com/royal-enfield-bikes/bear-650/two-four-nine,1
+royal enfield,classic 650,https://www.zigwheels.com/royal-enfield-bikes/classic-650,std,https://www.zigwheels.com/royal-enfield-bikes/classic-650/std,1
 royal enfield,scram 440,https://www.zigwheels.com/royal-enfield-bikes/scram-440,force,https://www.zigwheels.com/royal-enfield-bikes/scram-440/force,1
 royal enfield,scram 440,https://www.zigwheels.com/royal-enfield-bikes/scram-440,trail,https://www.zigwheels.com/royal-enfield-bikes/scram-440/trail,1
 royal enfield,goan classic 350,https://www.zigwheels.com/royal-enfield-bikes/goan-classic-350,single tone,https://www.zigwheels.com/royal-enfield-bikes/goan-classic-350/single-tone,1
@@ -177,9 +180,9 @@ royal enfield,continental gt 450,https://www.zigwheels.com/royal-enfield-bikes/c
 royal enfield,interceptor 750,https://www.zigwheels.com/royal-enfield-bikes/interceptor-750,std,https://www.zigwheels.com/royal-enfield-bikes/interceptor-750/std,1
 royal enfield,himalayan electric,https://www.zigwheels.com/royal-enfield-bikes/himalayan-electric,std,https://www.zigwheels.com/royal-enfield-bikes/himalayan-electric/std,1
 royal enfield,constellation,https://www.zigwheels.com/royal-enfield-bikes/constellation,std,https://www.zigwheels.com/royal-enfield-bikes/constellation/std,1
-bgauss,c12i max,https://www.zigwheels.com/bgauss-bikes/c12i-max,ex,https://www.zigwheels.com/bgauss-bikes/c12i-max/ex,1
-bgauss,c12i max,https://www.zigwheels.com/bgauss-bikes/c12i-max,max 2.0,https://www.zigwheels.com/bgauss-bikes/c12i-max/max-2.0,1
-bgauss,c12i max,https://www.zigwheels.com/bgauss-bikes/c12i-max,max,https://www.zigwheels.com/bgauss-bikes/c12i-max/std,1
+bgauss,c12i,https://www.zigwheels.com/bgauss-bikes/c12i-max,ex,https://www.zigwheels.com/bgauss-bikes/c12i-max/ex,1
+bgauss,c12i,https://www.zigwheels.com/bgauss-bikes/c12i-max,max 2.0,https://www.zigwheels.com/bgauss-bikes/c12i-max/max-2.0,1
+bgauss,c12i,https://www.zigwheels.com/bgauss-bikes/c12i-max,max,https://www.zigwheels.com/bgauss-bikes/c12i-max/std,1
 bgauss,ruv 350,https://www.zigwheels.com/bgauss-bikes/ruv350,i ex,https://www.zigwheels.com/bgauss-bikes/ruv350/i-ex,1
 bgauss,ruv 350,https://www.zigwheels.com/bgauss-bikes/ruv350,ex,https://www.zigwheels.com/bgauss-bikes/ruv350/ex,1
 bgauss,ruv 350,https://www.zigwheels.com/bgauss-bikes/ruv350,max,https://www.zigwheels.com/bgauss-bikes/ruv350/max,1
@@ -210,8 +213,8 @@ yamaha,fascino 125 fi hybrid,https://www.zigwheels.com/yamaha-bikes/fascino,disc
 yamaha,fascino 125 fi hybrid,https://www.zigwheels.com/yamaha-bikes/fascino,dlx disc,https://www.zigwheels.com/yamaha-bikes/fascino/hybrid-dlx-disc,1
 yamaha,fascino 125 fi hybrid,https://www.zigwheels.com/yamaha-bikes/fascino,spl disc,https://www.zigwheels.com/yamaha-bikes/fascino/hybrid-spl-disc,1
 yamaha,yzf r1,https://www.zigwheels.com/yamaha-bikes/yzf-r1,std,https://www.zigwheels.com/yamaha-bikes/yzf-r1/std,1
-yamaha,fz-fi version 3.0,https://www.zigwheels.com/yamaha-bikes/fz-fi-version-3,std,https://www.zigwheels.com/yamaha-bikes/fz-fi-version-3/bs6,1
 yamaha,xsr 155,https://www.zigwheels.com/yamaha-bikes/xsr155,std,https://www.zigwheels.com/yamaha-bikes/xsr155/std,1
+yamaha,fz-fi version 3.0,https://www.zigwheels.com/yamaha-bikes/fz-fi-version-3,std,https://www.zigwheels.com/yamaha-bikes/fz-fi-version-3/bs6,1
 yamaha,mt-09,https://www.zigwheels.com/yamaha-bikes/mt-09,std,https://www.zigwheels.com/yamaha-bikes/mt-09/std,1
 yamaha,fz-x,https://www.zigwheels.com/yamaha-bikes/fz-x,matte copper and metallic black,https://www.zigwheels.com/yamaha-bikes/fz-x/bluetooth,1
 yamaha,fz-x,https://www.zigwheels.com/yamaha-bikes/fz-x,dark matte blue and matte titan,https://www.zigwheels.com/yamaha-bikes/fz-x/dark-matte-blue,1
@@ -219,8 +222,8 @@ yamaha,fz-x,https://www.zigwheels.com/yamaha-bikes/fz-x,chrome,https://www.zigwh
 yamaha,mt-03,https://www.zigwheels.com/yamaha-bikes/mt-03,std,https://www.zigwheels.com/yamaha-bikes/mt-03/std,1
 yamaha,xsr125,https://www.zigwheels.com/yamaha-bikes/xsr125,std,https://www.zigwheels.com/yamaha-bikes/xsr125/std,1
 yamaha,r7,https://www.zigwheels.com/yamaha-bikes/r7,std,https://www.zigwheels.com/yamaha-bikes/r7/std,1
-yamaha,r3,https://www.zigwheels.com/yamaha-bikes/2021-r3,std,https://www.zigwheels.com/yamaha-bikes/2021-r3/std,1
 yamaha,nmax 155,https://www.zigwheels.com/yamaha-bikes/nmax-155,std,https://www.zigwheels.com/yamaha-bikes/nmax-155/std,1
+yamaha,r3,https://www.zigwheels.com/yamaha-bikes/2021-r3,std,https://www.zigwheels.com/yamaha-bikes/2021-r3/std,1
 yamaha,mt-07,https://www.zigwheels.com/yamaha-bikes/mt-07,std,https://www.zigwheels.com/yamaha-bikes/mt-07/std,1
 yamaha,2025 fz-s fi hybrid,https://www.zigwheels.com/yamaha-bikes/2025-fz-s-fi,dlx,https://www.zigwheels.com/yamaha-bikes/2025-fz-s-fi/dlx,1
 yamaha,neo's,https://www.zigwheels.com/yamaha-bikes/neos,std,https://www.zigwheels.com/yamaha-bikes/neos/std,1
@@ -228,31 +231,31 @@ yamaha,tenere 700,https://www.zigwheels.com/yamaha-bikes/tenere-700,std,https://
 yamaha,2025 r3,https://www.zigwheels.com/yamaha-bikes/r3,std,https://www.zigwheels.com/yamaha-bikes/r3/std,1
 yamaha,lander 250 ,https://www.zigwheels.com/yamaha-bikes/lander-250,std,https://www.zigwheels.com/yamaha-bikes/lander-250/std,1
 yamaha,yzf-r9,https://www.zigwheels.com/yamaha-bikes/yzf-r9,std,https://www.zigwheels.com/yamaha-bikes/yzf-r9/std,1
-honda,sp125,https://www.zigwheels.com/honda-bikes/sp125,drum,https://www.zigwheels.com/honda-bikes/sp125/drum,1
-honda,sp125,https://www.zigwheels.com/honda-bikes/sp125,disc,https://www.zigwheels.com/honda-bikes/sp125/disc,1
 honda,activa 6g,https://www.zigwheels.com/honda-bikes/activa-6g,std,https://www.zigwheels.com/honda-bikes/activa-6g/std,1
 honda,activa 6g,https://www.zigwheels.com/honda-bikes/activa-6g,dlx,https://www.zigwheels.com/honda-bikes/activa-6g/deluxe,1
 honda,activa 6g,https://www.zigwheels.com/honda-bikes/activa-6g,h-smart,https://www.zigwheels.com/honda-bikes/activa-6g/h-smart,1
+honda,sp125,https://www.zigwheels.com/honda-bikes/sp125,drum,https://www.zigwheels.com/honda-bikes/sp125/drum,1
+honda,sp125,https://www.zigwheels.com/honda-bikes/sp125,disc,https://www.zigwheels.com/honda-bikes/sp125/disc,1
 honda,shine,https://www.zigwheels.com/honda-bikes/cb-shine,drum obd2,https://www.zigwheels.com/honda-bikes/cb-shine/drum-obd2,1
 honda,shine,https://www.zigwheels.com/honda-bikes/cb-shine,disc obd2,https://www.zigwheels.com/honda-bikes/cb-shine/disc-obd2,1
 honda,activa 125,https://www.zigwheels.com/honda-bikes/activa-125,dlx,https://www.zigwheels.com/honda-bikes/activa-125/dlx,1
 honda,activa 125,https://www.zigwheels.com/honda-bikes/activa-125,h-smart,https://www.zigwheels.com/honda-bikes/activa-125/h-smart,1
 honda,sp160,https://www.zigwheels.com/honda-bikes/sp160,single disc,https://www.zigwheels.com/honda-bikes/sp160/single-disc,1
 honda,sp160,https://www.zigwheels.com/honda-bikes/sp160,double disc,https://www.zigwheels.com/honda-bikes/sp160/double-disc,1
-honda,activa e,https://www.zigwheels.com/honda-bikes/activa-electric,std,https://www.zigwheels.com/honda-bikes/activa-electric/std,1
-honda,activa e,https://www.zigwheels.com/honda-bikes/activa-electric,roadsync duo,https://www.zigwheels.com/honda-bikes/activa-electric/roadsync-duo,1
 honda,dio,https://www.zigwheels.com/honda-bikes/dio,std,https://www.zigwheels.com/honda-bikes/dio/std,1
 honda,dio,https://www.zigwheels.com/honda-bikes/dio,dlx,https://www.zigwheels.com/honda-bikes/dio/dlx,1
 honda,activa 7g,https://www.zigwheels.com/honda-bikes/activa-7g,std,https://www.zigwheels.com/honda-bikes/activa-7g/std,1
 honda,shine 100,https://www.zigwheels.com/honda-bikes/shine-100,std,https://www.zigwheels.com/honda-bikes/shine-100/std,1
-honda,hornet 2.0,https://www.zigwheels.com/honda-bikes/hornet-20,std,https://www.zigwheels.com/honda-bikes/hornet-20/std,1
 honda,hness cb350,https://www.zigwheels.com/honda-bikes/hness-cb350,dlx,https://www.zigwheels.com/honda-bikes/hness-cb350/std,1
 honda,hness cb350,https://www.zigwheels.com/honda-bikes/hness-cb350,dlx pro,https://www.zigwheels.com/honda-bikes/hness-cb350/dlx-pro,1
 honda,hness cb350,https://www.zigwheels.com/honda-bikes/hness-cb350,dlx pro chrome,https://www.zigwheels.com/honda-bikes/hness-cb350/dlx-pro-chrome,1
 honda,hness cb350,https://www.zigwheels.com/honda-bikes/hness-cb350,legacy edition,https://www.zigwheels.com/honda-bikes/hness-cb350/legacy-edition,1
+honda,activa e,https://www.zigwheels.com/honda-bikes/activa-electric,std,https://www.zigwheels.com/honda-bikes/activa-electric/std,1
+honda,activa e,https://www.zigwheels.com/honda-bikes/activa-electric,roadsync duo,https://www.zigwheels.com/honda-bikes/activa-electric/roadsync-duo,1
+honda,cb200x,https://www.zigwheels.com/honda-bikes/cb200x,std,https://www.zigwheels.com/honda-bikes/cb200x/std,1
 honda,dio 125,https://www.zigwheels.com/honda-bikes/dio-125,std,https://www.zigwheels.com/honda-bikes/dio-125/std,1
 honda,dio 125,https://www.zigwheels.com/honda-bikes/dio-125,smart,https://www.zigwheels.com/honda-bikes/dio-125/smart,1
-honda,cb200x,https://www.zigwheels.com/honda-bikes/cb200x,std,https://www.zigwheels.com/honda-bikes/cb200x/std,1
+honda,hornet 2.0,https://www.zigwheels.com/honda-bikes/hornet-20,std,https://www.zigwheels.com/honda-bikes/hornet-20/std,1
 honda,livo,https://www.zigwheels.com/honda-bikes/livo,drum,https://www.zigwheels.com/honda-bikes/livo/drum,1
 honda,livo,https://www.zigwheels.com/honda-bikes/livo,disc,https://www.zigwheels.com/honda-bikes/livo/disc,1
 honda,cb300r,https://www.zigwheels.com/honda-bikes/cb300r,std,https://www.zigwheels.com/honda-bikes/cb300r/std,1
@@ -263,10 +266,11 @@ honda,cb350rs,https://www.zigwheels.com/honda-bikes/cb350rs,dlx pro,https://www.
 honda,cb350rs,https://www.zigwheels.com/honda-bikes/cb350rs,dlx pro dual tone,https://www.zigwheels.com/honda-bikes/cb350rs/dual-tone,1
 honda,cb350rs,https://www.zigwheels.com/honda-bikes/cb350rs,new hue edition,https://www.zigwheels.com/honda-bikes/cb350rs/new-hue-edition,1
 honda,cb300f,https://www.zigwheels.com/honda-bikes/cb300f,std,https://www.zigwheels.com/honda-bikes/cb300f/std,1
-honda,cbr150r,https://www.zigwheels.com/honda-bikes/cbr-150-r,std,https://www.zigwheels.com/honda-bikes/cbr-150-r/std,1
+honda,hornet 2.0 [2020-2024],https://www.zigwheels.com/honda-bikes/hornet-20,hornet 2.0 std,https://www.zigwheels.com/honda-bikes/hornet-20/std,1
 honda,cd 110 dream,https://www.zigwheels.com/honda-bikes/cd-110-dream,dlx new,https://www.zigwheels.com/honda-bikes/cd-110-dream/dlx-new,1
-honda,pcx160,https://www.zigwheels.com/honda-bikes/pcx150,std,https://www.zigwheels.com/honda-bikes/pcx150/std,1
+honda,cbr150r,https://www.zigwheels.com/honda-bikes/cbr-150-r,std,https://www.zigwheels.com/honda-bikes/cbr-150-r/std,1
 honda,unicorn,https://www.zigwheels.com/honda-bikes/unicorn,disc,https://www.zigwheels.com/honda-bikes/unicorn/disc,1
+honda,pcx160,https://www.zigwheels.com/honda-bikes/pcx150,std,https://www.zigwheels.com/honda-bikes/pcx150/std,1
 honda,cbr650r,https://www.zigwheels.com/honda-bikes/cbr650r,std,https://www.zigwheels.com/honda-bikes/cbr650r/std,1
 honda,gold wing,https://www.zigwheels.com/honda-bikes/gold-wing-gl-1800,dct + airbag,https://www.zigwheels.com/honda-bikes/gold-wing-gl-1800/tour,1
 honda,forza 350,https://www.zigwheels.com/honda-bikes/forza-350,std,https://www.zigwheels.com/honda-bikes/forza-350/std,1
@@ -275,57 +279,62 @@ honda,sp125 [2019-2024],https://www.zigwheels.com/honda-bikes/sp125-2019-2024,di
 honda,nx500,https://www.zigwheels.com/honda-bikes/nx500,std,https://www.zigwheels.com/honda-bikes/nx500/std,1
 honda,cb650r,https://www.zigwheels.com/honda-bikes/cb650r,std,https://www.zigwheels.com/honda-bikes/cb650r/std,1
 honda,rebel 500,https://www.zigwheels.com/honda-bikes/rebel-500,std,https://www.zigwheels.com/honda-bikes/rebel-500/std,1
+honda,2025 activa,https://www.zigwheels.com/honda-bikes/2025-activa,std,https://www.zigwheels.com/honda-bikes/2025-activa/std,1
+honda,2025 activa,https://www.zigwheels.com/honda-bikes/2025-activa,dlx,https://www.zigwheels.com/honda-bikes/2025-activa/dlx,1
+honda,2025 activa,https://www.zigwheels.com/honda-bikes/2025-activa,h-smart,https://www.zigwheels.com/honda-bikes/2025-activa/h-smart,1
 honda,crf1100l africa twin,https://www.zigwheels.com/honda-bikes/crf-1100l-africa-twin,manual,https://www.zigwheels.com/honda-bikes/crf-1100l-africa-twin/std,1
 honda,crf1100l africa twin,https://www.zigwheels.com/honda-bikes/crf-1100l-africa-twin,dct,https://www.zigwheels.com/honda-bikes/crf-1100l-africa-twin/dct,1
-honda,cbr500r,https://www.zigwheels.com/honda-bikes/cbr500r,std,https://www.zigwheels.com/honda-bikes/cbr500r/std,1
 honda,rebel 300,https://www.zigwheels.com/honda-bikes/rebel-300,std,https://www.zigwheels.com/honda-bikes/rebel-300/std,1
-honda,crf300l,https://www.zigwheels.com/honda-bikes/crf300l,std,https://www.zigwheels.com/honda-bikes/crf300l/std,1
+honda,cbr500r,https://www.zigwheels.com/honda-bikes/cbr500r,std,https://www.zigwheels.com/honda-bikes/cbr500r/std,1
 honda,cb500f,https://www.zigwheels.com/honda-bikes/cb500f,std,https://www.zigwheels.com/honda-bikes/cb500f/std,1
-honda,2025 activa,https://www.zigwheels.com/honda-bikes/2025-activa,std,https://www.zigwheels.com/honda-bikes/2025-activa/std,1
+honda,crf300l,https://www.zigwheels.com/honda-bikes/crf300l,std,https://www.zigwheels.com/honda-bikes/crf300l/std,1
 honda,qc1,https://www.zigwheels.com/honda-bikes/qc1,std,https://www.zigwheels.com/honda-bikes/qc1/std,1
 honda,cb300f flex-fuel,https://www.zigwheels.com/honda-bikes/cb300f-flex-fuel,std,https://www.zigwheels.com/honda-bikes/cb300f-flex-fuel/std,1
-honda,cl500 scrambler,https://www.zigwheels.com/honda-bikes/cl500-scrambler,std,https://www.zigwheels.com/honda-bikes/cl500-scrambler/std,1
 honda,xl750 transalp,https://www.zigwheels.com/honda-bikes/transalp,std,https://www.zigwheels.com/honda-bikes/transalp/std,1
 honda,cb1000r,https://www.zigwheels.com/honda-bikes/cb1000r-plus,std,https://www.zigwheels.com/honda-bikes/cb1000r-plus/std,1
+honda,cl500 scrambler,https://www.zigwheels.com/honda-bikes/cl500-scrambler,std,https://www.zigwheels.com/honda-bikes/cl500-scrambler/std,1
 honda,rebel 1100,https://www.zigwheels.com/honda-bikes/rebel-1100,std,https://www.zigwheels.com/honda-bikes/rebel-1100/std,1
 honda,cb350 cruiser,https://www.zigwheels.com/honda-bikes/cb350-cruiser,std,https://www.zigwheels.com/honda-bikes/cb350-cruiser/std,1
 honda,activa 125 [2019-2024],https://www.zigwheels.com/honda-bikes/activa-125-2019-2024,drum,https://www.zigwheels.com/honda-bikes/activa-125-2019-2024/std,1
 honda,activa 125 [2019-2024],https://www.zigwheels.com/honda-bikes/activa-125-2019-2024,drum alloy,https://www.zigwheels.com/honda-bikes/activa-125-2019-2024/alloy,1
 honda,activa 125 [2019-2024],https://www.zigwheels.com/honda-bikes/activa-125-2019-2024,disc,https://www.zigwheels.com/honda-bikes/activa-125-2019-2024/deluxe,1
 honda,activa 125 [2019-2024],https://www.zigwheels.com/honda-bikes/activa-125-2019-2024,h-smart,https://www.zigwheels.com/honda-bikes/activa-125-2019-2024/h-smart,1
-honda,motocompacto,https://www.zigwheels.com/honda-bikes/motocompacto,std,https://www.zigwheels.com/honda-bikes/motocompacto/std,1
-honda,sp160 [2023-2024],https://www.zigwheels.com/honda-bikes/sp160-2023-2024,single disc,https://www.zigwheels.com/honda-bikes/sp160-2023-2024/single-disc,1
-honda,sp160 [2023-2024],https://www.zigwheels.com/honda-bikes/sp160-2023-2024,dual disc,https://www.zigwheels.com/honda-bikes/sp160-2023-2024/dual-disc,1
-honda,livo [2020-2024],https://www.zigwheels.com/honda-bikes/livo-2020-2024,drum,https://www.zigwheels.com/honda-bikes/livo-2020-2024/drum,1
-honda,livo [2020-2024],https://www.zigwheels.com/honda-bikes/livo-2020-2024,disc,https://www.zigwheels.com/honda-bikes/livo-2020-2024/std,1
 honda,dio (2020-2024),https://www.zigwheels.com/honda-bikes/dio-2020-2024,std obd2,https://www.zigwheels.com/honda-bikes/dio-2020-2024/std-obd2,1
 honda,dio (2020-2024),https://www.zigwheels.com/honda-bikes/dio-2020-2024,dlx obd2,https://www.zigwheels.com/honda-bikes/dio-2020-2024/dlx-obd2,1
 honda,dio (2020-2024),https://www.zigwheels.com/honda-bikes/dio-2020-2024,smart,https://www.zigwheels.com/honda-bikes/dio-2020-2024/smart,1
+honda,livo [2020-2024],https://www.zigwheels.com/honda-bikes/livo-2020-2024,drum,https://www.zigwheels.com/honda-bikes/livo-2020-2024/drum,1
+honda,livo [2020-2024],https://www.zigwheels.com/honda-bikes/livo-2020-2024,disc,https://www.zigwheels.com/honda-bikes/livo-2020-2024/std,1
+honda,nx200,https://www.zigwheels.com/honda-bikes/nx200,std,https://www.zigwheels.com/honda-bikes/nx200/std,1
+honda,shine 125,https://www.zigwheels.com/honda-bikes/shine-125,drum,https://www.zigwheels.com/honda-bikes/shine-125/drum,1
+honda,shine 125,https://www.zigwheels.com/honda-bikes/shine-125,disc,https://www.zigwheels.com/honda-bikes/shine-125/disc,1
+honda,motocompacto,https://www.zigwheels.com/honda-bikes/motocompacto,std,https://www.zigwheels.com/honda-bikes/motocompacto/std,1
+honda,sp160 [2023-2024],https://www.zigwheels.com/honda-bikes/sp160-2023-2024,single disc,https://www.zigwheels.com/honda-bikes/sp160-2023-2024/single-disc,1
+honda,sp160 [2023-2024],https://www.zigwheels.com/honda-bikes/sp160-2023-2024,dual disc,https://www.zigwheels.com/honda-bikes/sp160-2023-2024/dual-disc,1
+hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,self with alloy wheel,https://www.zigwheels.com/hero-bikes/splendor-plus/self-with-alloy-wheel-bs6,1
+hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,black and accent,https://www.zigwheels.com/hero-bikes/splendor-plus/black-and-accent,1
+hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,self with alloy wheel and i3s,https://www.zigwheels.com/hero-bikes/splendor-plus/self-with-alloy-wheel-and-i3s-bs6,1
+hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,01 edition,https://www.zigwheels.com/hero-bikes/splendor-plus/01-edition,1
+hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec,drum,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec/std,1
+hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec,2.0,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec/2.0,1
+hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec,disc,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec/disc,1
 hero moto corp,hf deluxe,https://www.zigwheels.com/hero-bikes/hf-deluxe,self start alloy wheel all black,https://www.zigwheels.com/hero-bikes/hf-deluxe/self-start-alloy-wheel-all-black,1
 hero moto corp,hf deluxe,https://www.zigwheels.com/hero-bikes/hf-deluxe,kick start alloy wheel,https://www.zigwheels.com/hero-bikes/hf-deluxe/kick-start-drum-alloy-wheel,1
 hero moto corp,hf deluxe,https://www.zigwheels.com/hero-bikes/hf-deluxe,self start alloy wheel,https://www.zigwheels.com/hero-bikes/hf-deluxe/self-start-alloy-wheel,1
 hero moto corp,hf deluxe,https://www.zigwheels.com/hero-bikes/hf-deluxe,self start alloy wheel i3s,https://www.zigwheels.com/hero-bikes/hf-deluxe/self-start-alloy-wheel-i3s,1
-hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec,drum,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec/std,1
-hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec,2.0,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec/2.0,1
-hero moto corp,splendor plus xtec,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec,disc,https://www.zigwheels.com/hero-bikes/splendor-plus-xtec/disc,1
 hero moto corp,xtreme 125r,https://www.zigwheels.com/hero-bikes/xtreme-125r,ibs,https://www.zigwheels.com/hero-bikes/xtreme-125r/ibs,1
 hero moto corp,xtreme 125r,https://www.zigwheels.com/hero-bikes/xtreme-125r,abs,https://www.zigwheels.com/hero-bikes/xtreme-125r/abs,1
-hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,self with alloy wheel,https://www.zigwheels.com/hero-bikes/splendor-plus/self-with-alloy-wheel-bs6,1
-hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,self with alloy wheel and i3s,https://www.zigwheels.com/hero-bikes/splendor-plus/self-with-alloy-wheel-and-i3s-bs6,1
-hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,black and accent,https://www.zigwheels.com/hero-bikes/splendor-plus/black-and-accent,1
-hero moto corp,splendor plus,https://www.zigwheels.com/hero-bikes/splendor-plus,01 edition,https://www.zigwheels.com/hero-bikes/splendor-plus/01-edition,1
 hero moto corp,super splendor,https://www.zigwheels.com/hero-bikes/super-splendor,new drum,https://www.zigwheels.com/hero-bikes/super-splendor/new-drum,1
 hero moto corp,super splendor,https://www.zigwheels.com/hero-bikes/super-splendor,new disc,https://www.zigwheels.com/hero-bikes/super-splendor/new-disc,1
 hero moto corp,xpulse 200 4v,https://www.zigwheels.com/hero-bikes/xpulse-200,std,https://www.zigwheels.com/hero-bikes/xpulse-200/4v,1
 hero moto corp,xpulse 200 4v,https://www.zigwheels.com/hero-bikes/xpulse-200,pro,https://www.zigwheels.com/hero-bikes/xpulse-200/pro,1
 hero moto corp,xpulse 200 4v,https://www.zigwheels.com/hero-bikes/xpulse-200,pro dakar edition,https://www.zigwheels.com/hero-bikes/xpulse-200/pro-dakar-edition,1
 hero moto corp,xtreme 160r,https://www.zigwheels.com/hero-bikes/xtreme-160r,single disc,https://www.zigwheels.com/hero-bikes/xtreme-160r/drum,1
+hero moto corp,glamour,https://www.zigwheels.com/hero-bikes/glamour,new drum,https://www.zigwheels.com/hero-bikes/glamour/new-drum,1
+hero moto corp,glamour,https://www.zigwheels.com/hero-bikes/glamour,new disc,https://www.zigwheels.com/hero-bikes/glamour/new-disc,1
 hero moto corp,mavrick 440,https://www.zigwheels.com/hero-bikes/mavrick-440,base,https://www.zigwheels.com/hero-bikes/mavrick-440/base,1
 hero moto corp,mavrick 440,https://www.zigwheels.com/hero-bikes/mavrick-440,mid,https://www.zigwheels.com/hero-bikes/mavrick-440/mid,1
 hero moto corp,mavrick 440,https://www.zigwheels.com/hero-bikes/mavrick-440,top,https://www.zigwheels.com/hero-bikes/mavrick-440/top,1
 hero moto corp,mavrick 440,https://www.zigwheels.com/hero-bikes/mavrick-440,pro,https://www.zigwheels.com/hero-bikes/mavrick-440/pro,1
-hero moto corp,glamour,https://www.zigwheels.com/hero-bikes/glamour,new drum,https://www.zigwheels.com/hero-bikes/glamour/new-drum,1
-hero moto corp,glamour,https://www.zigwheels.com/hero-bikes/glamour,new disc,https://www.zigwheels.com/hero-bikes/glamour/new-disc,1
 hero moto corp,pleasure plus,https://www.zigwheels.com/hero-bikes/pleasure-2019,lx,https://www.zigwheels.com/hero-bikes/pleasure-2019/fi-bs6-sheet-metal-wheel,1
 hero moto corp,pleasure plus,https://www.zigwheels.com/hero-bikes/pleasure-2019,vx,https://www.zigwheels.com/hero-bikes/pleasure-2019/fi-bs6-alloy-wheel,1
 hero moto corp,pleasure plus,https://www.zigwheels.com/hero-bikes/pleasure-2019,xtec zx,https://www.zigwheels.com/hero-bikes/pleasure-2019/lx,1
@@ -336,12 +345,12 @@ hero moto corp,karizma xmr,https://www.zigwheels.com/hero-bikes/karizma-xmr-210,
 hero moto corp,karizma xmr,https://www.zigwheels.com/hero-bikes/karizma-xmr-210,combat edition,https://www.zigwheels.com/hero-bikes/karizma-xmr-210/combat-edition,1
 hero moto corp,super splendor xtec,https://www.zigwheels.com/hero-bikes/super-splendor-xtec,drum,https://www.zigwheels.com/hero-bikes/super-splendor-xtec/durm,1
 hero moto corp,super splendor xtec,https://www.zigwheels.com/hero-bikes/super-splendor-xtec,disc,https://www.zigwheels.com/hero-bikes/super-splendor-xtec/disc,1
-hero moto corp,glamour xtec,https://www.zigwheels.com/hero-bikes/glamour-xtec,drum,https://www.zigwheels.com/hero-bikes/glamour-xtec/drum,1
-hero moto corp,glamour xtec,https://www.zigwheels.com/hero-bikes/glamour-xtec,disc,https://www.zigwheels.com/hero-bikes/glamour-xtec/disc,1
 hero moto corp,xoom 110,https://www.zigwheels.com/hero-bikes/xoom-110,lx,https://www.zigwheels.com/hero-bikes/xoom-110/lx,1
 hero moto corp,xoom 110,https://www.zigwheels.com/hero-bikes/xoom-110,vx,https://www.zigwheels.com/hero-bikes/xoom-110/vx,1
 hero moto corp,xoom 110,https://www.zigwheels.com/hero-bikes/xoom-110,zx,https://www.zigwheels.com/hero-bikes/xoom-110/zx,1
 hero moto corp,xoom 110,https://www.zigwheels.com/hero-bikes/xoom-110,combat edition,https://www.zigwheels.com/hero-bikes/xoom-110/combat-edition,1
+hero moto corp,glamour xtec,https://www.zigwheels.com/hero-bikes/glamour-xtec,drum,https://www.zigwheels.com/hero-bikes/glamour-xtec/drum,1
+hero moto corp,glamour xtec,https://www.zigwheels.com/hero-bikes/glamour-xtec,disc,https://www.zigwheels.com/hero-bikes/glamour-xtec/disc,1
 hero moto corp,destini 125,https://www.zigwheels.com/hero-bikes/destini-125,vx,https://www.zigwheels.com/hero-bikes/destini-125/vx,1
 hero moto corp,destini 125,https://www.zigwheels.com/hero-bikes/destini-125,zx,https://www.zigwheels.com/hero-bikes/destini-125/zx,1
 hero moto corp,destini 125,https://www.zigwheels.com/hero-bikes/destini-125,zx+,https://www.zigwheels.com/hero-bikes/destini-125/zx,1
@@ -358,8 +367,8 @@ hero moto corp,xpulse 421,https://www.zigwheels.com/hero-bikes/450-adv,std,https
 hero moto corp,karizma xmr 250,https://www.zigwheels.com/hero-bikes/karizma-xmr-250,std,https://www.zigwheels.com/hero-bikes/karizma-xmr-250/std,1
 hero moto corp,destini prime,https://www.zigwheels.com/hero-bikes/destini-prime,std,https://www.zigwheels.com/hero-bikes/destini-prime/std,1
 hero moto corp,emaestro,https://www.zigwheels.com/hero-bikes/emaestro,std,https://www.zigwheels.com/hero-bikes/emaestro/std,1
-hero moto corp,xtreme 400s,https://www.zigwheels.com/hero-bikes/xtreme-400s,std,https://www.zigwheels.com/hero-bikes/xtreme-400s/std,1
 hero moto corp,splendor electric,https://www.zigwheels.com/hero-bikes/splendor-electric,std,https://www.zigwheels.com/hero-bikes/splendor-electric/std,1
+hero moto corp,xtreme 400s,https://www.zigwheels.com/hero-bikes/xtreme-400s,std,https://www.zigwheels.com/hero-bikes/xtreme-400s/std,1
 hero moto corp,mavrick 440 scrambler,https://www.zigwheels.com/hero-bikes/mavrick-440-scrambler,std,https://www.zigwheels.com/hero-bikes/mavrick-440-scrambler/std,1
 suzuki,access 125,https://www.zigwheels.com/suzuki-bikes/access-125,standard edition,https://www.zigwheels.com/suzuki-bikes/access-125/standard-edition,1
 suzuki,access 125,https://www.zigwheels.com/suzuki-bikes/access-125,special edition,https://www.zigwheels.com/suzuki-bikes/access-125/special-edition,1
@@ -383,35 +392,35 @@ suzuki,burgman electric,https://www.zigwheels.com/suzuki-bikes/burgman-electric,
 suzuki,katana,https://www.zigwheels.com/suzuki-bikes/katana,std,https://www.zigwheels.com/suzuki-bikes/katana/std,1
 suzuki,gsx-8r,https://www.zigwheels.com/suzuki-bikes/gsx-8r,std,https://www.zigwheels.com/suzuki-bikes/gsx-8r/std,1
 suzuki,gsx-s1000,https://www.zigwheels.com/suzuki-bikes/gsx-s1000,abs,https://www.zigwheels.com/suzuki-bikes/gsx-s1000/abs,1
-suzuki,v-strom 800 de,https://www.zigwheels.com/suzuki-bikes/v-strom-800-de,std,https://www.zigwheels.com/suzuki-bikes/v-strom-800-de/std,1
-suzuki,sv650,https://www.zigwheels.com/suzuki-bikes/sv650,std,https://www.zigwheels.com/suzuki-bikes/sv650/std,1
+suzuki,v-strom sx,https://www.zigwheels.com/suzuki-bikes/v-strom-sx,std,https://www.zigwheels.com/suzuki-bikes/v-strom-sx/std,1
 suzuki,e access ,https://www.zigwheels.com/suzuki-bikes/e-access,std,https://www.zigwheels.com/suzuki-bikes/e-access/std,1
+suzuki,sv650,https://www.zigwheels.com/suzuki-bikes/sv650,std,https://www.zigwheels.com/suzuki-bikes/sv650/std,1
+suzuki,v-strom 800 de,https://www.zigwheels.com/suzuki-bikes/v-strom-800-de,std,https://www.zigwheels.com/suzuki-bikes/v-strom-800-de/std,1
 suzuki,gixxer sf 250 flex fuel,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250-flex-fuel,std,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250-flex-fuel/std,1
 suzuki,gixxer sf 250,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250,std,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250/std,1
 suzuki,gixxer sf 250,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250,special edition,https://www.zigwheels.com/suzuki-bikes/gixxer-sf-250/special-edition,1
-suzuki,v-strom sx,https://www.zigwheels.com/suzuki-bikes/v-strom-sx,std,https://www.zigwheels.com/suzuki-bikes/v-strom-sx/std,1
 suzuki,rm z450,https://www.zigwheels.com/suzuki-bikes/rm-z450,std bs6,https://www.zigwheels.com/suzuki-bikes/rm-z450/std-bs6,1
 suzuki,rm z250,https://www.zigwheels.com/suzuki-bikes/rm-z250,std bs6,https://www.zigwheels.com/suzuki-bikes/rm-z250/std-bs6,1
 ktm,duke 390,https://www.zigwheels.com/ktm-bikes/duke-390,std,https://www.zigwheels.com/ktm-bikes/duke-390/std,1
 ktm,200 duke,https://www.zigwheels.com/ktm-bikes/duke-200,std,https://www.zigwheels.com/ktm-bikes/duke-200/std,1
-ktm,125 duke,https://www.zigwheels.com/ktm-bikes/125-duke,std,https://www.zigwheels.com/ktm-bikes/125-duke/std,1
 ktm,250 duke,https://www.zigwheels.com/ktm-bikes/duke-250,std,https://www.zigwheels.com/ktm-bikes/duke-250/std,1
+ktm,125 duke,https://www.zigwheels.com/ktm-bikes/125-duke,std,https://www.zigwheels.com/ktm-bikes/125-duke/std,1
+ktm,rc 390,https://www.zigwheels.com/ktm-bikes/rc-390,gp edition,https://www.zigwheels.com/ktm-bikes/rc-390/gp-edition,1
 ktm,rc 390,https://www.zigwheels.com/ktm-bikes/rc-390,std,https://www.zigwheels.com/ktm-bikes/rc-390/std,1
 ktm,rc 200,https://www.zigwheels.com/ktm-bikes/2021-rc-200,gp edition,https://www.zigwheels.com/ktm-bikes/2021-rc-200/gp-edition,1
 ktm,rc 200,https://www.zigwheels.com/ktm-bikes/2021-rc-200,std,https://www.zigwheels.com/ktm-bikes/2021-rc-200/std,1
 ktm,rc 125,https://www.zigwheels.com/ktm-bikes/rc-125,std,https://www.zigwheels.com/ktm-bikes/rc-125/std,1
-ktm,electric scooter,https://www.zigwheels.com/ktm-bikes/electric-scooter,std,https://www.zigwheels.com/ktm-bikes/electric-scooter/std,1
 ktm,390 adventure,https://www.zigwheels.com/ktm-bikes/390-adventure-s,std,https://www.zigwheels.com/ktm-bikes/390-adventure-s/std,1
+ktm,electric scooter,https://www.zigwheels.com/ktm-bikes/electric-scooter,std,https://www.zigwheels.com/ktm-bikes/electric-scooter/std,1
 ktm,1390 super duke r,https://www.zigwheels.com/ktm-bikes/1390-super-duke-r,std,https://www.zigwheels.com/ktm-bikes/1390-super-duke-r/std,1
 ktm,250 adventure,https://www.zigwheels.com/ktm-bikes/2025-250-adventure,std,https://www.zigwheels.com/ktm-bikes/2025-250-adventure/std,1
-ktm,2025 125 duke,https://www.zigwheels.com/ktm-bikes/2023-125-duke,std,https://www.zigwheels.com/ktm-bikes/2023-125-duke/std,1
 ktm,890 duke,https://www.zigwheels.com/ktm-bikes/890-duke-r,r,https://www.zigwheels.com/ktm-bikes/890-duke-r/r,1
 ktm,2025 rc 390,https://www.zigwheels.com/ktm-bikes/2025-rc390,std,https://www.zigwheels.com/ktm-bikes/2025-rc390/std,1
 ktm,390 enduro r,https://www.zigwheels.com/ktm-bikes/390-enduro-r,std,https://www.zigwheels.com/ktm-bikes/390-enduro-r/std,1
+ktm,390 adventure x,https://www.zigwheels.com/ktm-bikes/2025-390-adventure-x,std,https://www.zigwheels.com/ktm-bikes/2025-390-adventure-x/std,1
 ktm,890 adventure,https://www.zigwheels.com/ktm-bikes/890-adventure,std,https://www.zigwheels.com/ktm-bikes/890-adventure/std,1
 ktm,890 adventure,https://www.zigwheels.com/ktm-bikes/890-adventure,r,https://www.zigwheels.com/ktm-bikes/890-adventure/r,1
 ktm,50 sx,https://www.zigwheels.com/ktm-bikes/50-sx,std,https://www.zigwheels.com/ktm-bikes/50-sx/std,1
-ktm,390 adventure x,https://www.zigwheels.com/ktm-bikes/2025-390-adventure-x,std,https://www.zigwheels.com/ktm-bikes/2025-390-adventure-x/std,1
 ktm,2025 rc 125,https://www.zigwheels.com/ktm-bikes/2025-rc-125,std,https://www.zigwheels.com/ktm-bikes/2025-rc-125/std,1
 ktm,390 smc r,https://www.zigwheels.com/ktm-bikes/390-smc-r,std,https://www.zigwheels.com/ktm-bikes/390-smc-r/std,1
 ktm,1290 super adventure s,https://www.zigwheels.com/ktm-bikes/1290-super-adventure-s,std,https://www.zigwheels.com/ktm-bikes/1290-super-adventure-s/std,1
@@ -421,11 +430,11 @@ ktm,450 sx-f,https://www.zigwheels.com/ktm-bikes/450-sx-f,std,https://www.zigwhe
 ktm,250 sx-f,https://www.zigwheels.com/ktm-bikes/250-sx-f,std,https://www.zigwheels.com/ktm-bikes/250-sx-f/std,1
 ktm,85 sx,https://www.zigwheels.com/ktm-bikes/85-sx,std,https://www.zigwheels.com/ktm-bikes/85-sx/std,1
 ktm,65 sx,https://www.zigwheels.com/ktm-bikes/65-sx,std,https://www.zigwheels.com/ktm-bikes/65-sx/std,1
-jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,mystic copper spoke wheel,https://www.zigwheels.com/jawa-bikes/42-bobber/mystic-copper,1
 jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,mystic copper alloy wheel,https://www.zigwheels.com/jawa-bikes/42-bobber/mystic-copper-alloy-wheel,1
+jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,mystic copper spoke wheel,https://www.zigwheels.com/jawa-bikes/42-bobber/mystic-copper,1
 jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,jasper red spoke wheel,https://www.zigwheels.com/jawa-bikes/42-bobber/jasper-red,1
-jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,black mirror,https://www.zigwheels.com/jawa-bikes/42-bobber/black-mirror,1
 jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,jasper red alloy wheel,https://www.zigwheels.com/jawa-bikes/42-bobber/jasper-red-alloy-wheel,1
+jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,black mirror,https://www.zigwheels.com/jawa-bikes/42-bobber/black-mirror,1
 jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,red sheen,https://www.zigwheels.com/jawa-bikes/42-bobber/red-sheen,1
 jawa motorcycles,42 bobber,https://www.zigwheels.com/jawa-bikes/42-bobber,moonstone white,https://www.zigwheels.com/jawa-bikes/42-bobber/moonstone-white,1
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,vega white single channel spoke,https://www.zigwheels.com/jawa-bikes/42/vega-white-single-channel-spoke,1
@@ -439,13 +448,13 @@ jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,odysse black dual ch
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,sirius white matte dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/sirius-white-matte-dual-channel-alloy,1
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,nebula blue dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/nebula-red-dual-channel-alloy,1
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,celestial copper matte dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/celestial-copper-matte-dual-channel-alloy,1
+jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,all star black matte dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/all-star-black-matte-dual-channel-alloy,1
+jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,celestial copper matte dual channel alloy dt,https://www.zigwheels.com/jawa-bikes/42/celestial-copper-matte-dual-channel-alloy-dual-ton,1
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,infinity black matte dual channel alloy dual tone,https://www.zigwheels.com/jawa-bikes/42/infinity-black-matte-dual-channel-alloy-dual-tone,1
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,starship blue dual channel alloy dual tone,https://www.zigwheels.com/jawa-bikes/42/starship-blue-dual-channel-alloy-dual-tone,1
-jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,all star black matte dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/all-star-black-matte-dual-channel-alloy,1
-jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,cosmic rock dual channel alloy dual tone,https://www.zigwheels.com/jawa-bikes/42/cosmic-rock-dual-channel-alloy-dual-tone,1
-jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,orion red matte dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/orion-red-matte-dual-channel-alloy,1
-jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,celestial copper matte dual channel alloy dt,https://www.zigwheels.com/jawa-bikes/42/celestial-copper-matte-dual-channel-alloy-dual-ton,1
 jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,cosmic carbon dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/cosmic-carbon-dual-channel-alloy,1
+jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,orion red matte dual channel alloy,https://www.zigwheels.com/jawa-bikes/42/orion-red-matte-dual-channel-alloy,1
+jawa motorcycles,42,https://www.zigwheels.com/jawa-bikes/42,cosmic rock dual channel alloy dual tone,https://www.zigwheels.com/jawa-bikes/42/cosmic-rock-dual-channel-alloy-dual-tone,1
 jawa motorcycles,42 fj,https://www.zigwheels.com/jawa-bikes/42-fj,dual channel aurora green matte spoke,https://www.zigwheels.com/jawa-bikes/42-fj/dual-channel-aurora-green-matte-spoke,1
 jawa motorcycles,42 fj,https://www.zigwheels.com/jawa-bikes/42-fj,dual channel aurora green matte,https://www.zigwheels.com/jawa-bikes/42-fj/dual-channel-aurora-green-matte,1
 jawa motorcycles,42 fj,https://www.zigwheels.com/jawa-bikes/42-fj,dual channel cosmo blue matte,https://www.zigwheels.com/jawa-bikes/42-fj/dual-channel-cosmo-blue-matte,1
@@ -455,8 +464,9 @@ jawa motorcycles,42 fj,https://www.zigwheels.com/jawa-bikes/42-fj,dual channel d
 jawa motorcycles,perak,https://www.zigwheels.com/jawa-bikes/jawa-perak,std,https://www.zigwheels.com/jawa-bikes/jawa-perak/std,1
 jawa motorcycles,350,https://www.zigwheels.com/jawa-bikes/jawa-300,std - spoke wheel,https://www.zigwheels.com/jawa-bikes/jawa-300/std,1
 jawa motorcycles,350,https://www.zigwheels.com/jawa-bikes/jawa-300,std - alloy wheel,https://www.zigwheels.com/jawa-bikes/jawa-300/std-alloy-wheel,1
-jawa motorcycles,350,https://www.zigwheels.com/jawa-bikes/jawa-300,chrome - alloy wheel,https://www.zigwheels.com/jawa-bikes/jawa-300/chrome-alloy-wheel,1
+jawa motorcycles,350,https://www.zigwheels.com/jawa-bikes/jawa-300,legacy edition,https://www.zigwheels.com/jawa-bikes/jawa-300/legacy-edition,1
 jawa motorcycles,350,https://www.zigwheels.com/jawa-bikes/jawa-300,chrome - spoke wheel,https://www.zigwheels.com/jawa-bikes/jawa-300/chrome-spoke-wheel,1
+jawa motorcycles,350,https://www.zigwheels.com/jawa-bikes/jawa-300,chrome - alloy wheel,https://www.zigwheels.com/jawa-bikes/jawa-300/chrome-alloy-wheel,1
 hero electric,optima,https://www.zigwheels.com/hero-electric-bikes/optima-plus,cx 2.0,https://www.zigwheels.com/hero-electric-bikes/optima-plus/cx-2.0,1
 hero electric,optima,https://www.zigwheels.com/hero-electric-bikes/optima-plus,cx 5.0,https://www.zigwheels.com/hero-electric-bikes/optima-plus/cx-5.0,1
 hero electric,flash,https://www.zigwheels.com/hero-electric-bikes/flash,lx,https://www.zigwheels.com/hero-electric-bikes/flash/lx,1
@@ -481,7 +491,7 @@ harley davidson,breakout 117,https://www.zigwheels.com/harley-davidson-bikes/bre
 harley davidson,sportster 500,https://www.zigwheels.com/harley-davidson-bikes/sportster-500,std,,1
 harley davidson,low rider s,https://www.zigwheels.com/harley-davidson-bikes/2022-low-rider-s,std,https://www.zigwheels.com/harley-davidson-bikes/2022-low-rider-s/std,1
 harley davidson,road glide,https://www.zigwheels.com/harley-davidson-bikes/road-glide-special,std,https://www.zigwheels.com/harley-davidson-bikes/road-glide-special/bs6,1
-vespa,elettrica,https://www.zigwheels.com/vespa-bikes/elettrica,std,https://www.zigwheels.com/vespa-bikes/elettrica/std,1
+vespa,electric scooter,https://www.zigwheels.com/vespa-bikes/elettrica,std,https://www.zigwheels.com/vespa-bikes/elettrica/std,1
 vespa,vxl 125,https://www.zigwheels.com/vespa-bikes/vxl-125,std,https://www.zigwheels.com/vespa-bikes/vxl-125/fl-cbs-bs6,1
 vespa,vxl 125,https://www.zigwheels.com/vespa-bikes/vxl-125,dual,https://www.zigwheels.com/vespa-bikes/vxl-125/pearl-white-and-matt-black,1
 vespa,sxl 125,https://www.zigwheels.com/vespa-bikes/sxl-125,std,https://www.zigwheels.com/vespa-bikes/sxl-125/fl-cbs-bs6,1
@@ -494,6 +504,20 @@ vespa,946 dragon,https://www.zigwheels.com/vespa-bikes/946-dragon,collector's ed
 vespa,sxl 150,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6,std,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6/fl-abs-bs6,1
 vespa,sxl 150,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6,dual,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6/pearl-white-and-matt-red,1
 vespa,sxl 150,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6,racing sixties,https://www.zigwheels.com/vespa-bikes/sxl-150-bs6/racing-sixties,1
+vespa,150,https://www.zigwheels.com/vespa-bikes/150,single tone,https://www.zigwheels.com/vespa-bikes/150/single-tone,1
+vespa,150,https://www.zigwheels.com/vespa-bikes/150,dual tone,https://www.zigwheels.com/vespa-bikes/150/dual-tone,1
+vespa,150,https://www.zigwheels.com/vespa-bikes/150,tech,https://www.zigwheels.com/vespa-bikes/150/tech,1
+vespa,125,https://www.zigwheels.com/vespa-bikes/125,single tone,https://www.zigwheels.com/vespa-bikes/125/base,1
+vespa,125,https://www.zigwheels.com/vespa-bikes/125,dual tone,https://www.zigwheels.com/vespa-bikes/125/dual-tone,1
+vespa,125,https://www.zigwheels.com/vespa-bikes/125,tech,https://www.zigwheels.com/vespa-bikes/125/tech,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,125,https://www.zigwheels.com/vespa-bikes/s/125,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,125 oro,https://www.zigwheels.com/vespa-bikes/s/125-oro,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,125 dual tone,https://www.zigwheels.com/vespa-bikes/s/125-dual-tone,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,150,https://www.zigwheels.com/vespa-bikes/s/150,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,150 oro,https://www.zigwheels.com/vespa-bikes/s/150-oro,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,150 dual tone,https://www.zigwheels.com/vespa-bikes/s/150-dual-tone,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,tech 125,https://www.zigwheels.com/vespa-bikes/s/tech-125,1
+vespa,s,https://www.zigwheels.com/vespa-bikes/s,tech 150,https://www.zigwheels.com/vespa-bikes/s/tech-150,1
 ducati,panigale v4,https://www.zigwheels.com/ducati-bikes/panigale-v4,std,https://www.zigwheels.com/ducati-bikes/panigale-v4/std,1
 ducati,panigale v4,https://www.zigwheels.com/ducati-bikes/panigale-v4,s,https://www.zigwheels.com/ducati-bikes/panigale-v4/s,1
 ducati,panigale v4,https://www.zigwheels.com/ducati-bikes/panigale-v4,r,https://www.zigwheels.com/ducati-bikes/panigale-v4/r,1
@@ -511,12 +535,12 @@ ducati,panigale v2,https://www.zigwheels.com/ducati-bikes/panigale-v2,bayliss,ht
 ducati,supersport 950,https://www.zigwheels.com/ducati-bikes/supersport,std,https://www.zigwheels.com/ducati-bikes/supersport/std,1
 ducati,supersport 950,https://www.zigwheels.com/ducati-bikes/supersport,s red,https://www.zigwheels.com/ducati-bikes/supersport/s,1
 ducati,supersport 950,https://www.zigwheels.com/ducati-bikes/supersport,s pure white,https://www.zigwheels.com/ducati-bikes/supersport/s-arctic-white-silk,1
-ducati,2025 desertx,https://www.zigwheels.com/ducati-bikes/2025-desertx,std,https://www.zigwheels.com/ducati-bikes/2025-desertx/std,1
 ducati,2025 panigale v4,https://www.zigwheels.com/ducati-bikes/2025-panigale-v4,std,https://www.zigwheels.com/ducati-bikes/2025-panigale-v4/std,1
 ducati,2025 multistrada v2,https://www.zigwheels.com/ducati-bikes/2025-multistrada-v2,s,https://www.zigwheels.com/ducati-bikes/2025-multistrada-v2/s,1
 ducati,hypermotard 698 mono,https://www.zigwheels.com/ducati-bikes/hypermotard-698,std,https://www.zigwheels.com/ducati-bikes/hypermotard-698/std,1
 ducati,streetfighter v2,https://www.zigwheels.com/ducati-bikes/streetfighter-v2,std,https://www.zigwheels.com/ducati-bikes/streetfighter-v2/std,1
 ducati,desertx,https://www.zigwheels.com/ducati-bikes/desertx,std,https://www.zigwheels.com/ducati-bikes/desertx/std,1
+ducati,desertx,https://www.zigwheels.com/ducati-bikes/desertx,discovery,https://www.zigwheels.com/ducati-bikes/desertx/discovery,1
 ducati,desertx,https://www.zigwheels.com/ducati-bikes/desertx,rally,https://www.zigwheels.com/ducati-bikes/desertx/rally,1
 ducati,multistrada v2,https://www.zigwheels.com/ducati-bikes/multistrada-v2,std,https://www.zigwheels.com/ducati-bikes/multistrada-v2/std,1
 ducati,multistrada v2,https://www.zigwheels.com/ducati-bikes/multistrada-v2,s,https://www.zigwheels.com/ducati-bikes/multistrada-v2/s,1
@@ -531,14 +555,13 @@ ducati,scrambler 1100,https://www.zigwheels.com/ducati-bikes/scrambler-1100,dark
 ducati,scrambler 1100,https://www.zigwheels.com/ducati-bikes/scrambler-1100,tribute pro,https://www.zigwheels.com/ducati-bikes/scrambler-1100/tribute-pro,1
 ducati,scrambler 1100,https://www.zigwheels.com/ducati-bikes/scrambler-1100,sport pro,https://www.zigwheels.com/ducati-bikes/scrambler-1100/sport,1
 kawasaki,ninja zx-10r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx-10r,std,https://www.zigwheels.com/kawasaki-bikes/ninja-zx-10r/std,1
-kawasaki,ninja h2,https://www.zigwheels.com/kawasaki-bikes/ninja-h2,r,https://www.zigwheels.com/kawasaki-bikes/ninja-h2/r,1
 kawasaki,z900,https://www.zigwheels.com/kawasaki-bikes/2020-z900,std,https://www.zigwheels.com/kawasaki-bikes/2020-z900/std,1
 kawasaki,ninja 300,https://www.zigwheels.com/kawasaki-bikes/ninja-300,abs,https://www.zigwheels.com/kawasaki-bikes/ninja-300/abs-krt-edition,1
 kawasaki,ninja zx-6r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx-6r,std,https://www.zigwheels.com/kawasaki-bikes/ninja-zx-6r/std,1
 kawasaki,ninja zx-4r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx4r,std,https://www.zigwheels.com/kawasaki-bikes/ninja-zx4r/std,1
 kawasaki,ninja zx-4r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx4r,r,https://www.zigwheels.com/kawasaki-bikes/ninja-zx4r/r,1
-kawasaki,ninja 500,https://www.zigwheels.com/kawasaki-bikes/ninja-500,std,https://www.zigwheels.com/kawasaki-bikes/ninja-500/std,1
 kawasaki,z400,https://www.zigwheels.com/kawasaki-bikes/z400,std,https://www.zigwheels.com/kawasaki-bikes/z400/std,1
+kawasaki,ninja 500,https://www.zigwheels.com/kawasaki-bikes/ninja-500,std,https://www.zigwheels.com/kawasaki-bikes/ninja-500/std,1
 kawasaki,w175,https://www.zigwheels.com/kawasaki-bikes/w175,ebony,https://www.zigwheels.com/kawasaki-bikes/w175/std,1
 kawasaki,w175,https://www.zigwheels.com/kawasaki-bikes/w175,candy persimmon red,https://www.zigwheels.com/kawasaki-bikes/w175/candy-persimmon-red,1
 kawasaki,w175,https://www.zigwheels.com/kawasaki-bikes/w175,metallic graphite grey,https://www.zigwheels.com/kawasaki-bikes/w175/metallic-graphite-grey,1
@@ -547,11 +570,11 @@ kawasaki,w175,https://www.zigwheels.com/kawasaki-bikes/w175,street,https://www.z
 kawasaki,z650,https://www.zigwheels.com/kawasaki-bikes/2020-kawasaki-z650,std,https://www.zigwheels.com/kawasaki-bikes/2020-kawasaki-z650/std,1
 kawasaki,ninja 650,https://www.zigwheels.com/kawasaki-bikes/2020-ninja-650,std,https://www.zigwheels.com/kawasaki-bikes/2020-ninja-650/std,1
 kawasaki,eliminator,https://www.zigwheels.com/kawasaki-bikes/eliminator-400,std,https://www.zigwheels.com/kawasaki-bikes/eliminator-400/std,1
-kawasaki,z h2,https://www.zigwheels.com/kawasaki-bikes/zh2,std,https://www.zigwheels.com/kawasaki-bikes/zh2/std,1
-kawasaki,z h2,https://www.zigwheels.com/kawasaki-bikes/zh2,se,https://www.zigwheels.com/kawasaki-bikes/zh2/se,1
-kawasaki,z500,https://www.zigwheels.com/kawasaki-bikes/z500,std,https://www.zigwheels.com/kawasaki-bikes/z500/std,1
 kawasaki,ninja h2 sx,https://www.zigwheels.com/kawasaki-bikes/ninja-h2-sx,std,https://www.zigwheels.com/kawasaki-bikes/ninja-h2-sx/std,1
 kawasaki,ninja h2 sx,https://www.zigwheels.com/kawasaki-bikes/ninja-h2-sx,se,https://www.zigwheels.com/kawasaki-bikes/ninja-h2-sx/se,1
+kawasaki,z500,https://www.zigwheels.com/kawasaki-bikes/z500,std,https://www.zigwheels.com/kawasaki-bikes/z500/std,1
+kawasaki,z h2,https://www.zigwheels.com/kawasaki-bikes/zh2,std,https://www.zigwheels.com/kawasaki-bikes/zh2/std,1
+kawasaki,z h2,https://www.zigwheels.com/kawasaki-bikes/zh2,se,https://www.zigwheels.com/kawasaki-bikes/zh2/se,1
 kawasaki,vulcan s,https://www.zigwheels.com/kawasaki-bikes/vulcan-s,abs,https://www.zigwheels.com/kawasaki-bikes/vulcan-s/abs,1
 kawasaki,versys 650,https://www.zigwheels.com/kawasaki-bikes/versys-650,std,https://www.zigwheels.com/kawasaki-bikes/versys-650/standard,1
 kawasaki,z650rs,https://www.zigwheels.com/kawasaki-bikes/z650rs,std,https://www.zigwheels.com/kawasaki-bikes/z650rs/std,1
@@ -560,6 +583,7 @@ kawasaki,klx 140r f,https://www.zigwheels.com/kawasaki-bikes/klx-140,std,https:/
 kawasaki,klx230,https://www.zigwheels.com/kawasaki-bikes/klx-230,std,https://www.zigwheels.com/kawasaki-bikes/klx-230/std,1
 kawasaki,klx110r l,https://www.zigwheels.com/kawasaki-bikes/klx-110,std,https://www.zigwheels.com/kawasaki-bikes/klx-110/standard,1
 kawasaki,z900rs,https://www.zigwheels.com/kawasaki-bikes/z900rs,std,https://www.zigwheels.com/kawasaki-bikes/z900rs/std,1
+kawasaki,versys 1100,https://www.zigwheels.com/kawasaki-bikes/versys-1100,std,https://www.zigwheels.com/kawasaki-bikes/versys-1100/std,1
 kawasaki,ninja 1100sx,https://www.zigwheels.com/kawasaki-bikes/ninja-1100sx,std,https://www.zigwheels.com/kawasaki-bikes/ninja-1100sx/std,1
 kawasaki,versys x 300,https://www.zigwheels.com/kawasaki-bikes/versys-x300,std,https://www.zigwheels.com/kawasaki-bikes/versys-x300/std,1
 kawasaki,klx 300r,https://www.zigwheels.com/kawasaki-bikes/klx-300r,std,https://www.zigwheels.com/kawasaki-bikes/klx-300r/std,1
@@ -575,9 +599,9 @@ benelli,trk 502,https://www.zigwheels.com/benelli-bikes/trk-502,std,https://www.
 benelli,trk 502,https://www.zigwheels.com/benelli-bikes/trk-502,x,https://www.zigwheels.com/benelli-bikes/trk-502/x,1
 benelli,302 s,https://www.zigwheels.com/benelli-bikes/302-s,std,https://www.zigwheels.com/benelli-bikes/302-s/std,1
 benelli,502 c,https://www.zigwheels.com/benelli-bikes/502-c,std,https://www.zigwheels.com/benelli-bikes/502-c/std,1
-benelli,752 s,https://www.zigwheels.com/benelli-bikes/752-s,std,https://www.zigwheels.com/benelli-bikes/752-s/std,1
 benelli,leoncino 500,https://www.zigwheels.com/benelli-bikes/leoncino,red,https://www.zigwheels.com/benelli-bikes/leoncino/red,1
 benelli,leoncino 500,https://www.zigwheels.com/benelli-bikes/leoncino,silver,https://www.zigwheels.com/benelli-bikes/leoncino/abs,1
+benelli,752 s,https://www.zigwheels.com/benelli-bikes/752-s,std,https://www.zigwheels.com/benelli-bikes/752-s/std,1
 benelli,leoncino 800,https://www.zigwheels.com/benelli-bikes/leoncino-800,std,https://www.zigwheels.com/benelli-bikes/leoncino-800/std,1
 triumph,speed 400,https://www.zigwheels.com/triumph-bikes/speed-400,std,https://www.zigwheels.com/triumph-bikes/speed-400/std,1
 triumph,rocket 3,https://www.zigwheels.com/triumph-bikes/rocket-3,r,https://www.zigwheels.com/triumph-bikes/rocket-3/std,1
@@ -588,16 +612,16 @@ triumph,street triple 765,https://www.zigwheels.com/triumph-bikes/street-triple,
 triumph,street triple 765,https://www.zigwheels.com/triumph-bikes/street-triple,rs silver ice,https://www.zigwheels.com/triumph-bikes/street-triple/rs-2023,1
 triumph,street triple 765,https://www.zigwheels.com/triumph-bikes/street-triple,rs carnival red,https://www.zigwheels.com/triumph-bikes/street-triple/rs-carnival-red,1
 triumph,street triple 765,https://www.zigwheels.com/triumph-bikes/street-triple,rs cosmic yellow,https://www.zigwheels.com/triumph-bikes/street-triple/rs-cosmic-yellow,1
-triumph,trident 660,https://www.zigwheels.com/triumph-bikes/trident,std,https://www.zigwheels.com/triumph-bikes/trident/std,1
 triumph,speed t4,https://www.zigwheels.com/triumph-bikes/speed-t4,std,https://www.zigwheels.com/triumph-bikes/speed-t4/std,1
+triumph,trident 660,https://www.zigwheels.com/triumph-bikes/trident,std,https://www.zigwheels.com/triumph-bikes/trident/std,1
 triumph,daytona 660,https://www.zigwheels.com/triumph-bikes/daytona-660,std,https://www.zigwheels.com/triumph-bikes/daytona-660/std,1
 triumph,thruxton 400,https://www.zigwheels.com/triumph-bikes/thruxton-400,std,https://www.zigwheels.com/triumph-bikes/thruxton-400/std,1
 triumph,bonneville bobber,https://www.zigwheels.com/triumph-bikes/bonneville-bobber,std,https://www.zigwheels.com/triumph-bikes/bonneville-bobber/bobber,1
 triumph,bonneville bobber,https://www.zigwheels.com/triumph-bikes/bonneville-bobber,icon edition,https://www.zigwheels.com/triumph-bikes/bonneville-bobber/icon-edition,1
 triumph,tiger 900,https://www.zigwheels.com/triumph-bikes/tiger-900,gt,https://www.zigwheels.com/triumph-bikes/tiger-900/gt,1
 triumph,tiger 900,https://www.zigwheels.com/triumph-bikes/tiger-900,rally pro,https://www.zigwheels.com/triumph-bikes/tiger-900/rally-pro,1
-triumph,bonneville t120,https://www.zigwheels.com/triumph-bikes/bonneville,black,https://www.zigwheels.com/triumph-bikes/bonneville/black-2021,1
 triumph,bonneville t120,https://www.zigwheels.com/triumph-bikes/bonneville,std,https://www.zigwheels.com/triumph-bikes/bonneville/2021,1
+triumph,bonneville t120,https://www.zigwheels.com/triumph-bikes/bonneville,black,https://www.zigwheels.com/triumph-bikes/bonneville/black-2021,1
 triumph,bonneville t120,https://www.zigwheels.com/triumph-bikes/bonneville,icon edition,https://www.zigwheels.com/triumph-bikes/bonneville/icon-edition,1
 triumph,tiger sport 660,https://www.zigwheels.com/triumph-bikes/tiger-sport-660,std,https://www.zigwheels.com/triumph-bikes/tiger-sport-660/std,1
 triumph,bonneville speedmaster,https://www.zigwheels.com/triumph-bikes/speedmaster,std,https://www.zigwheels.com/triumph-bikes/speedmaster/2021,1
@@ -608,7 +632,6 @@ triumph,tiger 1200,https://www.zigwheels.com/triumph-bikes/tiger-1200,gt pro,htt
 triumph,tiger 1200,https://www.zigwheels.com/triumph-bikes/tiger-1200,rally pro,https://www.zigwheels.com/triumph-bikes/tiger-1200/rally-pro,1
 triumph,tiger 1200,https://www.zigwheels.com/triumph-bikes/tiger-1200,gt explorer,https://www.zigwheels.com/triumph-bikes/tiger-1200/gt-explorer,1
 triumph,tiger 1200,https://www.zigwheels.com/triumph-bikes/tiger-1200,rally explorer,https://www.zigwheels.com/triumph-bikes/tiger-1200/rally-explorer,1
-triumph,tiger 850 sport,https://www.zigwheels.com/triumph-bikes/tiger-850,std,https://www.zigwheels.com/triumph-bikes/tiger-850/std,1
 triumph,speed twin 900,https://www.zigwheels.com/triumph-bikes/speed-twin-900,std,https://www.zigwheels.com/triumph-bikes/speed-twin-900/std,1
 triumph,scrambler t4,https://www.zigwheels.com/triumph-bikes/scrambler-400,std,https://www.zigwheels.com/triumph-bikes/scrambler-400/std,1
 triumph,speed twin 1200,https://www.zigwheels.com/triumph-bikes/speed-twin-1200,std,https://www.zigwheels.com/triumph-bikes/speed-twin-1200/std,1
@@ -669,8 +692,8 @@ indian,scout rogue,https://www.zigwheels.com/indian-bikes/scout-rogue,black meta
 indian,scout rogue,https://www.zigwheels.com/indian-bikes/scout-rogue,black smoke,https://www.zigwheels.com/indian-bikes/scout-rogue/black-smoke,1
 indian,scout rogue,https://www.zigwheels.com/indian-bikes/scout-rogue,stealth gray,https://www.zigwheels.com/indian-bikes/scout-rogue/stealth-gray,1
 indian,super chief limited,https://www.zigwheels.com/indian-bikes/super-chief-limited,black metallic,https://www.zigwheels.com/indian-bikes/super-chief-limited/black-metallic,1
-indian,super chief limited,https://www.zigwheels.com/indian-bikes/super-chief-limited,maroon metallic,https://www.zigwheels.com/indian-bikes/super-chief-limited/std,1
 indian,super chief limited,https://www.zigwheels.com/indian-bikes/super-chief-limited,blue slate metallic,https://www.zigwheels.com/indian-bikes/super-chief-limited/blue-slate-metallic,1
+indian,super chief limited,https://www.zigwheels.com/indian-bikes/super-chief-limited,maroon metallic,https://www.zigwheels.com/indian-bikes/super-chief-limited/std,1
 indian,chief bobber dark horse,https://www.zigwheels.com/indian-bikes/chief-bobber-dark-horse,black smoke,https://www.zigwheels.com/indian-bikes/chief-bobber-dark-horse/black-smoke,1
 indian,chief bobber dark horse,https://www.zigwheels.com/indian-bikes/chief-bobber-dark-horse,titanium smoke,https://www.zigwheels.com/indian-bikes/chief-bobber-dark-horse/std,1
 indian,chief bobber dark horse,https://www.zigwheels.com/indian-bikes/chief-bobber-dark-horse,sagebrush smoke,https://www.zigwheels.com/indian-bikes/chief-bobber-dark-horse/sagebrush-smoke,1
@@ -699,18 +722,16 @@ bmw,s 1000 rr[2022-2024],https://www.zigwheels.com/bmw-bikes/s-1000-rr,pro m spo
 bmw,g 310 rr,https://www.zigwheels.com/bmw-bikes/g-310-rr,std,https://www.zigwheels.com/bmw-bikes/g-310-rr/std,1
 bmw,g 310 r,https://www.zigwheels.com/bmw-bikes/g310r,std,https://www.zigwheels.com/bmw-bikes/g310r/abs,1
 bmw,g 310 gs,https://www.zigwheels.com/bmw-bikes/g-310-gs,abs bs6,https://www.zigwheels.com/bmw-bikes/g-310-gs/abs,1
-bmw,r 1250 gs,https://www.zigwheels.com/bmw-bikes/r-1250-gs,pro bs6,https://www.zigwheels.com/bmw-bikes/r-1250-gs/pro,1
 bmw,m 1000 rr,https://www.zigwheels.com/bmw-bikes/m-1000-rr,std,https://www.zigwheels.com/bmw-bikes/m-1000-rr/std,1
 bmw,m 1000 rr,https://www.zigwheels.com/bmw-bikes/m-1000-rr,competition,https://www.zigwheels.com/bmw-bikes/m-1000-rr/competition,1
+bmw,r 1250 gs,https://www.zigwheels.com/bmw-bikes/r-1250-gs,pro bs6,https://www.zigwheels.com/bmw-bikes/r-1250-gs/pro,1
 bmw,c 400 gt,https://www.zigwheels.com/bmw-bikes/c-400-gt,std,https://www.zigwheels.com/bmw-bikes/c-400-gt/std,1
 bmw,r 1300 gs,https://www.zigwheels.com/bmw-bikes/r-1300-gs,pro,https://www.zigwheels.com/bmw-bikes/r-1300-gs/pro,1
 bmw,f 450 gs,https://www.zigwheels.com/bmw-bikes/f-450-gs,std,https://www.zigwheels.com/bmw-bikes/f-450-gs/std,1
 bmw,r 1250 gs adventure,https://www.zigwheels.com/bmw-bikes/r-1250-gs-adventure,pro bs6,https://www.zigwheels.com/bmw-bikes/r-1250-gs-adventure/pro,1
-bmw,f 850 gs,https://www.zigwheels.com/bmw-bikes/f-850-gs,pro,https://www.zigwheels.com/bmw-bikes/f-850-gs/pro,1
 bmw,s 1000 rr,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr,std,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr/std,1
 bmw,s 1000 rr,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr,pro,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr/pro,1
 bmw,s 1000 rr,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr,pro m sport,https://www.zigwheels.com/bmw-bikes/2025-s-1000-rr/pro-m-sport,1
-bmw,f 850 gs adventure,https://www.zigwheels.com/bmw-bikes/f-850-gs-adventure,pro,https://www.zigwheels.com/bmw-bikes/f-850-gs-adventure/std,1
 bmw,k 1600 gtl,https://www.zigwheels.com/bmw-bikes/1600,std,https://www.zigwheels.com/bmw-bikes/1600/std,1
 bmw,r 1250 rt,https://www.zigwheels.com/bmw-bikes/r-1250-rt,std,https://www.zigwheels.com/bmw-bikes/r-1250-rt/std,1
 bmw,f 900 xr,https://www.zigwheels.com/bmw-bikes/f-900-xr,pro,https://www.zigwheels.com/bmw-bikes/f-900-xr/pro,1
@@ -739,8 +760,8 @@ aprilia,rs 457,https://www.zigwheels.com/aprilia-bikes/rs440,std,https://www.zig
 aprilia,sr 160,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6,std,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6/std,1
 aprilia,sr 160,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6,carbon,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6/2021-carbon,1
 aprilia,sr 160,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6,race,https://www.zigwheels.com/aprilia-bikes/sr-160-bs6/2021-race,1
-aprilia,sr 125,https://www.zigwheels.com/aprilia-bikes/sr-125,std,https://www.zigwheels.com/aprilia-bikes/sr-125/std,1
 aprilia,tuono 457,https://www.zigwheels.com/aprilia-bikes/tuono-457,std,https://www.zigwheels.com/aprilia-bikes/tuono-457/std,1
+aprilia,sr 125,https://www.zigwheels.com/aprilia-bikes/sr-125,std,https://www.zigwheels.com/aprilia-bikes/sr-125/std,1
 aprilia,rs 660,https://www.zigwheels.com/aprilia-bikes/rs-660,std,https://www.zigwheels.com/aprilia-bikes/rs-660/std,1
 aprilia,rsv4,https://www.zigwheels.com/aprilia-bikes/rsv4,factory,https://www.zigwheels.com/aprilia-bikes/rsv4/factory,1
 aprilia,sxr 160,https://www.zigwheels.com/aprilia-bikes/sxr160,std,https://www.zigwheels.com/aprilia-bikes/sxr160/std,1
@@ -750,11 +771,12 @@ aprilia,tuareg 660,https://www.zigwheels.com/aprilia-bikes/tuareg-660,evocative 
 aprilia,sxr 125,https://www.zigwheels.com/aprilia-bikes/sxr-125,std,https://www.zigwheels.com/aprilia-bikes/sxr-125/std,1
 aprilia,tuono 660,https://www.zigwheels.com/aprilia-bikes/tuono-660,std,https://www.zigwheels.com/aprilia-bikes/tuono-660/std,1
 revolt motors,rv400,https://www.zigwheels.com/revolt-bikes/rv-400,std,https://www.zigwheels.com/revolt-bikes/rv-400/std,1
-revolt motors,rv400,https://www.zigwheels.com/revolt-bikes/rv-400,cricket special edition (india blue),https://www.zigwheels.com/revolt-bikes/rv-400/cricket-special-edition,1
 revolt motors,rv400,https://www.zigwheels.com/revolt-bikes/rv-400,stealth black limited edition,https://www.zigwheels.com/revolt-bikes/rv-400/stealth-black-limited-edition,1
+revolt motors,rv400,https://www.zigwheels.com/revolt-bikes/rv-400,cricket special edition (india blue),https://www.zigwheels.com/revolt-bikes/rv-400/cricket-special-edition,1
 revolt motors,rv1,https://www.zigwheels.com/revolt-bikes/rv1,std,https://www.zigwheels.com/revolt-bikes/rv1/std,1
 revolt motors,rv1,https://www.zigwheels.com/revolt-bikes/rv1,plus,https://www.zigwheels.com/revolt-bikes/rv1/plus,1
 revolt motors,rv400 brz,https://www.zigwheels.com/revolt-bikes/rv400-brz,std,https://www.zigwheels.com/revolt-bikes/rv400-brz/std,1
+revolt motors,rv blazex,https://www.zigwheels.com/revolt-bikes/rv-blazex,std,https://www.zigwheels.com/revolt-bikes/rv-blazex/std,1
 pure ev,epluto 7g,https://www.zigwheels.com/pure-ev-bikes/epluto-7g,cx,https://www.zigwheels.com/pure-ev-bikes/epluto-7g/cx,1
 pure ev,epluto 7g,https://www.zigwheels.com/pure-ev-bikes/epluto-7g,std,https://www.zigwheels.com/pure-ev-bikes/epluto-7g/std,1
 pure ev,epluto 7g max,https://www.zigwheels.com/pure-ev-bikes/epluto-7g-max,std,https://www.zigwheels.com/pure-ev-bikes/epluto-7g-max/std,1
@@ -800,14 +822,14 @@ komaki,tn-95,https://www.zigwheels.com/komaki-bikes/komaki-tn-95,sport - classic
 komaki,tn-95,https://www.zigwheels.com/komaki-bikes/komaki-tn-95,sport - performance upgrade,https://www.zigwheels.com/komaki-bikes/komaki-tn-95/std,1
 komaki,x2 vouge,https://www.zigwheels.com/komaki-bikes/x2-vouge,gel,https://www.zigwheels.com/komaki-bikes/x2-vouge/72-v-28-ah,1
 komaki,x2 vouge,https://www.zigwheels.com/komaki-bikes/x2-vouge,lithium ion,https://www.zigwheels.com/komaki-bikes/x2-vouge/std,1
+joy e-bike,beast,https://www.zigwheels.com/joy-e-bikes/beast,std,https://www.zigwheels.com/joy-e-bikes/beast/std,1
 joy e-bike,gen next nanu,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu-e-scooter,e-scooter,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu-e-scooter/std,1
 joy e-bike,gen next nanu,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu-e-scooter,eco,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu-e-scooter/eco,1
-joy e-bike,beast,https://www.zigwheels.com/joy-e-bikes/beast,std,https://www.zigwheels.com/joy-e-bikes/beast/std,1
 joy e-bike,mihos,https://www.zigwheels.com/joy-e-bikes/mihos,std,https://www.zigwheels.com/joy-e-bikes/mihos/std,1
 joy e-bike,wolf,https://www.zigwheels.com/joy-e-bikes/wolf,std,https://www.zigwheels.com/joy-e-bikes/wolf/std,1
 joy e-bike,wolf,https://www.zigwheels.com/joy-e-bikes/wolf,eco,https://www.zigwheels.com/joy-e-bikes/wolf/eco,1
-joy e-bike,wolf plus,https://www.zigwheels.com/joy-e-bikes/wolfplus,std,https://www.zigwheels.com/joy-e-bikes/wolfplus/std,1
 joy e-bike,gen next nanu plus,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu,std,https://www.zigwheels.com/joy-e-bikes/gen-nxt-nanu/std,1
+joy e-bike,wolf plus,https://www.zigwheels.com/joy-e-bikes/wolfplus,std,https://www.zigwheels.com/joy-e-bikes/wolfplus/std,1
 joy e-bike,thunderbolt,https://www.zigwheels.com/joy-e-bikes/thunderbolt,std,https://www.zigwheels.com/joy-e-bikes/thunderbolt/std,1
 joy e-bike,hurricane,https://www.zigwheels.com/joy-e-bikes/hurricane,std,https://www.zigwheels.com/joy-e-bikes/hurricane/std,1
 joy e-bike,glob,https://www.zigwheels.com/joy-e-bikes/glob,std,https://www.zigwheels.com/joy-e-bikes/glob/std,1
@@ -853,18 +875,23 @@ zontes,350r,https://www.zigwheels.com/zontes-bikes/350r,silver,https://www.zigwh
 zontes,350r,https://www.zigwheels.com/zontes-bikes/350r,blue,https://www.zigwheels.com/zontes-bikes/350r/std,1
 zontes,350r,https://www.zigwheels.com/zontes-bikes/350r,black,https://www.zigwheels.com/zontes-bikes/350r/black,1
 zontes,gk350,https://www.zigwheels.com/zontes-bikes/gk-350,black blue,https://www.zigwheels.com/zontes-bikes/gk-350/std,1
-zontes,gk350,https://www.zigwheels.com/zontes-bikes/gk-350,orange silver,https://www.zigwheels.com/zontes-bikes/gk-350/white-and-orange,1
 zontes,gk350,https://www.zigwheels.com/zontes-bikes/gk-350,gold black,https://www.zigwheels.com/zontes-bikes/gk-350/black-and-gold,1
-zontes,u1 200,https://www.zigwheels.com/zontes-bikes/u1-200,std,https://www.zigwheels.com/zontes-bikes/u1-200/std,1
+zontes,gk350,https://www.zigwheels.com/zontes-bikes/gk-350,orange silver,https://www.zigwheels.com/zontes-bikes/gk-350/white-and-orange,1
 zontes,350t,https://www.zigwheels.com/zontes-bikes/350t,adv champagne,https://www.zigwheels.com/zontes-bikes/350t/adv-champagne,1
 zontes,350t,https://www.zigwheels.com/zontes-bikes/350t,adv orange,https://www.zigwheels.com/zontes-bikes/350t/adv,1
 zontes,350t,https://www.zigwheels.com/zontes-bikes/350t,orange,https://www.zigwheels.com/zontes-bikes/350t/std,1
 zontes,350t,https://www.zigwheels.com/zontes-bikes/350t,champagne,https://www.zigwheels.com/zontes-bikes/350t/champagne,1
+zontes,u1 200,https://www.zigwheels.com/zontes-bikes/u1-200,std,https://www.zigwheels.com/zontes-bikes/u1-200/std,1
 zontes,s350,https://www.zigwheels.com/zontes-bikes/s350,std,https://www.zigwheels.com/zontes-bikes/s350/std,1
 zontes,350e,https://www.zigwheels.com/zontes-bikes/350e,std,https://www.zigwheels.com/zontes-bikes/350e/std,1
 zontes,350x,https://www.zigwheels.com/zontes-bikes/350x,silver orange,https://www.zigwheels.com/zontes-bikes/350x/silver-and-orange,1
 zontes,350x,https://www.zigwheels.com/zontes-bikes/350x,green black,https://www.zigwheels.com/zontes-bikes/350x/black-and-green,1
 zontes,350x,https://www.zigwheels.com/zontes-bikes/350x,silver black,https://www.zigwheels.com/zontes-bikes/350x/std,1
+zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,graphene 48v,https://www.zigwheels.com/zelo-bikes/zoop/graphene-48v,1
+zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,graphene 60v,https://www.zigwheels.com/zelo-bikes/zoop/graphene-60v,1
+zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,nmc 48v 26 ah,https://www.zigwheels.com/zelo-bikes/zoop/nmc-48v-26-ah,1
+zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,nmc 60v 28.6ah,https://www.zigwheels.com/zelo-bikes/zoop/nmc-60v-28.6ah,1
+zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,nmc 60v 40ah,https://www.zigwheels.com/zelo-bikes/zoop/nmc-60v-40ah,1
 zelo,zaeden+,https://www.zigwheels.com/zelo-bikes/zaedenplus,std,https://www.zigwheels.com/zelo-bikes/zaedenplus/std,1
 zelo,zaeden,https://www.zigwheels.com/zelo-bikes/zaeden,graphene 48v,https://www.zigwheels.com/zelo-bikes/zaeden/graphene-48v,1
 zelo,zaeden,https://www.zigwheels.com/zelo-bikes/zaeden,graphene 60v,https://www.zigwheels.com/zelo-bikes/zaeden/graphene-60v,1
@@ -876,11 +903,6 @@ zelo,knight,https://www.zigwheels.com/zelo-bikes/knight,graphene 60v,https://www
 zelo,knight,https://www.zigwheels.com/zelo-bikes/knight,nmc 48v 26 ah,https://www.zigwheels.com/zelo-bikes/knight/nmc-48v-26-ah,1
 zelo,knight,https://www.zigwheels.com/zelo-bikes/knight,nmc 60v 28.6ah,https://www.zigwheels.com/zelo-bikes/knight/nmc-60v-28.6ah,1
 zelo,knight,https://www.zigwheels.com/zelo-bikes/knight,nmc 60v 40ah,https://www.zigwheels.com/zelo-bikes/knight/nmc-60v-40ah,1
-zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,graphene 48v,https://www.zigwheels.com/zelo-bikes/zoop/graphene-48v,1
-zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,graphene 60v,https://www.zigwheels.com/zelo-bikes/zoop/graphene-60v,1
-zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,nmc 48v 26 ah,https://www.zigwheels.com/zelo-bikes/zoop/nmc-48v-26-ah,1
-zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,nmc 60v 28.6ah,https://www.zigwheels.com/zelo-bikes/zoop/nmc-60v-28.6ah,1
-zelo,zoop,https://www.zigwheels.com/zelo-bikes/zoop,nmc 60v 40ah,https://www.zigwheels.com/zelo-bikes/zoop/nmc-60v-40ah,1
 zelio,gracyi,https://www.zigwheels.com/zelio-bikes/gracyi,28 ah 48v,https://www.zigwheels.com/zelio-bikes/gracyi/28-ah-48v,1
 zelio,gracyi,https://www.zigwheels.com/zelio-bikes/gracyi,32 ah 60v,https://www.zigwheels.com/zelio-bikes/gracyi/32-ah-60v,1
 zelio,gracyi,https://www.zigwheels.com/zelio-bikes/gracyi,28 ah 60v,https://www.zigwheels.com/zelio-bikes/gracyi/28-ah-60v,1
@@ -917,14 +939,14 @@ yobykes,edge dx,https://www.zigwheels.com/yobykes-bikes/edge-dx,std,https://www.
 yobykes,trust drift hx,https://www.zigwheels.com/yobykes-bikes/trust-drift-hx,std,https://www.zigwheels.com/yobykes-bikes/trust-drift-hx/std,1
 yobykes,drift dx,https://www.zigwheels.com/yobykes-bikes/drift,std,https://www.zigwheels.com/yobykes-bikes/drift/std,1
 yobykes,drift dx,https://www.zigwheels.com/yobykes-bikes/drift,+,https://www.zigwheels.com/yobykes-bikes/drift/plus,1
+yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - smoke grey,https://www.zigwheels.com/yezdi-bikes/cruiser/smoke-grey,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - inferno red,https://www.zigwheels.com/yezdi-bikes/cruiser/inferno-red,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - glacial white,https://www.zigwheels.com/yezdi-bikes/cruiser/glacial-white,1
-yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - smoke grey,https://www.zigwheels.com/yezdi-bikes/cruiser/smoke-grey,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - hunter green,https://www.zigwheels.com/yezdi-bikes/cruiser/hunter-green,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - steel blue,https://www.zigwheels.com/yezdi-bikes/cruiser/steel-blue,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,crimson,https://www.zigwheels.com/yezdi-bikes/cruiser/crimson,1
-yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,chrome - gallant grey,https://www.zigwheels.com/yezdi-bikes/cruiser/chrome-gallant-grey,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dark - shadow grey,https://www.zigwheels.com/yezdi-bikes/cruiser/updated,1
+yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,chrome - gallant grey,https://www.zigwheels.com/yezdi-bikes/cruiser/chrome-gallant-grey,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,dual tone,https://www.zigwheels.com/yezdi-bikes/cruiser/crimson-dual-tone,1
 yezdi motorcycles,roadster,https://www.zigwheels.com/yezdi-bikes/cruiser,chrome - sin silver,https://www.zigwheels.com/yezdi-bikes/cruiser/sin-silver,1
 yezdi motorcycles,adventure,https://www.zigwheels.com/yezdi-bikes/adventure,matte - tornado black,https://www.zigwheels.com/yezdi-bikes/adventure/matte-tornado-black,1
@@ -932,8 +954,8 @@ yezdi motorcycles,adventure,https://www.zigwheels.com/yezdi-bikes/adventure,matt
 yezdi motorcycles,adventure,https://www.zigwheels.com/yezdi-bikes/adventure,gloss - wolf grey,https://www.zigwheels.com/yezdi-bikes/adventure/gloss-wolf-grey,1
 yezdi motorcycles,adventure,https://www.zigwheels.com/yezdi-bikes/adventure,gloss - glacier white,https://www.zigwheels.com/yezdi-bikes/adventure/gloss,1
 yezdi motorcycles,scrambler,https://www.zigwheels.com/yezdi-bikes/scrambler,single tone - fire orange,https://www.zigwheels.com/yezdi-bikes/scrambler/std,1
-yezdi motorcycles,scrambler,https://www.zigwheels.com/yezdi-bikes/scrambler,single tone - yelling yellow,https://www.zigwheels.com/yezdi-bikes/scrambler/single-tone-yelling-yellow,1
 yezdi motorcycles,scrambler,https://www.zigwheels.com/yezdi-bikes/scrambler,single tone - bold black,https://www.zigwheels.com/yezdi-bikes/scrambler/single-tone-bold-black,1
+yezdi motorcycles,scrambler,https://www.zigwheels.com/yezdi-bikes/scrambler,single tone - yelling yellow,https://www.zigwheels.com/yezdi-bikes/scrambler/single-tone-yelling-yellow,1
 yezdi motorcycles,scrambler,https://www.zigwheels.com/yezdi-bikes/scrambler,single tone - outlaw olive,https://www.zigwheels.com/yezdi-bikes/scrambler/single-tone-outlaw-olive,1
 yezdi motorcycles,scrambler,https://www.zigwheels.com/yezdi-bikes/scrambler,dual tone,https://www.zigwheels.com/yezdi-bikes/scrambler/dual-tone,1
 yezdi motorcycles,roadking,https://www.zigwheels.com/yezdi-bikes/roadking,std,https://www.zigwheels.com/yezdi-bikes/roadking/std,1
@@ -995,8 +1017,8 @@ sym,joymax z 300,https://www.zigwheels.com/sym-bikes/joymaxz-300,std,https://www
 svitch bike,csr 762,https://www.zigwheels.com/svitch-bike-bikes/csr-762,std,https://www.zigwheels.com/svitch-bike-bikes/csr-762/std,1
 svitch bike,mxe,https://www.zigwheels.com/svitch-bike-bikes/mxe,std,https://www.zigwheels.com/svitch-bike-bikes/mxe/std,1
 svitch bike,xe,https://www.zigwheels.com/svitch-bike-bikes/xe,lite,https://www.zigwheels.com/svitch-bike-bikes/xe/lite,1
-svitch bike,xe,https://www.zigwheels.com/svitch-bike-bikes/xe,std,https://www.zigwheels.com/svitch-bike-bikes/xe/std,1
 svitch bike,xe,https://www.zigwheels.com/svitch-bike-bikes/xe,lite special edition,https://www.zigwheels.com/svitch-bike-bikes/xe/lite-special-edition,1
+svitch bike,xe,https://www.zigwheels.com/svitch-bike-bikes/xe,std,https://www.zigwheels.com/svitch-bike-bikes/xe/std,1
 svitch bike,xe+,https://www.zigwheels.com/svitch-bike-bikes/xe-plus,std,https://www.zigwheels.com/svitch-bike-bikes/xe-plus/std,1
 super eco,t1,https://www.zigwheels.com/super-eco-bikes/t1,std,https://www.zigwheels.com/super-eco-bikes/t1/std,1
 super eco,s 2,https://www.zigwheels.com/super-eco-bikes/s-2,std,https://www.zigwheels.com/super-eco-bikes/s-2/std,1
@@ -1011,9 +1033,10 @@ sokudo,plus,https://www.zigwheels.com/sokudo-bikes/plus,std,https://www.zigwheel
 sokudo,dhansu,https://www.zigwheels.com/sokudo-bikes/dhansu,std,https://www.zigwheels.com/sokudo-bikes/dhansu/std,1
 sokudo,rapid,https://www.zigwheels.com/sokudo-bikes/rapid,2.2,https://www.zigwheels.com/sokudo-bikes/rapid/2.2,1
 sokudo,select,https://www.zigwheels.com/sokudo-bikes/select,2.2,https://www.zigwheels.com/sokudo-bikes/select/2.2,1
-simple energy,one,https://www.zigwheels.com/simple-energy-bikes/simple-one,single t,https://www.zigwheels.com/simple-energy-bikes/simple-one/std,1
-simple energy,one,https://www.zigwheels.com/simple-energy-bikes/simple-one,dual t,https://www.zigwheels.com/simple-energy-bikes/simple-one/extra-range,1
+simple energy,one,https://www.zigwheels.com/simple-energy-bikes/simple-one,std,https://www.zigwheels.com/simple-energy-bikes/simple-one/std,1
 simple energy,dot one,https://www.zigwheels.com/simple-energy-bikes/dot-one,std,https://www.zigwheels.com/simple-energy-bikes/dot-one/std,1
+simple energy,one gen 1,https://www.zigwheels.com/simple-energy-bikes/simple-one-gen1,single tone,https://www.zigwheels.com/simple-energy-bikes/simple-one-gen1/std,1
+simple energy,one gen 1,https://www.zigwheels.com/simple-energy-bikes/simple-one-gen1,dual tone,https://www.zigwheels.com/simple-energy-bikes/simple-one-gen1/extra-range,1
 shema e-vehicle,eagle,https://www.zigwheels.com/shema-e-vehicle-bikes/eagle,+,https://www.zigwheels.com/shema-e-vehicle-bikes/eagle/plus,1
 shema e-vehicle,eagle,https://www.zigwheels.com/shema-e-vehicle-bikes/eagle,"48 v, 25 ah",https://www.zigwheels.com/shema-e-vehicle-bikes/eagle/48v-25ah,1
 shema e-vehicle,eagle,https://www.zigwheels.com/shema-e-vehicle-bikes/eagle,"51.8 v, 35 ah",https://www.zigwheels.com/shema-e-vehicle-bikes/eagle/51v-31ah,1
@@ -1040,14 +1063,14 @@ rowwet,vegatron,https://www.zigwheels.com/rowwet-bikes/vegatron,std,https://www.
 rowwet,eleq,https://www.zigwheels.com/rowwet-bikes/eleq,std,https://www.zigwheels.com/rowwet-bikes/eleq/std,1
 rowwet,rame,https://www.zigwheels.com/rowwet-bikes/rame,std,https://www.zigwheels.com/rowwet-bikes/rame/std,1
 river,indie,https://www.zigwheels.com/river-bikes/indie,std,https://www.zigwheels.com/river-bikes/indie/std,1
-revamp moto,rm mitra,https://www.zigwheels.com/revamp-moto-bikes/rm-mitra-02,std,https://www.zigwheels.com/revamp-moto-bikes/rm-mitra-02/std,1
 revamp moto,rm buddie 25,https://www.zigwheels.com/revamp-moto-bikes/rm-buddie-25,std,https://www.zigwheels.com/revamp-moto-bikes/rm-buddie-25/std,1
+revamp moto,rm mitra,https://www.zigwheels.com/revamp-moto-bikes/rm-mitra-02,std,https://www.zigwheels.com/revamp-moto-bikes/rm-mitra-02/std,1
 rbseva,rider,https://www.zigwheels.com/rbseva-bikes/rider,std,https://www.zigwheels.com/rbseva-bikes/rider/std,1
 rbseva,legend,https://www.zigwheels.com/rbseva-bikes/legend,std,https://www.zigwheels.com/rbseva-bikes/legend/std,1
 raptee motors,t 30,https://www.zigwheels.com/raptee-motors-bikes/t-30,std,https://www.zigwheels.com/raptee-motors-bikes/t-30/std,1
-raftaar,galaxy,https://www.zigwheels.com/raftaar-bikes/galaxy,std,https://www.zigwheels.com/raftaar-bikes/galaxy/std,1
 raftaar,bumblebee,https://www.zigwheels.com/raftaar-bikes/bumblebee,std,https://www.zigwheels.com/raftaar-bikes/bumblebee/std,1
 raftaar,cruzer r1,https://www.zigwheels.com/raftaar-bikes/cruiser,std,https://www.zigwheels.com/raftaar-bikes/cruiser/std,1
+raftaar,galaxy,https://www.zigwheels.com/raftaar-bikes/galaxy,std,https://www.zigwheels.com/raftaar-bikes/galaxy/std,1
 raftaar,electrica,https://www.zigwheels.com/raftaar-bikes/electrica,la,https://www.zigwheels.com/raftaar-bikes/electrica/std,1
 raftaar,electrica,https://www.zigwheels.com/raftaar-bikes/electrica,li,https://www.zigwheels.com/raftaar-bikes/electrica/li,1
 quantum energy,plasma,https://www.zigwheels.com/quantum-energy-bikes/plasma,xr,https://www.zigwheels.com/quantum-energy-bikes/plasma/xr,1
@@ -1063,11 +1086,11 @@ qj motor,src 250,https://www.zigwheels.com/qj-motor-bikes/src-250,black,https://
 qj motor,src 250,https://www.zigwheels.com/qj-motor-bikes/src-250,red,https://www.zigwheels.com/qj-motor-bikes/src-250/red,1
 qj motor,src 250,https://www.zigwheels.com/qj-motor-bikes/src-250,silver,https://www.zigwheels.com/qj-motor-bikes/src-250/std,1
 qj motor,srv 300,https://www.zigwheels.com/qj-motor-bikes/srv-300,black,https://www.zigwheels.com/qj-motor-bikes/srv-300/black,1
-qj motor,srv 300,https://www.zigwheels.com/qj-motor-bikes/srv-300,red,https://www.zigwheels.com/qj-motor-bikes/srv-300/red,1
 qj motor,srv 300,https://www.zigwheels.com/qj-motor-bikes/srv-300,orange,https://www.zigwheels.com/qj-motor-bikes/srv-300/orange,1
+qj motor,srv 300,https://www.zigwheels.com/qj-motor-bikes/srv-300,red,https://www.zigwheels.com/qj-motor-bikes/srv-300/red,1
 qj motor,srv 300,https://www.zigwheels.com/qj-motor-bikes/srv-300,green,https://www.zigwheels.com/qj-motor-bikes/srv-300/std,1
-qj motor,src 500,https://www.zigwheels.com/qj-motor-bikes/src-500,gold black,https://www.zigwheels.com/qj-motor-bikes/src-500/gold-black,1
 qj motor,src 500,https://www.zigwheels.com/qj-motor-bikes/src-500,red white,https://www.zigwheels.com/qj-motor-bikes/src-500/red-white,1
+qj motor,src 500,https://www.zigwheels.com/qj-motor-bikes/src-500,gold black,https://www.zigwheels.com/qj-motor-bikes/src-500/gold-black,1
 qj motor,src 500,https://www.zigwheels.com/qj-motor-bikes/src-500,silver black,https://www.zigwheels.com/qj-motor-bikes/src-500/std,1
 power ev,p-sport,https://www.zigwheels.com/power-ev-bikes/p-sport,std,https://www.zigwheels.com/power-ev-bikes/p-sport/std,1
 power ev,p-sport,https://www.zigwheels.com/power-ev-bikes/p-sport,plus,https://www.zigwheels.com/power-ev-bikes/p-sport/plus,1
@@ -1102,17 +1125,17 @@ ola electric,s1 z,https://www.zigwheels.com/ola-electric-bikes/s1-z,std,https://
 ola electric,s1 z,https://www.zigwheels.com/ola-electric-bikes/s1-z,+,https://www.zigwheels.com/ola-electric-bikes/s1-z/plus,1
 ola electric,gig,https://www.zigwheels.com/ola-electric-bikes/gig,std,https://www.zigwheels.com/ola-electric-bikes/gig/std,1
 ola electric,gig,https://www.zigwheels.com/ola-electric-bikes/gig,+,https://www.zigwheels.com/ola-electric-bikes/gig/plus,1
-ola electric,diamondhead,https://www.zigwheels.com/ola-electric-bikes/ola-diamondhead,std,https://www.zigwheels.com/ola-electric-bikes/ola-diamondhead/std,1
 ola electric,roadster x,https://www.zigwheels.com/ola-electric-bikes/roadster-x,2.5 kwh,https://www.zigwheels.com/ola-electric-bikes/roadster-x/2.5-kwh,1
 ola electric,roadster x,https://www.zigwheels.com/ola-electric-bikes/roadster-x,3.5 kwh,https://www.zigwheels.com/ola-electric-bikes/roadster-x/3.5-kwh,1
 ola electric,roadster x,https://www.zigwheels.com/ola-electric-bikes/roadster-x,4.5 kwh,https://www.zigwheels.com/ola-electric-bikes/roadster-x/4.5-kwh,1
-ola electric,cruiser,https://www.zigwheels.com/ola-electric-bikes/ola-cruiser,std,https://www.zigwheels.com/ola-electric-bikes/ola-cruiser/std,1
+ola electric,diamondhead,https://www.zigwheels.com/ola-electric-bikes/ola-diamondhead,std,https://www.zigwheels.com/ola-electric-bikes/ola-diamondhead/std,1
 ola electric,s1 pro plus,https://www.zigwheels.com/ola-electric-bikes/s1-pro-plus,4kwh,https://www.zigwheels.com/ola-electric-bikes/s1-pro-plus/4kwh,1
 ola electric,s1 pro plus,https://www.zigwheels.com/ola-electric-bikes/s1-pro-plus,5.3kwh,https://www.zigwheels.com/ola-electric-bikes/s1-pro-plus/5.3kwh,1
+ola electric,s1 x plus,https://www.zigwheels.com/ola-electric-bikes/s1-x-plus,4kwh,https://www.zigwheels.com/ola-electric-bikes/s1-x-plus/4kwh,1
+ola electric,cruiser,https://www.zigwheels.com/ola-electric-bikes/ola-cruiser,std,https://www.zigwheels.com/ola-electric-bikes/ola-cruiser/std,1
 ola electric,adventure,https://www.zigwheels.com/ola-electric-bikes/ola-adventure,std,https://www.zigwheels.com/ola-electric-bikes/ola-adventure/std,1
 ola electric,roadster x+,https://www.zigwheels.com/ola-electric-bikes/roadster-xplus,4.5 kwh,https://www.zigwheels.com/ola-electric-bikes/roadster-xplus/4.5-kwh,1
 ola electric,roadster x+,https://www.zigwheels.com/ola-electric-bikes/roadster-xplus,9.1 kwh,https://www.zigwheels.com/ola-electric-bikes/roadster-xplus/9.1-kwh,1
-ola electric,s1 x plus,https://www.zigwheels.com/ola-electric-bikes/s1-x-plus,4kwh,https://www.zigwheels.com/ola-electric-bikes/s1-x-plus/4kwh,1
 okinawa,praisepro,https://www.zigwheels.com/okinawa-bikes/praisepro,std,https://www.zigwheels.com/okinawa-bikes/praisepro/std,1
 okinawa,dual 100,https://www.zigwheels.com/okinawa-bikes/dual,std,"https://www.zigwheels.com/okinawa-bikes/dual/48v,-55-ah",1
 okinawa,ipraise+,https://www.zigwheels.com/okinawa-bikes/i-praise,std,https://www.zigwheels.com/okinawa-bikes/i-praise/std,1
@@ -1139,7 +1162,6 @@ oben,rorr ez,https://www.zigwheels.com/oben-bikes/rorr-ez,3.4 kwh,https://www.zi
 oben,rorr ez,https://www.zigwheels.com/oben-bikes/rorr-ez,4.4 kwh,https://www.zigwheels.com/oben-bikes/rorr-ez/4.4-kwh,1
 numeros motors,diplos max,https://www.zigwheels.com/numeros-motors-bikes/diplos-max,std,https://www.zigwheels.com/numeros-motors-bikes/diplos-max/std,1
 numeros motors,diplos pro,https://www.zigwheels.com/numeros-motors-bikes/diplos-pro,std,https://www.zigwheels.com/numeros-motors-bikes/diplos-pro/std,1
-numeros motors,diplos i-pro,https://www.zigwheels.com/numeros-motors-bikes/displos-i-pro,std,https://www.zigwheels.com/numeros-motors-bikes/displos-i-pro/std,1
 norton,commando 961 sport,https://www.zigwheels.com/norton-bikes/commando-961,std bs6,https://www.zigwheels.com/norton-bikes/commando-961/std-bs6,1
 norton,commando 961 cafe racer,https://www.zigwheels.com/norton-bikes/commando-961-cafe-racer,std bs6,https://www.zigwheels.com/norton-bikes/commando-961-cafe-racer/std-bs6,1
 nij automotive,accelero r14,https://www.zigwheels.com/nij-automotive-bikes/accelero,lead acid,https://www.zigwheels.com/nij-automotive-bikes/accelero/lead-acid,1
@@ -1197,17 +1219,17 @@ motovolt,hum,https://www.zigwheels.com/motovolt-bikes/hum,standard - long range 
 motovolt,hum,https://www.zigwheels.com/motovolt-bikes/hum,smart plus - long range,https://www.zigwheels.com/motovolt-bikes/hum/smart-plus-long-range,1
 motovolt,hum,https://www.zigwheels.com/motovolt-bikes/hum,smart plus - long range fast charge,https://www.zigwheels.com/motovolt-bikes/hum/smart-plus-long-range-fast-charge,1
 moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,carrara white,https://www.zigwheels.com/moto-morini-bikes/x-cape/carrara-white,1
-moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,smoky anthracite,https://www.zigwheels.com/moto-morini-bikes/x-cape/smoky-anthracite,1
 moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,red passion,https://www.zigwheels.com/moto-morini-bikes/x-cape/red-passion,1
+moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,smoky anthracite,https://www.zigwheels.com/moto-morini-bikes/x-cape/smoky-anthracite,1
 moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,x smoky anthracite,https://www.zigwheels.com/moto-morini-bikes/x-cape/x,1
 moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,x carrara white,https://www.zigwheels.com/moto-morini-bikes/x-cape/x-carrara-white,1
 moto morini,x-cape,https://www.zigwheels.com/moto-morini-bikes/x-cape,x red passion,https://www.zigwheels.com/moto-morini-bikes/x-cape/x-red-passion,1
-moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,retro street matte grey,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/retro-street,1
 moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,retro street mstelize white,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/retro-street-mstelize-white,1
 moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,retro street milano red,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/retro-street-milano-red,1
+moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,retro street matte grey,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/retro-street,1
+moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,scrambler matte green,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/scrambler-matte-green,1
 moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,scrambler indigo blue,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/scrambler,1
 moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,scrambler graphite black,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/scrambler-graphite-black,1
-moto morini,seiemmezzo 6 ½,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6,scrambler matte green,https://www.zigwheels.com/moto-morini-bikes/seiemmezzo-6/scrambler-matte-green,1
 mbp,c1002v,https://www.zigwheels.com/mbp-bikes/c1002v,std,https://www.zigwheels.com/mbp-bikes/c1002v/std,1
 mbp,m502n,https://www.zigwheels.com/mbp-bikes/m502n,std,https://www.zigwheels.com/mbp-bikes/m502n/std,1
 matter ev,aera,https://www.zigwheels.com/matter-ev-bikes/electric-bike,5000,https://www.zigwheels.com/matter-ev-bikes/electric-bike/5000,1
@@ -1249,8 +1271,8 @@ kinetic green,zing,https://www.zigwheels.com/kinetic-green-bikes/zing,big b,http
 kinetic green,zoom,https://www.zigwheels.com/kinetic-green-bikes/zoom,std,https://www.zigwheels.com/kinetic-green-bikes/zoom/21-ah,1
 kinetic green,zoom,https://www.zigwheels.com/kinetic-green-bikes/zoom,big b,https://www.zigwheels.com/kinetic-green-bikes/zoom/60v/29-ah,1
 kinetic green,flex,https://www.zigwheels.com/kinetic-green-bikes/flex,std,https://www.zigwheels.com/kinetic-green-bikes/flex/std,1
-kinetic green,zulu,https://www.zigwheels.com/kinetic-green-bikes/zulu,std,https://www.zigwheels.com/kinetic-green-bikes/zulu/std,1
 kinetic green,electric scooter,https://www.zigwheels.com/kinetic-green-bikes/kinetic-green-electric-scooter,std,https://www.zigwheels.com/kinetic-green-bikes/kinetic-green-electric-scooter/std,1
+kinetic green,zulu,https://www.zigwheels.com/kinetic-green-bikes/zulu,std,https://www.zigwheels.com/kinetic-green-bikes/zulu/std,1
 kick ev,smassh,https://www.zigwheels.com/kick-ev-bikes/smassh,"72 v, 35 ah",https://www.zigwheels.com/kick-ev-bikes/smassh/72-v-35-ah,1
 kick ev,smassh,https://www.zigwheels.com/kick-ev-bikes/smassh,"72 v, 51 ah",https://www.zigwheels.com/kick-ev-bikes/smassh/72-v-51-ah,1
 kick ev,stallion,https://www.zigwheels.com/kick-ev-bikes/stallion,std,https://www.zigwheels.com/kick-ev-bikes/stallion/std,1
@@ -1267,17 +1289,14 @@ keeway,k-light 250v,https://www.zigwheels.com/keeway-bikes/k-light-250v,matte bl
 keeway,k300 r,https://www.zigwheels.com/keeway-bikes/k300r,glossy black,https://www.zigwheels.com/keeway-bikes/k300r/glossy-black,1
 keeway,k300 r,https://www.zigwheels.com/keeway-bikes/k300r,glassy red,https://www.zigwheels.com/keeway-bikes/k300r/glassy-red,1
 keeway,k300 r,https://www.zigwheels.com/keeway-bikes/k300r,glossy white,https://www.zigwheels.com/keeway-bikes/k300r/glossy-white,1
-keeway,sixties 300i,https://www.zigwheels.com/keeway-bikes/sixties-300i,matte white,https://www.zigwheels.com/keeway-bikes/sixties-300i/matte-white,1
 keeway,sixties 300i,https://www.zigwheels.com/keeway-bikes/sixties-300i,matte light blue,https://www.zigwheels.com/keeway-bikes/sixties-300i/matte-light-blue,1
+keeway,sixties 300i,https://www.zigwheels.com/keeway-bikes/sixties-300i,matte white,https://www.zigwheels.com/keeway-bikes/sixties-300i/matte-white,1
 keeway,sixties 300i,https://www.zigwheels.com/keeway-bikes/sixties-300i,matte grey,https://www.zigwheels.com/keeway-bikes/sixties-300i/std,1
 keeway,vieste 300 ,https://www.zigwheels.com/keeway-bikes/vieste-300,matte white,https://www.zigwheels.com/keeway-bikes/vieste-300/matte-white,1
 keeway,vieste 300 ,https://www.zigwheels.com/keeway-bikes/vieste-300,matte black,https://www.zigwheels.com/keeway-bikes/vieste-300/matte-black,1
 keeway,vieste 300 ,https://www.zigwheels.com/keeway-bikes/vieste-300,matte blue,https://www.zigwheels.com/keeway-bikes/vieste-300/std,1
 keeway,k300 sf,https://www.zigwheels.com/keeway-bikes/k300-sf,std,https://www.zigwheels.com/keeway-bikes/k300-sf/std,1
 keeway,lfs 700,https://www.zigwheels.com/keeway-bikes/lfs700,std,https://www.zigwheels.com/keeway-bikes/lfs700/std,1
-keeway,k300 n,https://www.zigwheels.com/keeway-bikes/k300n,matte black,https://www.zigwheels.com/keeway-bikes/k300n/matte-black,1
-keeway,k300 n,https://www.zigwheels.com/keeway-bikes/k300n,matte white,https://www.zigwheels.com/keeway-bikes/k300n/matte-white,1
-keeway,k300 n,https://www.zigwheels.com/keeway-bikes/k300n,matte red,https://www.zigwheels.com/keeway-bikes/k300n/matte-red,1
 kabira mobility,km3000,https://www.zigwheels.com/kabira-mobility-bikes/km-3000,std,https://www.zigwheels.com/kabira-mobility-bikes/km-3000/high-speed,1
 kabira mobility,km3000,https://www.zigwheels.com/kabira-mobility-bikes/km-3000,v,https://www.zigwheels.com/kabira-mobility-bikes/km-3000/mark-ii,1
 kabira mobility,km4000,https://www.zigwheels.com/kabira-mobility-bikes/km-4000,std,https://www.zigwheels.com/kabira-mobility-bikes/km-4000/std,1
@@ -1320,9 +1339,19 @@ hop electric,leo,https://www.zigwheels.com/hop-electric-bikes/leo,hs,https://www
 hop electric,oxo,https://www.zigwheels.com/hop-electric-bikes/oxo-100,std,https://www.zigwheels.com/hop-electric-bikes/oxo-100/std,1
 hop electric,oxo,https://www.zigwheels.com/hop-electric-bikes/oxo-100,prime,https://www.zigwheels.com/hop-electric-bikes/oxo-100/prime,1
 hop electric,oxo,https://www.zigwheels.com/hop-electric-bikes/oxo-100,x,https://www.zigwheels.com/hop-electric-bikes/oxo-100/x,1
+hero lectro,h7,https://www.zigwheels.com/hero-lectro-bikes/h7,+,https://www.zigwheels.com/hero-lectro-bikes/h7/,1
+hero lectro,h7,https://www.zigwheels.com/hero-lectro-bikes/h7,pro,https://www.zigwheels.com/hero-lectro-bikes/h7/pro,1
+hero lectro,h7,https://www.zigwheels.com/hero-lectro-bikes/h7,sigma,https://www.zigwheels.com/hero-lectro-bikes/h7/sigma,1
+hero lectro,h4,https://www.zigwheels.com/hero-lectro-bikes/h4,std,https://www.zigwheels.com/hero-lectro-bikes/h4/std,1
+hero lectro,h4,https://www.zigwheels.com/hero-lectro-bikes/h4,+,https://www.zigwheels.com/hero-lectro-bikes/h4/,1
+hero lectro,v24,https://www.zigwheels.com/hero-lectro-bikes/v24,std,https://www.zigwheels.com/hero-lectro-bikes/v24/std,1
+hero lectro,h8,https://www.zigwheels.com/hero-lectro-bikes/h8,std,https://www.zigwheels.com/hero-lectro-bikes/h8/std,1
+hero lectro,c4+,https://www.zigwheels.com/hero-lectro-bikes/c4plus,std,https://www.zigwheels.com/hero-lectro-bikes/c4plus/std,1
 hero lectro,muv-e,https://www.zigwheels.com/hero-lectro-bikes/muv-e,std,https://www.zigwheels.com/hero-lectro-bikes/muv-e/std,1
 hero lectro,h5,https://www.zigwheels.com/hero-lectro-bikes/h5,std,https://www.zigwheels.com/hero-lectro-bikes/h5/std,1
+hero lectro,h5,https://www.zigwheels.com/hero-lectro-bikes/h5,+,https://www.zigwheels.com/hero-lectro-bikes/h5/,1
 hero lectro,h3,https://www.zigwheels.com/hero-lectro-bikes/h3,std,https://www.zigwheels.com/hero-lectro-bikes/h3/std,1
+hero lectro,h3,https://www.zigwheels.com/hero-lectro-bikes/h3,+,https://www.zigwheels.com/hero-lectro-bikes/h3/,1
 hero lectro,c5x,https://www.zigwheels.com/hero-lectro-bikes/c5x,std,https://www.zigwheels.com/hero-lectro-bikes/c5x/std,1
 hero lectro,winn-x,https://www.zigwheels.com/hero-lectro-bikes/winn-x,std,https://www.zigwheels.com/hero-lectro-bikes/winn-x/std,1
 hero lectro,winn,https://www.zigwheels.com/hero-lectro-bikes/winn,std,https://www.zigwheels.com/hero-lectro-bikes/winn/std,1
@@ -1477,16 +1506,30 @@ enigma,crink pro,https://www.zigwheels.com/enigma-bikes/crink-pro,std,https://ww
 energy automobile,evone,https://www.zigwheels.com/energy-automobile-bikes/evone,lead acid,https://www.zigwheels.com/energy-automobile-bikes/evone/std,1
 emotorad,doodle,https://www.zigwheels.com/emotorad-bikes/doodle,v2,https://www.zigwheels.com/emotorad-bikes/doodle/v2,1
 emotorad,doodle,https://www.zigwheels.com/emotorad-bikes/doodle,v3,https://www.zigwheels.com/emotorad-bikes/doodle/v3,1
+emotorad,neo,https://www.zigwheels.com/emotorad-bikes/neo,std,https://www.zigwheels.com/emotorad-bikes/neo/std,1
+emotorad,st-x,https://www.zigwheels.com/emotorad-bikes/st-x,std,https://www.zigwheels.com/emotorad-bikes/st-x/std,1
+emotorad,t-rex pro,https://www.zigwheels.com/emotorad-bikes/t-rex-pro,27.5,https://www.zigwheels.com/emotorad-bikes/t-rex-pro/27.5,1
+emotorad,t-rex pro,https://www.zigwheels.com/emotorad-bikes/t-rex-pro,29,https://www.zigwheels.com/emotorad-bikes/t-rex-pro/29,1
+emotorad,t-rex+ v3,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3,27.5,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3/27.5,1
+emotorad,t-rex+ v3,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3,26,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3/26,1
+emotorad,t-rex+ v3,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3,29,https://www.zigwheels.com/emotorad-bikes/t-rexplus-v3/29,1
 emotorad,legend-07,https://www.zigwheels.com/emotorad-bikes/legend-07,msd edition,https://www.zigwheels.com/emotorad-bikes/legend-07/msd-edition,1
 emotorad,x3,https://www.zigwheels.com/emotorad-bikes/x3,std,https://www.zigwheels.com/emotorad-bikes/x3/std,1
 emotorad,x2,https://www.zigwheels.com/emotorad-bikes/x2,std,https://www.zigwheels.com/emotorad-bikes/x2/std,1
 emotorad,x1,https://www.zigwheels.com/emotorad-bikes/x1,std,https://www.zigwheels.com/emotorad-bikes/x1/std,1
 emotorad,x1,https://www.zigwheels.com/emotorad-bikes/x1,limited edition,https://www.zigwheels.com/emotorad-bikes/x1/limited-edition,1
-emotorad,emx,https://www.zigwheels.com/emotorad-bikes/emx,std,https://www.zigwheels.com/emotorad-bikes/emx/std,1
 emotorad,emx,https://www.zigwheels.com/emotorad-bikes/emx,plus,https://www.zigwheels.com/emotorad-bikes/emx/plus,1
-emotorad,t-rex air,https://www.zigwheels.com/emotorad-bikes/t-rex,29,https://www.zigwheels.com/emotorad-bikes/t-rex/29,1
+emotorad,emx,https://www.zigwheels.com/emotorad-bikes/emx,std,https://www.zigwheels.com/emotorad-bikes/emx/std,1
 emotorad,t-rex air,https://www.zigwheels.com/emotorad-bikes/t-rex,27.5,https://www.zigwheels.com/emotorad-bikes/t-rex/27.5,1
+emotorad,t-rex air,https://www.zigwheels.com/emotorad-bikes/t-rex,29,https://www.zigwheels.com/emotorad-bikes/t-rex/29,1
 emote electric,surge,https://www.zigwheels.com/emote-electric-bikes/surge,std,https://www.zigwheels.com/emote-electric-bikes/surge/std,1
+elecson,zx,https://www.zigwheels.com/elecson-bikes/zx,std,https://www.zigwheels.com/elecson-bikes/zx/std,1
+elecson,ultra pro,https://www.zigwheels.com/elecson-bikes/ultra-pro,5.5 ah,https://www.zigwheels.com/elecson-bikes/ultra-pro/5.5-ah,1
+elecson,ultra pro,https://www.zigwheels.com/elecson-bikes/ultra-pro,7.5 ah,https://www.zigwheels.com/elecson-bikes/ultra-pro/7.5-ah,1
+elecson,ultra pro,https://www.zigwheels.com/elecson-bikes/ultra-pro,10 ah,https://www.zigwheels.com/elecson-bikes/ultra-pro/10-ah,1
+elecson,alpha,https://www.zigwheels.com/elecson-bikes/alpha,10.4 ah,https://www.zigwheels.com/elecson-bikes/alpha/10.4-ah,1
+elecson,alpha,https://www.zigwheels.com/elecson-bikes/alpha,7.8 ah,https://www.zigwheels.com/elecson-bikes/alpha/7.8-ah,1
+elecson,alpha,https://www.zigwheels.com/elecson-bikes/alpha,13 ah,https://www.zigwheels.com/elecson-bikes/alpha/13-ah,1
 elecson,ladybird,https://www.zigwheels.com/elecson-bikes/ladybird,5.2 ah,https://www.zigwheels.com/elecson-bikes/ladybird/5.2ah,1
 elecson,eco,https://www.zigwheels.com/elecson-bikes/eco,10 ah,https://www.zigwheels.com/elecson-bikes/eco/10ah,1
 elecson,folding,https://www.zigwheels.com/elecson-bikes/folding,5.5 ah,https://www.zigwheels.com/elecson-bikes/folding/5.5ah,1
@@ -1501,8 +1544,8 @@ eeve,tesoro,https://www.zigwheels.com/eeve-bikes/tesoro,std,https://www.zigwheel
 eeve,wind,https://www.zigwheels.com/eeve-bikes/wind,std,https://www.zigwheels.com/eeve-bikes/wind/std,1
 eeve,xeniaa,https://www.zigwheels.com/eeve-bikes/xeniaa,std,https://www.zigwheels.com/eeve-bikes/xeniaa/std,1
 eeve,xeniaa,https://www.zigwheels.com/eeve-bikes/xeniaa,2.0,https://www.zigwheels.com/eeve-bikes/xeniaa/2.0,1
-eblu,feo,https://www.zigwheels.com/eblu-bikes/feo,z,https://www.zigwheels.com/eblu-bikes/feo/z,1
 eblu,feo,https://www.zigwheels.com/eblu-bikes/feo,dx,https://www.zigwheels.com/eblu-bikes/feo/dx,1
+eblu,feo,https://www.zigwheels.com/eblu-bikes/feo,z,https://www.zigwheels.com/eblu-bikes/feo/z,1
 eblu,feo,https://www.zigwheels.com/eblu-bikes/feo,std,https://www.zigwheels.com/eblu-bikes/feo/std,1
 eblu,feo,https://www.zigwheels.com/eblu-bikes/feo,x,https://www.zigwheels.com/eblu-bikes/feo/x,1
 eblu,feo z,https://www.zigwheels.com/eblu-bikes/feo-z,std,https://www.zigwheels.com/eblu-bikes/feo-z/std,1
@@ -1546,10 +1589,10 @@ bsa,gold star,https://www.zigwheels.com/bsa-bikes/gold-star,shadow black,https:/
 bsa,gold star,https://www.zigwheels.com/bsa-bikes/gold-star,legacy edition - sheen silver,https://www.zigwheels.com/bsa-bikes/gold-star/legacy-edition-sheen-silver,1
 bsa,b65 scrambler,https://www.zigwheels.com/bsa-bikes/b65-scrambler,std,https://www.zigwheels.com/bsa-bikes/b65-scrambler/std,1
 bsa,electric bike,https://www.zigwheels.com/bsa-bikes/electric-bikee,std,https://www.zigwheels.com/bsa-bikes/electric-bikee/std,1
-brixton motorcycles,crossfire 500,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500,x,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500/x,1
-brixton motorcycles,crossfire 500,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500,xc,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500/xc,1
 brixton motorcycles,cromwell 1200,https://www.zigwheels.com/brixton-motorcycles-bikes/cromwell-1200,std,https://www.zigwheels.com/brixton-motorcycles-bikes/cromwell-1200/std,1
 brixton motorcycles,cromwell 1200,https://www.zigwheels.com/brixton-motorcycles-bikes/cromwell-1200,x,https://www.zigwheels.com/brixton-motorcycles-bikes/cromwell-1200/x,1
+brixton motorcycles,crossfire 500,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500,x,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500/x,1
+brixton motorcycles,crossfire 500,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500,xc,https://www.zigwheels.com/brixton-motorcycles-bikes/crossfire-500/xc,1
 bounce,infinity e.1,https://www.zigwheels.com/bounce-bikes/e-scooter,x,https://www.zigwheels.com/bounce-bikes/e-scooter/x,1
 bounce,infinity e.1,https://www.zigwheels.com/bounce-bikes/e-scooter,+,https://www.zigwheels.com/bounce-bikes/e-scooter/std,1
 bounce,infinity e.1,https://www.zigwheels.com/bounce-bikes/e-scooter,std,https://www.zigwheels.com/bounce-bikes/e-scooter/std,1
@@ -1564,6 +1607,7 @@ battre electric mobility,loev,https://www.zigwheels.com/battre-electric-mobility
 battre electric mobility,loev,https://www.zigwheels.com/battre-electric-mobility-bikes/loev,1.7 kwh,https://www.zigwheels.com/battre-electric-mobility-bikes/loev/1.7-kwh,1
 battre electric mobility,loev,https://www.zigwheels.com/battre-electric-mobility-bikes/loev,2.5 kwh,https://www.zigwheels.com/battre-electric-mobility-bikes/loev/2.5-kwh,1
 battre electric mobility,loev,https://www.zigwheels.com/battre-electric-mobility-bikes/loev,3.1 kwh,https://www.zigwheels.com/battre-electric-mobility-bikes/loev/3.1-kwh,1
+battre electric mobility,loev+,https://www.zigwheels.com/battre-electric-mobility-bikes/loevplus,std,https://www.zigwheels.com/battre-electric-mobility-bikes/loevplus/std,1
 battre electric mobility,one,https://www.zigwheels.com/battre-electric-mobility-bikes/one,1.2 kwh,https://www.zigwheels.com/battre-electric-mobility-bikes/one/std,1
 battre electric mobility,one,https://www.zigwheels.com/battre-electric-mobility-bikes/one,1.4 kwh,https://www.zigwheels.com/battre-electric-mobility-bikes/one/1.4-kwh,1
 battre electric mobility,one,https://www.zigwheels.com/battre-electric-mobility-bikes/one,1.7 kwh,https://www.zigwheels.com/battre-electric-mobility-bikes/one/1.7-kwh,1
